@@ -1,15 +1,18 @@
-%h2= result
+%h2= area
 %table.table
   %thead
     %tr
       %th ISP
       %th Game-Ping
   %tbody
-    %tr
-      %td PLDT
-      %td
-        %ul
-          %li Starcraft 2 - 100ms
-          %li Dota - 200ms
-          %li League - 80ms
+    - isps.each do |isp|
+      %tr
+        %td= isp
+        %td
+          %ul
+            - games.each do |game|
+              %li
+                = game
+                = "#{': 100ms'}"
+
 %hr

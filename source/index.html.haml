@@ -1,2 +1,6 @@
-- ['Manila', 'Ortigas', 'Pasig'].each do |result|
-  = partial '_result', locals: { result: result }
+- isps = ['pldt', 'globe', 'bayantel']
+- games = ['starcraft', 'dota', 'league']
+- areas = ['Pasig', 'Manila', 'Pasig-Ortigas']
+
+- areas.each do |area|
+  = partial '_result', locals: { area: area, games: games, isps: isps }
