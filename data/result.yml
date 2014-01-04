@@ -1,0 +1,14 @@
+pasig:
+  diablo:
+    pldt: 300ms
+    globe: 200ms
+    bayantel: 50ms
+
+ortigas:
+  diablo:
+    pldt: 300ms
+    globe: 200ms
+
+metro manila:
+  diablo:
+    pldt: 30ms

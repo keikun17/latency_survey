@@ -1,6 +1,4 @@
-- isps = ['pldt', 'globe', 'bayantel']
-- games = ['starcraft', 'dota', 'league']
-- areas = ['Pasig', 'Manila', 'Pasig-Ortigas']
-
-- areas.each do |area|
-  = partial '_result', locals: { area: area, games: games, isps: isps }
+- data.result.each do |area,val|
+  .row
+    = partial '_result', locals: { area: area, result: val }
+  %hr

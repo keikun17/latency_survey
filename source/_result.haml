@@ -1,18 +1,20 @@
-%h2= area
-%table.table
-  %thead
-    %tr
-      %th ISP
-      %th Game-Ping
-  %tbody
-    - isps.each do |isp|
-      %tr
-        %td= isp
-        %td
-          %ul
-            - games.each do |game|
-              %li
-                = game
-                = "#{': 100ms'}"
+%h2= area.titleize
+
+- result.each do |title, isps |
+
+  .col-lg-3
+    %h2= title
+
+  .col-lg-9
+    %table.table
+      %thead
+        %tr
+          %th ISP
+          %th Ping
+      %tbody
+        - isps.each do |name, ping|
+          %tr
+            %td= name
+            %td= ping
 
 %hr
