@@ -1,5 +1,16 @@
 pasig:
+
   diablo:
+    pldt: 300ms
+    globe: 200ms
+    bayantel: 50ms
+
+  starcraft:
+    pldt: 300ms
+    globe: 200ms
+    bayantel: 50ms
+
+  dota:
     pldt: 300ms
     globe: 200ms
     bayantel: 50ms

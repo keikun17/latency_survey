@@ -6,6 +6,8 @@
         %li= link_to area.titleize, "##{snakecase(area)}"
 .row
   .col-lg-9.col-lg-offset-3
+    %h1 Working Title
+    %hr
     - data.result.each do |area,val|
       = partial '_result', locals: { area: area, result: val }
       %hr
