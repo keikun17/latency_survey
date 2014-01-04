@@ -1,4 +1,11 @@
-- data.result.each do |area,val|
-  .row
-    = partial '_result', locals: { area: area, result: val }
-  %hr
+.row
+  .col-lg-2{data: {spy: 'affix'}}
+    %h3 Areas
+    %ul.nav.nav-stacked
+      - data.result.keys.each do |area|
+        %li= link_to area.titleize, "##{snakecase(area)}"
+.row
+  .col-lg-9.col-lg-offset-3
+    - data.result.each do |area,val|
+      = partial '_result', locals: { area: area, result: val }
+      %hr
