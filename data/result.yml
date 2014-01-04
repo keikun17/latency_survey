@@ -9,6 +9,17 @@ ortigas:
     pldt: 300ms
     globe: 200ms
 
+makati:
+  diablo:
+    pldt: 300ms
+    globe: 200ms
+
 metro manila:
   diablo:
     pldt: 30ms
+
+quezon city:
+  diablo:
+    pldt: 300ms
+    globe: 200ms
+
