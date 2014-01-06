@@ -43,6 +43,16 @@ helpers do
   def snakecase(str='')
     str.downcase.gsub(' ','_')
   end
+
+  def ping_class(ping)
+    if ping > 200
+      'danger'
+    elsif ping > 100
+      'warning'
+    else
+      'success'
+    end
+  end
 end
 
 set :css_dir, 'stylesheets'

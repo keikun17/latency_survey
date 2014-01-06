@@ -1,36 +1,36 @@
 pasig:
 
   diablo:
-    pldt: 300ms
-    globe: 200ms
-    bayantel: 50ms
+    pldt: 300
+    globe: 200
+    bayantel: 50
 
   starcraft:
-    pldt: 300ms
-    globe: 200ms
-    bayantel: 50ms
+    pldt: 300
+    globe: 200
+    bayantel: 50
 
   dota:
-    pldt: 300ms
-    globe: 200ms
-    bayantel: 50ms
+    pldt: 300
+    globe: 200
+    bayantel: 50
 
 ortigas:
   diablo:
-    pldt: 300ms
-    globe: 200ms
+    pldt: 300
+    globe: 200
 
 makati:
   diablo:
-    pldt: 300ms
-    globe: 200ms
+    pldt: 300
+    globe: 200
 
 metro manila:
   diablo:
-    pldt: 30ms
+    pldt: 30
 
 quezon city:
   diablo:
-    pldt: 300ms
-    globe: 200ms
+    pldt: 300
+    globe: 200
 

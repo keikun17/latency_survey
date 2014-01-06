@@ -14,7 +14,7 @@
             %th Ping
         %tbody
           - isps.each do |name, ping|
-            %tr
+            %tr{class: ping_class(ping)}
               %td= name.titleize
               %td= ping
 
