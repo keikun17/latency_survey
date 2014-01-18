@@ -4,6 +4,8 @@ source 'http://rubygems.org'
 
 gem "middleman", "~>3.2.0"
 gem "middleman-gh-pages"
+gem "middleman-pry"
+gem "awesome_print"
 
 gem "haml"
 
