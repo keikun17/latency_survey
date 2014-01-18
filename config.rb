@@ -1,3 +1,5 @@
+require 'modules/result.rb'
+
 ###
 # Compass
 ###
