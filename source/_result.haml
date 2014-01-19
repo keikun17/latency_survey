@@ -1,7 +1,7 @@
-.row{id: snakecase(area)}
-  %h3= area.titleize
+.row{id: snakecase(result.area)}
+  %h3= result.area.titleize
 
-  - result.each do |title, isps |
+  - result.games.each do |title|
 
     .col-lg-2
       %h4= title.titleize

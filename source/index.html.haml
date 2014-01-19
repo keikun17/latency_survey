@@ -2,12 +2,13 @@
   .col-lg-2{data: {spy: 'affix'}}
     %h3 Areas
     %ul.nav.nav-stacked
-      - data.result.keys.each do |area|
-        %li= link_to area.titleize, "##{snakecase(area)}"
+      - Result.cached_data(data).each do |result|
+        %li= link_to result.area, "##{snakecase(result.area)}"
+
 .row
   .col-lg-9.col-lg-offset-3
     %h1 Online Games Latency Report (PH)
     %hr
-    - data.result.each do |area,val|
-      = partial '_result', locals: { area: area, result: val }
+    - Result.cached_data(data).each do |result|
+      = partial '_result', locals: { result: result }
       %hr
