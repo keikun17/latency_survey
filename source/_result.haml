@@ -13,8 +13,8 @@
             %th ISP
             %th Ping
         %tbody
-          - isps.each do |name, ping|
-            %tr{class: ping_class(ping)}
+          - result.game_latencies["diablo"].each do |name, ping|
+            %tr{class: ping_class(average(ping))}
               %td= name.titleize
-              %td= ping
+              %td= average(ping)
 

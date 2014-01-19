@@ -42,6 +42,15 @@ require 'modules/result.rb'
 
 # Methods defined in the helpers block are available in templates
 helpers do
+  def average(arr)
+    sum = 0
+
+    arr.each do |num|
+      sum += num
+    end
+    sum / arr.size
+  end
+
   def snakecase(str='')
     str.downcase.gsub(' ','_')
   end
