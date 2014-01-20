@@ -1,4 +1,4 @@
-require 'modules/result.rb'
+require 'lib/survey_result.rb'
 
 ###
 # Compass

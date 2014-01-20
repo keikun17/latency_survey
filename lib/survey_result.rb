@@ -1,9 +1,9 @@
-class ::Result
+class ::SurveyResult
 
   def self.cached_data(data)
     @cached_data ||= data.to_h.except('page', 'result').collect do |k,v|
       hash = {"#{k}" => v}
-      Result.new(hash)
+      SurveyResult.new(hash)
     end
   end
 
