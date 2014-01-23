@@ -7,14 +7,41 @@ diablo_us:
 dota2_sea:
   sky:
     - 90
+    - 200
+    - 68
 
 starcraft2_na:
   sky:
     - 250
 
+starcraft2_sea:
+  globe:
+    - 70
+  pldt:
+    - 120
+
+starcraft2_kr:
+  globe:
+    - 70
+
+guildwars2_yaks_bend:
+  globe:
+    - 70
+
 cs_go:
   sky:
     - 70
+
+hon_ph:
+  pldt:
+    - 81
+
+strife_sea:
+  pldt:
+    - 50
+
+
+
 
 
 
