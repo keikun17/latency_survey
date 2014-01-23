@@ -1,0 +1,18 @@
+dota2_sea:
+  pldt:
+    - 150
+    - 400
+
+dota2_cn:
+  pldt:
+    - 350
+    - 600
+
+hon_ph:
+  pldt:
+    - 100
+    - 450
+
+level_up_hosted_gameservers:
+  pldt:
+    - 80

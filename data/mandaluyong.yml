@@ -5,6 +5,10 @@ dota2_sea:
     - 50
     - 120
 
+  sky:
+    - 100
+    - 200
+
 dota_aus:
   globe:
     - 200

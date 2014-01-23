@@ -1,0 +1,33 @@
+mercenary_online:
+  pldt:
+    - 32
+    - 67
+  globe:
+    - 32
+    - 67
+
+ran_online:
+  pldt:
+    - 24
+    - 56
+  globe:
+    - 24
+    - 56
+
+crossfire_ph:
+  pldt:
+    - 42
+    - 67
+  globe:
+    - 42
+    - 67
+
+yulgang_2_sea:
+  pldt:
+    - 32
+    - 70
+  globe:
+    - 32
+    - 70
+
+
