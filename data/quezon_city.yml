@@ -1,27 +1,20 @@
-starcraft:
-  pldt:
-    - 300
+diablo_us:
+  sky:
     - 100
-    - 50
-  globe:
-    - 300
-    - 100
-    - 50
-dota_sea:
-  pldt:
-    - 300
-    - 100
-    - 50
-  globe:
-    - 300
-    - 100
-    - 50
-diablo:
-  pldt:
-    - 300
-    - 100
-    - 50
-  globe:
-    - 300
-    - 100
-    - 50
+  bayantel:
+    - 280
+
+dota2_sea:
+  sky:
+    - 90
+
+starcraft2_na:
+  sky:
+    - 250
+
+cs_go:
+  sky:
+    - 70
+
+
+

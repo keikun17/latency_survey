@@ -1,0 +1,10 @@
+dota2_sea:
+  globe:
+    - 130
+    - 70
+    - 50
+    - 120
+
+dota_aus:
+  globe:
+    - 200 

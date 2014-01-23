@@ -1,0 +1,13 @@
+dota_sea:
+  pldt:
+    - 200
+
+starcraft_sea:
+  pldt:
+    - 100
+
+cs_go:
+  pldt:
+    - 80
+    - 200
+
