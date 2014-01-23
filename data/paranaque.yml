@@ -1,0 +1,19 @@
+dota2_sea:
+  smart_broadband:
+    - 110
+
+wow_us_west:
+  smart_broadband:
+    - 220
+
+flyff:
+  smart_broadbannd:
+    - 150
+
+cs_go_sea:
+  smart_broadband:
+    - 85
+
+lol_sea:
+  smart_broadband:
+    - 70 
