@@ -10,11 +10,11 @@
       %table.table
         %thead
           %tr
-            %th ISP
-            %th Ping
+            %th.col-lg-6 ISP
+            %th.col-lg-6 Ping
         %tbody
-          - result.game_latencies["diablo"].each do |name, ping|
+          - result.game_latencies[title].each do |name, ping|
             %tr{class: ping_class(average(ping))}
-              %td= name.titleize
-              %td= average(ping)
+              %td.col-lg-6= name.titleize
+              %td.col-lg-6= average(ping)
 
