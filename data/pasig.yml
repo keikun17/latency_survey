@@ -1,3 +1,10 @@
+dota2_sea:
+  pldt:
+    - 90
+    - 350
+  bayantel:
+    - 70
+
 diablo:
   pldt:
     - 300
@@ -7,3 +14,13 @@ diablo:
     - 300
     - 100
     - 50
+
+starcraft2_sea:
+  pldt:
+    - 150
+    - 200
+
+starcraft2_na:
+  pldt:
+    - 200
+    - 300

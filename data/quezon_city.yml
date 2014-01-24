@@ -9,6 +9,16 @@ dota2_sea:
     - 90
     - 200
     - 68
+  pldt:
+    - 66
+
+dota2_us:
+  pldt:
+    - 519
+
+dota2_aus:
+  pldt:
+    - 211
 
 starcraft2_na:
   sky:

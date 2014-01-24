@@ -1,3 +1,7 @@
+cs_go:
+  - 40
+  - 180
+
 lol_ph:
   digitel:
     - 31
@@ -17,3 +21,13 @@ dragons_nest_sea:
 starcraft2_sea:
   digitel:
     - 150
+  pldt:
+    - 100
+
+starcraft2_kr:
+  pldt:
+    - 100
+
+starcraft2_na:
+  pldt:
+    - 100
