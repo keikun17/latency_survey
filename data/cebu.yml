@@ -2,3 +2,19 @@ diablo3_us:
   globe:
     - 150
 
+starcraft2_kr:
+  globe:
+    - 90
+    - 150
+starcraft2_sea:
+  globe:
+    - 70
+    - 120
+starcraft2_eu:
+  globe:
+    - 200
+    - 250
+starcraft2_na:
+  globe:
+    - 180
+    - 280

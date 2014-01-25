@@ -45,6 +45,11 @@ helpers do
   def average(arr)
     sum = 0
 
+    if arr.nil?
+      puts caller.inspect
+      return 0
+    end
+
     arr.each do |num|
       sum += num
     end

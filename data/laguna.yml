@@ -1,6 +1,12 @@
+dota2_sea:
+  pldt:
+    - 80
+    - 180
+
 cs_go:
-  - 40
-  - 180
+  pldt:
+    - 40
+    - 180
 
 lol_ph:
   digitel:
