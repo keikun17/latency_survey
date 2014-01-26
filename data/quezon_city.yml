@@ -1,8 +1,24 @@
+company_of_heroes:
+  sky:
+    - 450
+    
+crossfire_ph:
+  globe:
+    - 35
+    - 50
+
+crossfire_sea:
+  globe:
+    - 80
+    - 150
+
 diablo_us:
   sky:
     - 100
   bayantel:
     - 280
+    - 190
+    - 210
 
 dota2_sea:
   sky:
@@ -11,6 +27,9 @@ dota2_sea:
     - 68
   pldt:
     - 66
+  globe:
+    - 80
+    - 120
 
 dota2_us:
   pldt:
