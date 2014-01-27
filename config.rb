@@ -60,6 +60,16 @@ helpers do
     str.downcase.gsub(' ','_')
   end
 
+  def lowest(arr)
+    arr.sort
+    arr.first
+  end
+
+  def highest(arr)
+    arr.sort.last
+  end
+
+
   def ping_class(ping)
     if ping > 200
       'danger'

@@ -10,11 +10,17 @@
       %table.table
         %thead
           %tr
-            %th.col-lg-6 ISP
-            %th.col-lg-6 Ping
+            %th.col-lg-3 ISP
+            %th.col-lg-3 Ping
+            %th.col-lg-3 Low
+            %th.col-lg-3 High
+
         %tbody
           - result.game_latencies[title].each do |name, ping|
             %tr{class: ping_class(average(ping))}
-              %td.col-lg-6= name.titleize
-              %td.col-lg-6= average(ping)
+              %td.col-lg-3= name.titleize
+              %td.col-lg-3= average(ping)
+              %td.col-lg-3= lowest(ping)
+              %td.col-lg-6= highest(ping)
+
 
