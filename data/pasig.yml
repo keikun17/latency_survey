@@ -51,6 +51,14 @@ league_of_legends_sea_servers:
   pldt:
     - 20
 
+mechwarrior_online:
+  pldt:
+    - 320
+    - 382
+  globe:
+    - 281
+    - 342
+
 red_orchestra_us:
   pldt:
     - 180
@@ -71,3 +79,10 @@ war_thunder:
     - 280
     - 360
 
+world_of_warcraft_us:
+  pldt:
+    - 212
+    - 540
+  globe:
+    - 220
+    - 333
