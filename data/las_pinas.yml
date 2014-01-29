@@ -6,4 +6,7 @@ dota2_sea:
   pldt:
     - 80
     - 200
+  globe:
+    - 99
+
 
