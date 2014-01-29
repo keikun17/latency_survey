@@ -8,6 +8,11 @@ battlefield3_asia_servers:
     - 62
     - 150
 
+battlefield3_us_servers:
+  pldt:
+    - 200
+    - 400
+
 battlefield4_sea_servers:
   bayantel:
     - 30
@@ -65,6 +70,7 @@ dota2_sea:
     - 60
     - 90
     - 200
+    - 25
 
   sky:
     - 90
@@ -72,6 +78,8 @@ dota2_sea:
     - 68
   pldt:
     - 66
+    - 250
+    - 300
   globe:
     - 80
     - 120
@@ -86,21 +94,29 @@ dota2_aus:
   pldt:
     - 211
 
-final_fantasy_iv_jp:
   bayantel:
     - 91
     - 3000
+
+final_fantasy_14_jp:
+  globe:
+    - 80
 
 league_of_legends_sea:
   bayantel:
     - 40
     - 49
     - 50
+  pldt:
+    - 32
+    - 19
 
 league_of_legends_na:
   bayantel:
     - 100
     - 1000
+    - 200
+    - 215
 
 starcraft2_na:
   sky:

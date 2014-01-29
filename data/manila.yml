@@ -1,9 +1,25 @@
+battlefield4_i3d_servers:
+  pldt:
+    - 70
+
+battlefield4_hk_asia_servers:
+  pldt:
+    - 50
+
+battlefield4_hk_au_servers:
+  pldt:
+    - 100
+
 champions_online:
   pldt:
     - 180
     - 300
 
 counter_strike:
+  pldt:
+    - 150
+
+crysis_us_servers:
   pldt:
     - 150
 

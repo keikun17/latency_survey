@@ -1,9 +1,20 @@
+arma3_us:
+  pldt:
+    - 160
+    - 200
+
+battlefield4_jp_servers:
+  pldt:
+    - 30
+
 counterstrike_go_sea_servers:
   globe:
     - 80
     - 120
   pldt:
     - 60
+    - 70
+    - 80
 
 dota2_sea:
   globe:
@@ -39,6 +50,11 @@ league_of_legends_sea_servers:
   pldt:
     - 20
 
+red_orchestra_us:
+  pldt:
+    - 180
+    - 220
+
 starcraft2_sea:
   pldt:
     - 150
@@ -48,3 +64,9 @@ starcraft2_na:
   pldt:
     - 200
     - 300
+
+war_thunder:
+  pldt:
+    - 280
+    - 360
+

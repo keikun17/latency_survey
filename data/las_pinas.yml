@@ -1,3 +1,7 @@
+assaultfire_ph:
+  pldt:
+    - 56
+
 battlefield3_asia_servers:
   pldt:
     - 300
@@ -15,6 +19,8 @@ dota2_sea:
     - 80
     - 200
     - 170
+    - 180
+    - 300
   globe:
     - 99
 

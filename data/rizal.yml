@@ -26,6 +26,10 @@ cs_go:
 dota2_sea:
   globe:
     - 100
+  pldt:
+    - 100
+    - 160
+    - 2000
 
 guildwars2:
   pldt:
@@ -39,3 +43,9 @@ mechwarrior_online:
 world_of_tanks_sg:
   globe:
     - 88
+
+world_of_warcraft_us:
+  pldt:
+    - 230
+    - 5000
+

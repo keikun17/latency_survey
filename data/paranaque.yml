@@ -11,8 +11,13 @@ dota2_sea:
   pldt:
     - 60
     - 160
+    - 80
   smart_broadband:
     - 110
+
+dota2_us:
+  pldt:
+    - 170
 
 wow_us_west:
   smart_broadband:
