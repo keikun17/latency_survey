@@ -2,3 +2,8 @@ battlefield4_sea_servers:
   pldt:
     - 180
     - 250
+
+teamfortress2_xjh_servers:
+  pldt:
+    - 12
+    - 30

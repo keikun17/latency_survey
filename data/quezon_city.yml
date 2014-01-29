@@ -1,3 +1,7 @@
+archblade_na:
+  bayantel:
+    - 200
+    - 1000
 battlefield4_sea_servers:
   bayantel:
     - 30
@@ -41,6 +45,8 @@ diablo_us:
     - 280
     - 190
     - 210
+    - 500
+    - 2000
 
 dota2_aus:
   bayantel:
@@ -65,16 +71,28 @@ dota2_sea:
 dota2_us:
   pldt:
     - 519
+    - 100
+    - 1000
 
 dota2_aus:
   pldt:
     - 211
+
+final_fantasy_iv_jp:
+  bayantel:
+    - 91
+    - 3000
 
 league_of_legends_sea:
   bayantel:
     - 40
     - 49
     - 50
+
+league_of_legends_na:
+  bayantel:
+    - 100
+    - 1000
 
 starcraft2_na:
   sky:
@@ -111,7 +129,10 @@ strife_sea:
   pldt:
     - 50
 
-
+world_of_warcraft_us:
+  bayantel:
+    - 200
+    - 1000
 
 
 

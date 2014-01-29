@@ -13,3 +13,12 @@ dota2_sea:
 dota_aus:
   globe:
     - 200
+
+mechwarrior_online:
+  pldt:
+    - 500
+
+teamfortress2_asia_servers:
+  pldt:
+    - 50
+    - 150

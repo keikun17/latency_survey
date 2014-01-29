@@ -1,5 +1,10 @@
 battlefield4_i3d_servers:
   pldt:
+    - 50
+    - 90
+
+battlefield4_i3d_servers:
+  pldt:
     - 200
 
 dota2_sea:
