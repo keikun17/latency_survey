@@ -1,10 +1,11 @@
+battlefield4_sea_servers:
+  pldt:
+    - 170
+
 battlefield4_i3d_servers:
   pldt:
     - 50
     - 90
-
-battlefield4_i3d_servers:
-  pldt:
     - 200
 
 call_of_duty:
@@ -58,4 +59,3 @@ world_of_warcraft_us:
   pldt:
     - 200
     - 450
-

@@ -1,8 +1,26 @@
+diablo:
+  globe:
+    - 256
+
+dota2_sea_servers:
+  globe:
+    - 100
+    - 150
+    - 90
+
+league_of_legends_na:
+  globe:
+    - 180
+    - 300
+
+league_of_legends_sea_servers:
+  globe:
+    - 50
+    - 100
+
 world_of_warcraft_us:
   globe:
     - 172
     - 181
 
-diablo:
-  globe:
-    - 256
+

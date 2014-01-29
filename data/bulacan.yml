@@ -2,7 +2,15 @@ dota2_sea:
   globe:
     - 200
 
+dragons_nest_sea_servers:
+  bayantel:
+    - 30
+
 league_of_legends:
   globe:
     - 60
     - 80
+
+phantasy_star_online:
+  bayantel:
+    - 30
