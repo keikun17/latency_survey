@@ -85,6 +85,9 @@ dota2_sea:
     - 120
 
 dota2_us:
+  bayantel:
+    - 200
+    - 3000
   pldt:
     - 519
     - 100
@@ -99,6 +102,9 @@ dota2_aus:
     - 3000
 
 final_fantasy_14_jp:
+  bayantel:
+    - 91
+    - 3000
   globe:
     - 80
 
@@ -107,6 +113,7 @@ league_of_legends_sea:
     - 40
     - 49
     - 50
+    - 13
   pldt:
     - 32
     - 19
@@ -117,12 +124,18 @@ league_of_legends_na:
     - 1000
     - 200
     - 215
+    - 300
+    - 2000
 
 starcraft2_na:
+  bayantel:
+    - 287
   sky:
     - 250
 
 starcraft2_sea:
+  bayantel:
+    - 64
   globe:
     - 70
   pldt:
@@ -131,6 +144,8 @@ starcraft2_sea:
 starcraft2_kr:
   globe:
     - 70
+  bayantel:
+    - 100
 
 guildwars2:
   globe:
@@ -161,6 +176,8 @@ world_of_warcraft_us:
   bayantel:
     - 200
     - 1000
+    - 200
+    - 3000
 
 
 

@@ -3,6 +3,10 @@ battlefield4_asia_servers:
     - 300
     - 300
 
+diablo3_us:
+  pldt:
+    - 100
+
 dota2_sea:
   pldt:
     - 180

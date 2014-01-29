@@ -14,6 +14,13 @@ counterstrike_go_sea_servers:
     - 35
     - 50
 
+diablo3_us:
+  globe:
+    - 2100
+    - 2400
+    - 100
+    - 400
+
 dota2_sea:
   pldt:
     - 80

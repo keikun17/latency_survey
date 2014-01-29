@@ -39,13 +39,12 @@ diablo:
     - 50
 
 final_fantasy_14_na:
+  sky_broadband:
+    - 180
   pldt:
     - 78
-    - 300
-
-final_fantasy_14_na:
-  pldt:
     - 276
+    - 300
     - 300
 
 league_of_legends_sea_servers:
