@@ -1,26 +1,30 @@
 .row{id: snakecase(result.area)}
   %h3= result.area.titleize
 
-  - result.games.each do |title|
-
-    .col-lg-2
-      %h4= title.titleize
-
-    .col-lg-10
-      %table.table
-        %thead
-          %tr
-            %th.col-lg-3 ISP
-            %th.col-lg-3 Ping
-            %th.col-lg-3 Low
-            %th.col-lg-3 High
-
+  .col-lg-10
+    %table.table
+      %thead
+        %tr
+          %th.col-lg-3 Game
+          %th.col-lg-3 ISP
+          %th.col-lg-3 Ping
+          %th.col-lg-3 Low
+          %th.col-lg-3 High
+      - result.games.each do |title|
         %tbody
-          - result.game_latencies[title].each do |name, ping|
-            %tr{class: ping_class(average(ping))}
-              %td.col-lg-3= name.titleize
-              %td.col-lg-3= average(ping)
-              %td.col-lg-3= lowest(ping)
-              %td.col-lg-6= highest(ping)
+          - result.game_latencies[title].take(1).each do |name, ping|
+            %tr
+              %td.col-lg-3{rowspan: result.game_latencies[title].size}= title.titleize
+              %td.col-lg-3{class: ping_class(average(ping))}= name.titleize
+              %td.col-lg-3{class: ping_class(average(ping))}= average(ping)
+              %td.col-lg-3{class: ping_class(average(ping))}= lowest(ping)
+              %td.col-lg-6{class: ping_class(average(ping))}= highest(ping)
+
+          - result.game_latencies[title].drop(1).each do |name, ping|
+            %tr
+              %td.col-lg-3{class: ping_class(average(ping))}= name.titleize
+              %td.col-lg-3{class: ping_class(average(ping))}= average(ping)
+              %td.col-lg-3{class: ping_class(average(ping))}= lowest(ping)
+              %td.col-lg-6{class: ping_class(average(ping))}= highest(ping)
 
 
