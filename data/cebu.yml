@@ -31,6 +31,8 @@ cs_go_jp:
 dota2_sea:
   pldt:
     - 83
+  sky_broadband:
+    - 150
 
 chivalry_medieval_warfare:
   pldt:

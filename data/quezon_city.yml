@@ -20,7 +20,16 @@ diablo_us:
     - 190
     - 210
 
+dota2_aus:
+  bayantel:
+    - 250
+
 dota2_sea:
+  bayantel:
+    - 60
+    - 60
+    - 90
+
   sky:
     - 90
     - 200
@@ -38,6 +47,10 @@ dota2_us:
 dota2_aus:
   pldt:
     - 211
+
+league_of_legends_sea:
+  bayantel:
+    - 40
 
 starcraft2_na:
   sky:

@@ -15,6 +15,9 @@ dota_sea:
     - 80
     - 220
     - 170
+  globe:
+    - 45
+    - 110
 
 lol:
   pldt:
