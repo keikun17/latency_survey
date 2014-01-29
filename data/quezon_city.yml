@@ -2,6 +2,12 @@ archblade_na:
   bayantel:
     - 200
     - 1000
+
+battlefield3_asia_servers:
+  bayantel:
+    - 62
+    - 150
+
 battlefield4_sea_servers:
   bayantel:
     - 30
@@ -54,9 +60,11 @@ dota2_aus:
 
 dota2_sea:
   bayantel:
+    - 62
     - 60
     - 60
     - 90
+    - 200
 
   sky:
     - 90
@@ -128,6 +136,10 @@ rift:
 strife_sea:
   pldt:
     - 50
+
+tera_eu_server:
+  pldt:
+    - 400
 
 world_of_warcraft_us:
   bayantel:

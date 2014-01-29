@@ -1,3 +1,13 @@
+league_of_legends_sea_servers:
+  globe:
+    - 59
+    - 72
+
+dota2_sea:
+  globe:
+    - 100
+    - 200
+
 hon_sea:
   sky:
     - 60

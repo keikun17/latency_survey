@@ -7,6 +7,16 @@ battlefield4_i3d_servers:
   pldt:
     - 200
 
+call_of_duty:
+  pldt:
+    - 300
+    - 450
+
+dawn_of_war_series:
+  pldt:
+    - 150
+    - 450
+
 dota2_sea:
   pldt:
     - 60
@@ -22,10 +32,14 @@ wow_oceanic:
 final_fantasy_iv_jp:
   pldt:
     - 170
+    - 200
+    - 450
 
 final_fantasy_iv_na:
   pldt:
     - 170
+    - 250
+    - 450
 
 tera_jp:
   pldt:
@@ -34,3 +48,14 @@ tera_jp:
 tera_eu:
   pldt:
     - 330
+
+warhammer_age_of_reckoning:
+  pldt:
+    - 200
+    - 500
+
+world_of_warcraft_us:
+  pldt:
+    - 200
+    - 450
+

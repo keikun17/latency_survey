@@ -19,6 +19,11 @@ dota2_brazil:
     - 150
     - 250
 
+guildwars2:
+  bayantel:
+    - 450
+    - 500
+
 urban_terror_us_servers:
   pldt:
     - 150

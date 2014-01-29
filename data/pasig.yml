@@ -6,6 +6,8 @@ counterstrike_go_sea_servers:
     - 60
 
 dota2_sea:
+  globe:
+    - 117
   pldt:
     - 90
     - 350
