@@ -1,3 +1,8 @@
+battlefield3_asian_servers:
+  pldt:
+    - 300
+    - 450
+
 counterstrike_go_sea_servers:
   pldt:
     - 50
@@ -8,5 +13,4 @@ dota2_sea:
     - 200
   globe:
     - 99
-
 

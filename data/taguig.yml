@@ -1,3 +1,15 @@
 final_fantasy_14:
   pldt:
     - 300
+
+starcraft_sea:
+  pldt:
+    - 150
+
+starcraft_na:
+  pldt:
+    - 100
+
+starcraft_eu:
+  pldt:
+    - 100

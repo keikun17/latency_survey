@@ -49,13 +49,19 @@ chivalry_medieval_warfare:
   pldt:
     - 260
 
-l4d_cebu:
-  pldt:
-    - 30
 
 diablo3_us:
   globe:
     - 150
+
+heroes_of_newerth_garena:
+  pldt:
+    - 80
+    - 175
+
+left4dead_cebu:
+  pldt:
+    - 30
 
 starcraft2_kr:
   globe:

@@ -1,3 +1,13 @@
+battlefield3_asia_servers:
+  pldt:
+    - 200
+    - 300
+
+battlefield4_asia_servers:
+  pldt:
+    - 200
+    - 300
+
 dayz_sg:
   pldt:
     - 200

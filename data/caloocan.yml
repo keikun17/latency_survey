@@ -7,7 +7,19 @@ dota2_sea:
   pldt:
     - 180
     - 70
+    - 20 
+    - 150
+
   globe:
     - 130
     - 150
 
+dota2_brazil:
+  pldt:
+    - 150
+    - 250
+
+urban_terror_us_servers:
+  pldt:
+    - 150
+    - 250

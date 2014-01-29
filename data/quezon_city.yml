@@ -73,6 +73,8 @@ dota2_aus:
 league_of_legends_sea:
   bayantel:
     - 40
+    - 49
+    - 50
 
 starcraft2_na:
   sky:
@@ -88,9 +90,10 @@ starcraft2_kr:
   globe:
     - 70
 
-guildwars2_yaks_bend:
+guildwars2:
   globe:
     - 70
+    - 120
 
 cs_go:
   sky:

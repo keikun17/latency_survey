@@ -1,8 +1,16 @@
+battlefield4_asia_servers:
+  pldt:
+    - 200
+    - 300
+
 diablo_na:
   pldt:
     - 193
 
 dota2_sea:
+  pldt:
+    - 60
+    - 160
   smart_broadband:
     - 110
 
@@ -27,7 +35,11 @@ lol_sea:
   smart_broadband:
     - 70
 
+teamfortress2_xjz_servers:
+  pldt:
+    - 15
+
 warframe:
   pldt:
     - 200
-    - 300
+    - 300 
