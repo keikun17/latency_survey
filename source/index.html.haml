@@ -1,11 +1,11 @@
 .row
-  .col-lg-2.fixed
+  .col-md-2.hidden-xs.hidden-sm.fixed
     %h3 Areas
     %ul.nav.nav-stacked{style: "background-color: #FAFAFA"}
       - SurveyResult.cached_data(data).each do |result|
         %li= link_to result.area.titleize, "##{snakecase(result.area)}"
 
-  .col-lg-10.col-lg-offset-3.content
+  .col-md-10.col-md-offset-3.content
     %h1 Online Gaming Latency Report (Philippines)
     .lead
       %p
