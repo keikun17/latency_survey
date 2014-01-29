@@ -1,3 +1,11 @@
+battlefield4_i3d_servers:
+  pldt:
+    - 200
+
+dota2_sea:
+  pldt:
+    - 60
+
 dragons_nest_sg:
   pldt:
     - 90

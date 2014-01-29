@@ -3,10 +3,11 @@ dota2_sea:
     - 80
     - 180
 
-cs_go:
+counterstrike_go_sea_servers:
   pldt:
     - 40
     - 180
+    - 250
 
 lol_ph:
   digitel:

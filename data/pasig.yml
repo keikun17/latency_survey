@@ -1,3 +1,8 @@
+counterstrike_go_sea_servers:
+  globe:
+    - 80
+    - 120
+
 dota2_sea:
   pldt:
     - 90
@@ -15,6 +20,10 @@ diablo:
     - 300
     - 100
     - 50
+
+league_of_legends_sea_servers:
+  pldt:
+    - 20
 
 starcraft2_sea:
   pldt:

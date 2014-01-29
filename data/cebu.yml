@@ -3,6 +3,14 @@ assaultfire_ph:
     - 30
     - 40
 
+battlefield4_cebu:
+  smartbro:
+    - 214
+
+battlefield4_i3d:
+  smartbro:
+    - 198
+
 crossfire_ph:
   globe:
     - 30
@@ -31,6 +39,9 @@ cs_go_jp:
 dota2_sea:
   pldt:
     - 83
+    - 60
+    - 190
+
   sky_broadband:
     - 150
 
@@ -50,15 +61,21 @@ starcraft2_kr:
   globe:
     - 90
     - 150
+
 starcraft2_sea:
   globe:
     - 70
     - 120
+
 starcraft2_eu:
   globe:
     - 200
     - 250
+
 starcraft2_na:
   globe:
     - 180
     - 280
+  pldt:
+    - 220
+    - 300

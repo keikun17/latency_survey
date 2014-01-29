@@ -1,3 +1,16 @@
+assaultfire_ph:
+  smart_broadband:
+    - 40
+
+cs_go_sea:
+  pldt:
+    - 80
+    - 200
+    - 200
+    - 70
+    - 90
+    - 40
+
 dota_sea:
   pldt:
     - 200
@@ -7,9 +20,4 @@ starcraft_sea:
   pldt:
     - 100
 
-cs_go:
-  pldt:
-    - 80
-    - 200
-    - 200
 

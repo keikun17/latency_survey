@@ -5,9 +5,10 @@ dota2_sea:
     - 50
     - 120
 
-  sky:
+  sky_broadband:
     - 100
     - 200
+    - 134
 
 dota_aus:
   globe:

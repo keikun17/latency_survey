@@ -1,6 +1,28 @@
+battlefield4_sea_servers:
+  bayantel:
+    - 30
+    - 150
+    - 28
+    - 31
+    - 56
+    - 62
+  pldt:
+    - 200
+    - 400
+
+battlefield4_us_servers:
+  pldt:
+    - 170
+    - 190
+
 company_of_heroes:
   sky:
     - 450
+
+counter_strike_asia_servers:
+  bayantel:
+    - 60
+    - 100
 
 crossfire_ph:
   globe:

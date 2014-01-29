@@ -1,3 +1,19 @@
+battlefield_ch_servers:
+  globe:
+    - 80
+
+battlefield_kr_servers:
+  globe:
+    - 80
+
+battlefield4_ch_servers:
+  globe:
+    - 80
+
+battlefield4_jp_servers:
+  globe:
+    - 80
+
 chivalry:
   pldt:
     - 250
@@ -11,6 +27,15 @@ dota2_sea:
   globe:
     - 100
 
+guildwars2:
+  pldt:
+    - 200
+    - 240
+
 mechwarrior_online:
   pldt:
     - 2000
+
+world_of_tanks_sg:
+  globe:
+    - 88
