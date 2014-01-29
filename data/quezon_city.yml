@@ -1,7 +1,7 @@
 company_of_heroes:
   sky:
     - 450
-    
+
 crossfire_ph:
   globe:
     - 35
@@ -64,6 +64,10 @@ cs_go:
 hon_ph:
   pldt:
     - 81
+
+rift:
+  bayan_dsl:
+    - 350
 
 strife_sea:
   pldt:

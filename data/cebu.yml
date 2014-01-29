@@ -1,3 +1,33 @@
+assaultfire_ph:
+  globe:
+    - 30
+    - 40
+
+crossfire_ph:
+  globe:
+    - 30
+    - 40
+
+cs_go_hk:
+  globe:
+    - 50
+    - 55
+
+cs_go_sg:
+  globe:
+    - 60
+    - 70
+
+cs_go_malaysia:
+  globe:
+    - 70
+    - 80
+
+cs_go_jp:
+  globe:
+    - 100
+    - 120
+
 dota2_sea:
   pldt:
     - 83

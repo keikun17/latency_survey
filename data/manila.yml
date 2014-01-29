@@ -1,7 +1,20 @@
+champions_online:
+  pldt:
+    - 180
+    - 300
+
+counter_strike:
+  pldt:
+    - 150
+
 dota_sea:
   pldt:
+    - 80
     - 59
     - 250
+    - 80
+    - 220
+    - 170
 
 lol:
   pldt:
@@ -23,6 +36,20 @@ ran_online:
   globe:
     - 24
     - 56
+
+rusty_hearts_us_west:
+  pldt:
+    - 180
+    - 300
+
+rusty_hearts_us_east:
+  pldt:
+    - 200
+    - 350
+
+rusty_hearts_eu:
+  pldt:
+    - 300
 
 crossfire_ph:
   pldt:

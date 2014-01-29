@@ -19,5 +19,15 @@ cs_go_sea:
     - 85
 
 lol_sea:
+  pldt:
+    - 50
+    - 70
+    - 26
+    - 30
   smart_broadband:
-    - 70 
+    - 70
+
+warframe:
+  pldt:
+    - 200
+    - 300

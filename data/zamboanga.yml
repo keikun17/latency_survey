@@ -1,6 +1,7 @@
 dota_sea:
   pldt:
     - 200
+    - 200
 
 starcraft_sea:
   pldt:
@@ -9,5 +10,6 @@ starcraft_sea:
 cs_go:
   pldt:
     - 80
+    - 200
     - 200
 
