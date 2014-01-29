@@ -9,6 +9,8 @@
     %h1 Online Gaming Latency Report (Philippines)
     .lead
       %p
+        Average latency/ping in Online Games reported by gamers in the Philippines.
+      %p
         Contribute to the cause, #{link_to "Fill up this survey", "https://docs.google.com/forms/d/1c-lECY5cFUiAbGuuuECvE5IXFBHA5L5IrSdxSaieLqM/viewform"}.
     %hr
     - SurveyResult.cached_data(data).each do |result|
