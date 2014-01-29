@@ -1,0 +1,32 @@
+counterstrike_go_sea_servers:
+  pldt:
+    - 100
+
+dota2_sea:
+  pldt:
+    - 80
+    - 160
+
+heroes_of_newerth_garena:
+  pldt:
+    - 70
+    - 100
+
+league_of_legends_sea_servers:
+  pldt:
+    - 40
+    - 50
+
+starcraft2_sea:
+  pldt:
+    - 110
+
+starcraft2_na:
+  pldt:
+    - 200
+
+left4dead2:
+  pldt:
+    - 80
+    - 200
+
