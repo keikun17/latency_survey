@@ -5,12 +5,12 @@
     / Always force latest IE rendering engine or request Chrome Frame
     %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
     / Use title if it's in the page YAML frontmatter
-    %title Games, ISP and Latency Chart
+    %title Games, ISP and Latency Chart (Philippines)
     = stylesheet_link_tag "normalize", "all"
     = javascript_include_tag  "all"
   %body{:class => page_classes}
     .container
       = yield
   .text-center
-    Data sourced from 
+    Data sourced from
     = link_to "Latency Survey", "https://docs.google.com/spreadsheet/ccc?key=0Ak3Fj4Wl4MhtdDRTT2xaT2ExcEU2UDVuMXY4dy1HOVE&usp=drive_web#gid=0"
