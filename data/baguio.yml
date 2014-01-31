@@ -1,3 +1,15 @@
+battlefield3_us_servers:
+  globe:
+    - 280
+
+battlefield4_us_servers:
+  globe:
+    - 225
+
+battlefield3_sea_servers:
+  globe:
+    - 90
+
 diablo:
   globe:
     - 256

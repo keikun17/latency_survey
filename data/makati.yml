@@ -7,6 +7,7 @@ battlefield4_i3d_servers:
     - 50
     - 90
     - 200
+    - 80
 
 call_of_duty:
   pldt:
@@ -26,10 +27,6 @@ dragons_nest_sg:
   pldt:
     - 90
 
-wow_oceanic:
-  pldt:
-    - 140
-
 final_fantasy_iv_jp:
   pldt:
     - 170
@@ -41,6 +38,11 @@ final_fantasy_iv_na:
     - 170
     - 250
     - 450
+
+league_of_legends_sea_servers:
+  pldt:
+    - 50
+    - 80
 
 tera_jp:
   pldt:
@@ -54,6 +56,10 @@ warhammer_age_of_reckoning:
   pldt:
     - 200
     - 500
+
+world_of_wearcraft_oceanic:
+  pldt:
+    - 140
 
 world_of_warcraft_us:
   pldt:
