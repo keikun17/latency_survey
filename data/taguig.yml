@@ -1,6 +1,26 @@
+ava_sea_server:
+  pldt:
+    - 40
+    - 50
+
+diablo3_us:
+  pldt:
+    - 200
+    - 230
+
 final_fantasy_14:
   pldt:
     - 300
+
+maple_sea_server:
+  pldt:
+    - 40
+    - 50
+
+ragnarok2_sea:
+  pldt:
+    - 40
+    - 50
 
 starcraft_sea:
   pldt:

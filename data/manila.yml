@@ -1,3 +1,8 @@
+age_of_cavalry_medieval:
+  pldt:
+    - 199
+    - 260
+
 battlefield4_i3d_servers:
   pldt:
     - 70
@@ -20,12 +25,22 @@ counter_strike:
     - 150
     - 60
 
+crossfire_ph:
+  pldt:
+    - 42
+    - 67
+  globe:
+    - 42
+    - 67
+
 crysis_us_servers:
   pldt:
     - 150
 
-dota_sea:
+dota2_sea:
   pldt:
+    - 50
+    - 100
     - 50
     - 80
     - 59
@@ -56,6 +71,11 @@ mercenary_online:
     - 32
     - 67
 
+path_of_exile_us_servers:
+  pldt:
+    - 185
+    - 230
+
 ran_online:
   pldt:
     - 24
@@ -78,13 +98,10 @@ rusty_hearts_eu:
   pldt:
     - 300
 
-crossfire_ph:
+starwars_the_old_republic:
   pldt:
-    - 42
-    - 67
-  globe:
-    - 42
-    - 67
+    - 200
+    - 300
 
 yulgang_2_sea:
   pldt:
