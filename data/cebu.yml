@@ -49,6 +49,8 @@ dota2_sea:
     - 300
   globe:
     - 100
+    - 90
+    - 100
 
   sky_broadband:
     - 150

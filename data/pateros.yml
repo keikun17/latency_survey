@@ -6,3 +6,7 @@ battlefield4_sea_servers:
 battlefield4_sea_servers:
   pldt:
     - 300
+
+league_of_legends_sea_servers:
+  pldt:
+    - 10
