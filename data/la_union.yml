@@ -1,0 +1,9 @@
+dota2_sea_servers:
+  globe:
+    - 80
+    - 200
+teamfortress2_xjz_servers:
+  globe:
+    - 80
+    - 90
+
