@@ -28,6 +28,10 @@ dota2_sea:
     - 170
     - 180
     - 300
+
   globe:
     - 99
 
+world_of_tanks_sea_servers:
+  pldt:
+    - 140
