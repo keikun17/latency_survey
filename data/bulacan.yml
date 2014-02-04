@@ -1,6 +1,11 @@
 dota2_sea:
   globe:
     - 200
+    - 100
+    - 100
+    - 300
+  smart_broadband:
+    - 500
 
 dragons_nest_sea_servers:
   bayantel:

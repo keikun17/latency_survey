@@ -14,6 +14,11 @@ counterstrike_go_sea_servers:
     - 35
     - 50
 
+counterstrike_go_valve_automatch_servers:
+  globe:
+    - 80
+    - 200
+
 diablo3_us:
   globe:
     - 2100

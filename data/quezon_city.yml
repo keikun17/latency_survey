@@ -38,6 +38,8 @@ counter_strike_asia_servers:
   bayantel:
     - 60
     - 100
+    - 60
+    - 69
 
 crossfire_ph:
   globe:
@@ -132,6 +134,10 @@ league_of_legends_na:
     - 2000
   pldt:
     - 10
+
+loadout_oceanic_servers:
+  bayantel:
+    - 190
 
 starcraft2_na:
   bayantel:

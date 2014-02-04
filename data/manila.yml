@@ -37,8 +37,13 @@ crysis_us_servers:
   pldt:
     - 150
 
+diablo3_americas_server:
+  pldt:
+    - 250
+
 dota2_sea:
   pldt:
+    - 150
     - 50
     - 100
     - 100
@@ -52,6 +57,10 @@ dota2_sea:
   globe:
     - 45
     - 110
+
+dota2_us:
+  pldt:
+    - 260
 
 heroes_of_newerth_garena:
   pldt:

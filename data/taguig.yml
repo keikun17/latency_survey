@@ -3,6 +3,10 @@ ava_sea_server:
     - 40
     - 50
 
+dota2_sea:
+  pldt:
+    - 40
+
 diablo3_us:
   pldt:
     - 200
@@ -12,10 +16,26 @@ final_fantasy_14:
   pldt:
     - 300
 
+league_of_legends_sea_servers:
+  pldt:
+    - 9
+league_of_legends_sea_na_servers:
+  pldt:
+    - 100
+    - 180
+
+league_of_legends_sg_servers:
+  pldt:
+    - 40
+
 maple_sea_server:
   pldt:
     - 40
     - 50
+
+perfect_world_eu_servers:
+  pldt:
+    - 400
 
 ragnarok2_sea:
   pldt:
