@@ -14,11 +14,15 @@
             %tr
               %td{rowspan: result.game_latencies[title].size}= title.titleize
               %td{class: ping_class(average(ping))}= name.titleize
-              %td{class: ping_class(average(ping))}= average(ping)
+              %td{class: ping_class(average(ping))}
+                = average(ping)
+                ms
 
           - result.game_latencies[title].drop(1).each do |name, ping|
             %tr
               %td{class: ping_class(average(ping))}= name.titleize
-              %td{class: ping_class(average(ping))}= average(ping)
+              %td{class: ping_class(average(ping))}
+                = average(ping)
+                ms
 
 
