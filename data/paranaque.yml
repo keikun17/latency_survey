@@ -12,6 +12,8 @@ dota2_sea:
     - 60
     - 160
     - 80
+    - 160
+    - 180
   smart_broadband:
     - 110
 

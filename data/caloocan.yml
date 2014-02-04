@@ -12,8 +12,10 @@ dota2_sea:
   pldt:
     - 180
     - 70
-    - 20 
+    - 20
     - 150
+    - 160
+    - 200
 
   globe:
     - 130
@@ -28,6 +30,11 @@ guildwars2:
   bayantel:
     - 450
     - 500
+
+hon_sea_servers:
+  pldt:
+    - 200
+    - 300
 
 urban_terror_us_servers:
   pldt:
