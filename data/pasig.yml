@@ -37,7 +37,7 @@ diablo:
     - 300
     - 100
     - 50
-  smart_3g:
+  smart_broadband:
     - 300
 
 final_fantasy_14_na:
@@ -50,7 +50,7 @@ final_fantasy_14_na:
     - 300
 
 guildwars2_eu:
-  smart_3g:
+  smart_broadband:
     - 300
 
 league_of_legends_sea_servers:

@@ -8,11 +8,11 @@ battlefield4_sea_servers:
     - 80
 
 battlefield4_cebu:
-  smartbro:
+  smart_broadband:
     - 214
 
 battlefield4_i3d:
-  smartbro:
+  smart_broadband:
     - 198
 
 crossfire_ph:
