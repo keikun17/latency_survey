@@ -1,3 +1,7 @@
+assaultfire_ph:
+  sky_broadband:
+    - 54
+
 battlefield4_asia_servers:
   pldt:
     - 300
@@ -21,6 +25,9 @@ dota2_sea:
     - 130
     - 150
 
+  sky_broadband:
+    - 105
+
 dota2_brazil:
   pldt:
     - 150
@@ -35,6 +42,10 @@ hon_sea_servers:
   pldt:
     - 200
     - 300
+
+league_of_legends_sg_servers:
+  sky_broadband:
+    - 90
 
 urban_terror_us_servers:
   pldt:

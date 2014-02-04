@@ -3,6 +3,11 @@ archblade_na:
     - 200
     - 1000
 
+aurakingdom_sea_servers:
+  bayantel:
+    - 200
+    - 400
+
 battlefield3_asia_servers:
   bayantel:
     - 62
@@ -67,6 +72,8 @@ dota2_aus:
 
 dota2_sea:
   bayantel:
+    - 90
+    - 150
     - 62
     - 60
     - 60

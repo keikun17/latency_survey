@@ -6,6 +6,9 @@ dota2_sea:
     - 300
   smart_broadband:
     - 500
+  pldt:
+    - 80
+    - 200
 
 dragons_nest_sea_servers:
   bayantel:
