@@ -33,6 +33,10 @@ cs_go_sea:
   smart_broadband:
     - 85
 
+c9_sea_servers:
+  pldt:
+    - 220
+
 lol_sea:
   pldt:
     - 50
@@ -45,6 +49,11 @@ lol_sea:
 teamfortress2_xjz_servers:
   pldt:
     - 15
+
+tera_eu_servers:
+  pldt:
+    - 350
+
 
 warframe:
   pldt:

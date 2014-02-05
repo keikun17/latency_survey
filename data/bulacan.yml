@@ -4,6 +4,8 @@ dota2_sea:
     - 100
     - 100
     - 300
+    - 250
+    - 1000
   smart_broadband:
     - 500
   pldt:

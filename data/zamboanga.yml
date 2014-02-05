@@ -10,11 +10,15 @@ cs_go_sea:
     - 70
     - 90
     - 40
+  globe:
+    - 160
 
 dota_sea:
   pldt:
     - 200
     - 200
+  globe:
+    - 160
 
 starcraft_sea:
   pldt:
