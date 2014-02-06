@@ -17,6 +17,8 @@ counterstrike_go_sea_servers:
     - 80
 
 dota2_sea:
+  smart_broadband:
+    - 100
   globe:
     - 117
   pldt:

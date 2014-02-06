@@ -1,7 +1,22 @@
+assaultfire_ph:
+  pldt:
+    - 15
+
 battlefield4_asia_servers:
   pldt:
     - 200
     - 300
+
+counterstrike_go_sea_servers:
+  smart_broadband:
+    - 85
+  pldt:
+    - 170
+
+c9_sea_servers:
+  pldt:
+    - 220
+
 
 diablo_na:
   pldt:
@@ -22,20 +37,14 @@ dota2_us:
     - 170
 
 wow_us_west:
+  pldt:
+    - 256
   smart_broadband:
     - 220
 
 flyff:
   smart_broadbannd:
     - 150
-
-cs_go_sea:
-  smart_broadband:
-    - 85
-
-c9_sea_servers:
-  pldt:
-    - 220
 
 lol_sea:
   pldt:

@@ -1,7 +1,12 @@
+counterstrike_go_sea_servers:
+  pldt:
+    - 210
+
 dota2_sea:
   pldt:
     - 150
     - 400
+    - 220
 
 dota2_cn:
   pldt:
