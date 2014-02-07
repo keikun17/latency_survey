@@ -20,6 +20,7 @@ dota2_sea:
     - 150
     - 160
     - 200
+    - 70
 
   globe:
     - 130
@@ -46,6 +47,8 @@ hon_sea_servers:
 league_of_legends_sg_servers:
   sky_broadband:
     - 90
+  pldt:
+    - 80
 
 urban_terror_us_servers:
   pldt:

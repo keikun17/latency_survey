@@ -3,9 +3,11 @@ battlefield4_sea_servers:
     - 180
     - 250
 
-dota2_sea:
+dota2_sea_servers:
   globe:
     - 70
+    - 94
+    - 109
 
 teamfortress2_xjh_servers:
   pldt:

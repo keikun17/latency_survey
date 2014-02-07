@@ -2,6 +2,8 @@ league_of_legends_sea_servers:
   globe:
     - 59
     - 72
+  pldt:
+    - 130
 
 dota2_sea:
   globe:
