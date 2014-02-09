@@ -20,6 +20,8 @@ dota2_sea_servers:
     - 150
     - 90
     - 180
+  pldt:
+    - 110
 
 league_of_legends_na:
   globe:

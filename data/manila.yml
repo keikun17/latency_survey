@@ -1,4 +1,6 @@
 age_of_cavalry_medieval:
+  globe:
+    - 52
   pldt:
     - 199
     - 260
@@ -7,13 +9,19 @@ battlefield4_i3d_servers:
   pldt:
     - 70
 
+  sky_broadband:
+    - 60 
+
 battlefield4_hk_asia_servers:
   pldt:
     - 50
 
-battlefield4_hk_au_servers:
+battlefield4_au_servers:
   pldt:
     - 100
+battlefield4_us_servers:
+  sky_broadband:
+    - 192
 
 champions_online:
   pldt:
@@ -57,6 +65,7 @@ dota2_sea:
   globe:
     - 45
     - 110
+    - 140
 
 dota2_us:
   pldt:
@@ -72,6 +81,10 @@ league_of_legends_sea_servers:
     - 21
     - 190
     - 300
+  globe:
+    - 52
+  sky_broadband:
+    - 14 
 
 mercenary_online:
   pldt:

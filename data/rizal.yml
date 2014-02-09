@@ -33,6 +33,7 @@ dota2_sea_servers:
     - 160
     - 2000
     - 220
+    - 89
 
 guildwars2:
   pldt:

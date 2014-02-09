@@ -14,6 +14,15 @@ dayz_sg:
 
 dota2_sg:
   pldt:
-    - 120 
+    - 120
     - 60
     - 160
+
+league_of_legends_sea_servers:
+  smart_broadband:
+    - 16
+    - 45
+  pldt:
+    - 49
+  globe:
+    - 86

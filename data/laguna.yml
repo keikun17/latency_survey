@@ -13,15 +13,14 @@ counterstrike_go_sea_servers:
     - 180
     - 250
 
-lol_ph:
+league_of_legends_sg_servers:
   digitel:
     - 31
-
-lol_sg:
-  digitel:
     - 50
+  pldt:
+    - 86
 
-lol_na:
+league_of_legends_na_servers:
   digitel:
     - 100
 

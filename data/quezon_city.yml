@@ -57,6 +57,8 @@ crossfire_sea:
     - 150
 
 diablo_us:
+  pldt:
+    - 120
   sky:
     - 100
   bayantel:
@@ -131,6 +133,7 @@ league_of_legends_sea:
     - 32
     - 19
     - 35
+    - 600
 
 league_of_legends_na:
   bayantel:
