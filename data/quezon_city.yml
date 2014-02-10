@@ -84,10 +84,11 @@ dota2_sea:
     - 25
     - 80
 
-  sky:
+  sky_broadband:
     - 90
     - 200
     - 68
+    - 120
   pldt:
     - 66
     - 250

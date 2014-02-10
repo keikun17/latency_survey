@@ -29,6 +29,9 @@ diablo3_americas_server:
 dota2_sea:
   pldt:
     - 60
+  globe:
+    - 78
+    - 103
 
 dragons_nest_sg:
   pldt:
