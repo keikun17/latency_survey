@@ -1,16 +1,19 @@
 class ::SurveyResult
 
   def self.cached_data(data)
-    @cached_data ||= data.to_h.except('page', 'result').collect do |k,v|
+    @cached_data ||= data.locations.collect do |k,v|
       hash = {"#{k}" => v}
       SurveyResult.new(hash)
     end
   end
 
-  def initialize(serialized_object = {})
-    @area = serialized_object.keys.first
-    @game_latencies = serialized_object[@area]
-    @games = serialized_object[@area].keys
+  # Accepts
+  def initialize(serial = {})
+    @area = serial.keys.first
+    @games = serial[@area].keys
+
+    @game_latencies = serial[@area]
+    @area = serial.keys.first
   end
 
   def area

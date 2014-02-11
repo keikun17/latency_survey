@@ -1,28 +1,74 @@
-.row{id: snakecase(result.area)}
-  %h3= result.area.titleize
-
+.row{id: snakecase(location)}
+  %h3= location
   .col-lg-10
     %table.table
       %thead
         %tr
           %th.col-lg-5 Game
-          %th.col-lg-4 ISP
-          %th.col-lg- Average Ping
-      - result.games.each do |title|
-        %tbody
-          - result.game_latencies[title].take(1).each do |name, ping|
-            %tr
-              %td{rowspan: result.game_latencies[title].size}= title.titleize
-              %td{class: ping_class(average(ping))}= name.titleize
-              %td{class: ping_class(average(ping))}
-                = average(ping)
-                ms
+          %th.col-lg-3 ISP
+          %th.col-lg-2 Plan
+          %th.col-lg-2 Average Ping
+        - game_data.each do |game, isp_data|
 
-          - result.game_latencies[title].drop(1).each do |name, ping|
-            %tr
-              %td{class: ping_class(average(ping))}= name.titleize
-              %td{class: ping_class(average(ping))}
-                = average(ping)
-                ms
+          - ctr = 0
+          - ping_count =  game_data.each do |isp,package_data|
+            - package_data.each do |package, pings|
+              - ctr += pings.count
 
+          - isp_data.take(1).each do |isp, package_data|
 
+            - package_data.take(1).each do |package, pings|
+              %tr
+                %td{rowspan: ping_count}= game.titleize
+                %td= isp.titleize
+                %td= package
+                %td{class: ping_class(average(pings))}
+                  = average(pings)
+                  ms
+            - package_data.drop(1).each do |package, pings|
+              %tr
+                %td
+                %td= isp.titleize
+                %td= package
+                %td{class: ping_class(average(pings))}
+                  = average(pings)
+                  ms
+
+          - isp_data.drop(1).each do |isp, package_data|
+            - package_data.each do |package, pings|
+              %tr
+                %td
+                %td= isp.titleize
+                %td= package
+                %td{class: ping_class(average(pings))}
+                  = average(pings)
+                  ms
+
+-# .row{id: snakecase(result.area)}
+-#   %h3= result.area.titleize
+-#
+-#   .col-lg-10
+-#     %table.table
+-#       %thead
+-#         %tr
+-#           %th.col-lg-5 Game
+-#           %th.col-lg-4 ISP
+-#           %th.col-lg-3 Average Ping
+-#       - result.games.each do |title|
+-#         %tbody
+-#           - result.game_latencies[title].take(1).each do |name, ping|
+-#             %tr
+-#               %td{rowspan: result.game_latencies[title].size}= title.titleize
+-#               %td{class: ping_class(average(ping))}= name.titleize
+-#               %td{class: ping_class(average(ping))}
+-#                 = average(ping)
+-#                 ms
+-#
+-#           - result.game_latencies[title].drop(1).each do |name, ping|
+-#             %tr
+-#               %td{class: ping_class(average(ping))}= name.titleize
+-#               %td{class: ping_class(average(ping))}
+-#                 = average(ping)
+-#                 ms
+-#
+-#
