@@ -23,7 +23,3 @@
 
     - data.location_data.each do |location, game_data|
       = partial '_result', locals: { location: location, game_data: game_data}
-
-    -# - SurveyResult.cached_data(data).each do |result|
-    -#   = partial '_result', locals: { result: result }
-    -#   %hr
