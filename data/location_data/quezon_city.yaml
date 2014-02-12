@@ -58,6 +58,11 @@ guildwars2:
       - 50
       - 90
 
+rift:
+  bayantel:
+    1mbps:
+      - 350
+
 starcraft2_us_servers:
   sky_broadband:
     5mbps:

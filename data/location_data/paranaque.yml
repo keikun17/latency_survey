@@ -2,10 +2,23 @@ diablo_us_servers:
   pldt:
     3mbps:
       - 193
+
 dota2_sea_servers:
   smart_broadband:
     2mbps:
       - 100
       - 120
 
+league_of_legends_sea_servers:
+  pldt:
+    3mbps:
+      - 50
+      - 70
+      - 26
+      - 30
 
+warframe:
+  pldt:
+    3mbps:
+      - 200
+      - 300

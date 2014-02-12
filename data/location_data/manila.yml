@@ -1,3 +1,9 @@
+champions_online:
+  pldt:
+    3mbps:
+      - 180
+      - 300
+
 crossfire_sea_servers:
   pldt:
     1mbps:
@@ -10,6 +16,9 @@ dota2_sea_servers:
       - 70
       - 150
   pldt:
+    1mbps:
+      - 100
+      - 200
     3mbps:
       - 59
       - 250
@@ -41,6 +50,19 @@ ran_online:
     1mbps:
       - 24
       - 56
+
+rusty_hearts_us_servers:
+  pldt:
+    1mbps:
+      - 180
+      - 300
+      - 200
+      - 350
+      
+rusty_hearts_eu_servers:
+  pldt:
+    1mbps:
+      - 300
 
 yulgang:
   pldt:
