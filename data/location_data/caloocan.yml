@@ -10,12 +10,21 @@ battlefield4_us_servers:
     10mbps:
       - 200
 
+dota2_us_servers:
+  pldt:
+    3mbps:
+      - 150
+      - 250
+
 dota2_sea_servers:
   pldt:
     1mbps:
       - 180
       - 50
       - 70
+    3mbps:
+      - 20
+      - 150
   globe:
     1mbps:
       - 130

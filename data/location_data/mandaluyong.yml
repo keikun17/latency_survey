@@ -23,4 +23,13 @@ dota2_aus_servers:
       - 180
       - 220
 
+mechwarrior_online:
+  pldt:
+    8mbps:
+      - 500
 
+teamfortress2_sea_servers:
+  pldt:
+    8mbps:
+      - 50
+      - 150

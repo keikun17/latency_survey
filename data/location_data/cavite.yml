@@ -1,3 +1,15 @@
+battlefield3_us_servers:
+  pldt:
+    3mbps:
+      - 200
+      - 300
+
+battlefield4_us_servers:
+  pldt:
+    3mbps:
+      - 200
+      - 300
+
 dayz_sg_servers:
   pldt:
     8mbps:

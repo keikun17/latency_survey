@@ -1,3 +1,9 @@
+battlefield4_asia_servers:
+  globe:
+    3mbps:
+      - 200
+      - 300
+
 battlefield4_i3d_servers:
   pldt:
     3mbps:
