@@ -4,6 +4,11 @@ champions_online:
       - 180
       - 300
 
+counterstrike_go_sea_servers:
+  pldt:
+    3mbps:
+      - 150
+
 crossfire_sea_servers:
   pldt:
     1mbps:
@@ -22,6 +27,10 @@ dota2_sea_servers:
     3mbps:
       - 59
       - 250
+      - 80
+      - 220
+      - 80
+      - 170
 
 heroes_of_newerth_sea_servers:
   pldt:
