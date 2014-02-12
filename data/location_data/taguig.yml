@@ -2,3 +2,19 @@ final_fantasy_14:
   pldt:
     3mbps:
       - 300
+
+starcraft2_na_servers:
+  pldt:
+    6mbps:
+      - 150
+
+starcraft2_eu_servers:
+  pldt:
+    6mbps:
+      - 150
+
+starcraft2_sea_servers:
+  pldt:
+    6mbps:
+      - 100
+      - 150

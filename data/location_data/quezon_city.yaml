@@ -88,11 +88,16 @@ guildwars2:
     3mbps:
       - 50
       - 90
+    5mbps:
+      - 120
 
 league_of_legends_sea_servers:
   pldt:
     1mbps:
       - 49
+  globe:
+    5mbps:
+      - 50
 
 rift:
   bayantel:
