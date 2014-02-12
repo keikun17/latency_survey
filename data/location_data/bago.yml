@@ -1,0 +1,7 @@
+counter_strike_sea_servers:
+  pldt:
+    3mbps:
+      - 150
+      - 250
+      - 60
+      - 80

@@ -1,9 +1,20 @@
+battlefield4_sea_servers:
+  pldt:
+    1.5mbps:
+      - 200
+      - 300
+
 diablo_us_servers:
   pldt:
     3mbps:
       - 193
 
 dota2_sea_servers:
+  pldt:
+    1.5mbps:
+      - 60
+      - 120
+
   smart_broadband:
     2mbps:
       - 100
@@ -16,6 +27,11 @@ league_of_legends_sea_servers:
       - 70
       - 26
       - 30
+
+teamfortress2_xjz_servers:
+  pldt:
+    1.5mbps:
+      - 15
 
 warframe:
   pldt:
