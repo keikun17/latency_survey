@@ -1,3 +1,13 @@
+battlefield4_cebu_servers:
+  smart_broadband:
+    1mbps:
+      - 214
+
+battlefield4_i3d_servers:
+  smart_broadband:
+    1mbps:
+      - 198
+
 chivalry_us_servers:
   pldt:
     2mbps:

@@ -1,3 +1,9 @@
+counterstrike_go_sea_servers:
+  globe:
+    3mbps:
+      - 80
+      - 120
+
 dota2_sea_servers:
   globe:
     3mbps:

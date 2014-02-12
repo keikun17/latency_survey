@@ -7,6 +7,16 @@ battlefield4_sea_servers:
       - 31
       - 56
       - 62
+  pldt:
+    5mbps:
+      - 200
+      - 400
+
+battlefield4_us_servers:
+  pldt:
+    5mbps:
+      - 170
+      - 190
 
 counterstrike_go_sea_servers:
   bayantel:

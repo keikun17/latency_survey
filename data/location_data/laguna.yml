@@ -3,6 +3,8 @@ counter_strike_sea_servers:
     3mbps:
       - 40
       - 180
+    8mbps:
+      - 250
 
 dragons_nest_sea_servers:
   pldt:
