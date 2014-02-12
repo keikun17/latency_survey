@@ -13,3 +13,13 @@ starcraft2_us_servers:
   pldt:
     3mbps:
       - 200
+
+teamfortress2_sea_servers:
+  pldt:
+    1.5mbps:
+      - 58
+
+starcraft2_us_servers:
+  pldt:
+    3mbps:
+      - 200

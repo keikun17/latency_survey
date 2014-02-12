@@ -1,15 +1,50 @@
-dota_2_sea_servers:
+crossfire_sea_servers:
+  pldt:
+    1mbps:
+      - 42
+      - 67
+
+dota2_sea_servers:
   sky_broadband:
     3mbps:
       - 70
       - 150
+  pldt:
+    3mbps:
+      - 59
+      - 250
 
 heroes_of_newerth_sea_servers:
   pldt:
     2mbps:
       - 100
 
+league_of_legends_sea_servers:
+  pldt:
+    3mbps:
+      - 19
+      - 300
+
 guildwars2:
   pldt:
     2mbps:
       - 100
+
+mercenary_online:
+  pldt:
+    1mbps:
+      - 32
+      - 67
+
+ran_online:
+  pldt:
+    1mbps:
+      - 24
+      - 56
+
+yulgang:
+  pldt:
+    1mbps:
+      - 32
+      - 70
+

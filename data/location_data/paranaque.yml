@@ -1,3 +1,7 @@
+diablo_us_servers:
+  pldt:
+    3mbps:
+      - 193
 dota2_sea_servers:
   smart_broadband:
     2mbps:

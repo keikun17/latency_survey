@@ -8,6 +8,12 @@ dota2_sea_servers:
     1mbps:
       - 120
 
+  sky_broadband:
+    10mbps:
+      - 100
+      - 200
+
+
 dota2_aus_servers:
   globe:
     2mbps:

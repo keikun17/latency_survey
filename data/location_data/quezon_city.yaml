@@ -11,6 +11,14 @@ diablo3_us_servers:
   bayantel:
     1.5mbps:
       - 280
+  pldt:
+    5mbps:
+      - 416
+
+dota2_aus_servers:
+  pldt:
+    5mbps:
+      - 211
 
 dota2_sea_servers:
   sky_broadband:
@@ -21,7 +29,22 @@ dota2_sea_servers:
     20mbps_fiber:
       - 200
       - 50
+    5mbps:
+      - 66
 
+dota2_eu_servers:
+  pldt:
+    5mbps:
+      - 276
+      - 274
+      - 240
+      - 487
+
+dota2_us_servers:
+  pldt:
+    5mbps:
+      - 519
+      - 269
 
 guildwars2:
   globe:
