@@ -1,0 +1,6 @@
+dota2_sea_servers:
+  globe:
+    5mbps:
+      - 100
+      - 500
+

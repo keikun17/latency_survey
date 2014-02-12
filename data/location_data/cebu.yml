@@ -3,4 +3,32 @@ diablo_us_servers:
     1mbps:
       - 150
 
+diablo_sea_servers:
+  pldt:
+    3mbps:
+      - 70
+      - 150
 
+starcraft2_sea_servers:
+  pldt:
+    3mbps:
+      - 70
+      - 120
+
+starcraft2_eu_servers:
+  pldt:
+    3mbps:
+      - 200
+      - 250
+
+starcraft2_kr_servers:
+  pldt:
+    3mbps:
+      - 90
+      - 150
+
+starcraft2_us_servers:
+  pldt:
+    3mbps:
+      - 180
+      - 280

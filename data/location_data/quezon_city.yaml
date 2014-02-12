@@ -11,6 +11,9 @@ diablo3_us_servers:
   bayantel:
     1.5mbps:
       - 280
+    5mbps:
+      - 190
+      - 210
   pldt:
     5mbps:
       - 416
@@ -31,6 +34,9 @@ dota2_sea_servers:
       - 50
     5mbps:
       - 66
+    3mbps:
+      - 80
+      - 180
 
 dota2_eu_servers:
   pldt:
