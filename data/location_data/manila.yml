@@ -16,6 +16,10 @@ crossfire_sea_servers:
       - 67
 
 dota2_sea_servers:
+  globe:
+    3mbps:
+      - 45
+      - 110
   sky_broadband:
     3mbps:
       - 70

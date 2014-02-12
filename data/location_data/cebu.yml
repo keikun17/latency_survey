@@ -15,6 +15,9 @@ diablo_sea_servers:
       - 150
 
 dota2_sea_servers:
+  sky_broadband:
+    3mbps:
+      - 150
   pldt:
     2mbps:
       - 83

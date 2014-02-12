@@ -1,5 +1,31 @@
+battlefield4_sea_servers:
+  globe:
+    3mbps:
+      - 90
+      - 130
+
+chivalry_us_servers:
+  pldt:
+    5mbps:
+      - 250
+
+counterstrike_go_sea_servers:
+  pldt:
+    5mbps:
+      - 250
+      - 300
+
 dota2_sea_servers:
   globe:
     2mbps:
       - 100
 
+mechwarrior_online:
+  pldt:
+    5mbps:
+      - 2000
+
+world_of_tanks_sea_servers:
+  globe:
+    3mbps:
+      - 88

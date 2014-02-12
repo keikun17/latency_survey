@@ -1,8 +1,19 @@
+dota2_sea_servers:
+  pldt:
+    10mbps:
+      - 80
+      - 600
+
 league_of_legends_sea_servers:
   pldt:
     3mbps:
       - 25
       - 35
+
+ragnarok2:
+  pldt:
+    10mbps:
+      - 250
 
 starcraft2_sea_servers:
   pldt:

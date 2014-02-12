@@ -1,3 +1,8 @@
+dota2_sea_servers:
+  globe:
+    1mbps:
+      - 200
+
 league_of_legends_sea_servers:
   globe:
     1mbps:
