@@ -1,0 +1,15 @@
+dota_2_sea_servers:
+  sky_broadband:
+    3mbps:
+      - 70
+      - 150
+
+heroes_of_newerth_sea_servers:
+  pldt:
+    2mbps:
+      - 100
+
+guildwars2:
+  pldt:
+    2mbps:
+      - 100

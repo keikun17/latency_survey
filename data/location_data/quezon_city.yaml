@@ -17,6 +17,17 @@ dota2_sea_servers:
     5mbps:
       - 80
       - 100
+  pldt:
+    20mbps_fiber:
+      - 200
+      - 50
+
+
+guildwars2:
+  globe:
+    3mbps:
+      - 50
+      - 90
 
 starcraft2_us_servers:
   sky_broadband:
@@ -24,6 +35,17 @@ starcraft2_us_servers:
       - 200
       - 300
 
+starcraft2_sea_servers:
+  globe:
+    3mbps:
+      - 50
+      - 90
+
+starcraft2_kr_servers:
+  globe:
+    3mbps:
+      - 50
+      - 90
 
 
 

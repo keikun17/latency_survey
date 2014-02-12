@@ -1,0 +1,7 @@
+dota2_sea_servers:
+  smart_broadband:
+    2mbps:
+      - 100
+      - 120
+
+

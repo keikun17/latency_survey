@@ -1,0 +1,27 @@
+dota2_sea_servers:
+  smart_broadband:
+    2mbps:
+      - 100
+      - 120
+
+world_of_warcraft_us_servers:
+  smart_broadband:
+    2mbps:
+      - 220
+
+flyff_international_server:
+  smart_broadband:
+    2mbps:
+      - 150
+
+counter_strike_asia_servers:
+  smart_broadband:
+    2mbps:
+      - 70
+      - 100
+
+league_of_legends_sea_servers:
+  smart_broadband:
+    2mbps:
+      - 60
+      - 80

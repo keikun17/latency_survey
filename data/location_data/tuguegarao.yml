@@ -1,0 +1,15 @@
+league_of_legends_sea_servers:
+  pldt:
+    3mbps:
+      - 25
+      - 35
+
+starcraft2_sea_servers:
+  pldt:
+    3mbps:
+      - 110
+
+starcraft2_us_servers:
+  pldt:
+    3mbps:
+      - 200

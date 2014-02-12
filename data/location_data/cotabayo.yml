@@ -1,0 +1,5 @@
+starcraft2_us_servers:
+  pldt:
+    1mbps:
+      - 500
+
