@@ -1,5 +1,29 @@
+counterstrike_go_sea_servers:
+  sky_broadband:
+    5mbps:
+      - 60
+      - 80
+
 diablo3_us_servers:
   sky_broadband:
     5mbps:
       - 100
+  bayantel:
+    1.5mbps:
+      - 280
+
+dota2_sea_servers:
+  sky_broadband:
+    5mbps:
+      - 80
+      - 100
+
+starcraft2_us_servers:
+  sky_broadband:
+    5mbps:
+      - 200
+      - 300
+
+
+
 
