@@ -1,0 +1,9 @@
+diablo3_us_servers:
+  globe:
+    - 256
+
+world_of_warcraft_oceanic_servers:
+  globe:
+    3mbps:
+      - 181
+      - 172

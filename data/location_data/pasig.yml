@@ -8,3 +8,8 @@ dota2_sea_servers:
   globe:
     3mbps:
       - 90
+
+league_of_legends:
+  pldt:
+    11mbps_fiber:
+      - 20

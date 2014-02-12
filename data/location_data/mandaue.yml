@@ -4,6 +4,11 @@ assaultfire_sea_servers:
       - 30
       - 40
 
+aurakingdom_us_servers:
+  pldt:
+    3mbps:
+      - 200
+
 counter_strike_sea_servers:
   globe:
     2mbps:
@@ -27,4 +32,8 @@ dota2_sea_servers:
     5mbps:
       - 100
       - 500
+  pldt:
+    3mbps:
+      - 190
+      - 60
 
