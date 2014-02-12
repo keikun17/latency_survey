@@ -1,3 +1,13 @@
+battlefield4_i3d_servers:
+  pldt:
+    3mbps:
+      - 200
+
+dota2_sea_servers:
+  pldt:
+    3mbps:
+      - 60
+
 dragons_nest_sea_servers:
   pldt:
     3mbps:

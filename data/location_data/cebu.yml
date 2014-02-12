@@ -45,3 +45,5 @@ starcraft2_us_servers:
     3mbps:
       - 180
       - 280
+      - 220
+      - 300

@@ -1,4 +1,18 @@
+battlefield4_sea_servers:
+  bayantel:
+    3mbps:
+      - 30
+      - 150
+      - 28
+      - 31
+      - 56
+      - 62
+
 counterstrike_go_sea_servers:
+  bayantel:
+    3mbps:
+      - 60
+      - 100
   sky_broadband:
     5mbps:
       - 60

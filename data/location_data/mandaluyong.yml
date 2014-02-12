@@ -9,6 +9,9 @@ dota2_sea_servers:
       - 120
 
   sky_broadband:
+    1.5mbps:
+      - 134
+
     10mbps:
       - 100
       - 200

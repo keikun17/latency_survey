@@ -20,6 +20,12 @@ dota2_sea_servers:
     2mbps:
       - 100
 
+guildwars2:
+  pldt:
+    3mbps:
+      - 200
+      - 240
+
 mechwarrior_online:
   pldt:
     5mbps:
