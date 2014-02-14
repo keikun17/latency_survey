@@ -23,3 +23,8 @@ plan4999 up to 16mbps
 plan6499 up to 24mbps
 plan9499 up to 55mbps
 
+# Globe Plans
+Plan 1099	Up to 2 Mbps
+Plan 1299	Up to 3Mbps
+Plan 1599	Up to 5Mbps
+Plan 2499	Up to 7Mbps
