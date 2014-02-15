@@ -7,6 +7,18 @@ For Reference
 1699	Up to 4mbps
 2099	Up to 5mbps
 
+# PLDT Bundled
+
+PLAN 990 up to 512kbps
+PLAN 1299 up to 2mbps
+
+# PLDT Hispeed
+
+PLAN 999 up to 3mbps
+PLAN 1995 up to 5mbps
+PLAN 3000 up to 8mbps
+PLAN 4000 up to 10mbps
+
 # PLDT Fibr
 
 plan 3500 up to 8mbps
@@ -16,6 +28,7 @@ plan 20000 up to 100mbps
 
 # Sky Broadband
 
+plan799 up to 1mbps
 plan1999 up to 3mbps
 plan2999 up to 5mbps
 plan3999 up to 10mbps
