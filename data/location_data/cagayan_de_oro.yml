@@ -1,0 +1,6 @@
+battlefield4_us_servers:
+  pldt:
+    1mbps:
+      - 200
+      - 400
+

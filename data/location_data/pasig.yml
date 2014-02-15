@@ -1,3 +1,9 @@
+arma3_us_servers:
+  pldt:
+    5mbps:
+      - 160
+      - 200
+
 counterstrike_go_sea_servers:
   globe:
     3mbps:
@@ -34,6 +40,12 @@ league_of_legends:
     11mbps_fiber:
       - 20
 
+red_orchestra:
+  pldt:
+    5mbps:
+      - 180
+      - 220
+
 starcraft2_sea_servers:
   pldt:
     8mbps_fiber:
@@ -45,3 +57,10 @@ starcraft2_us_servers:
     8mbps_fiber:
       - 200
       - 300
+
+warthunder:
+  pldt:
+    5mbps:
+      - 280
+      - 360
+

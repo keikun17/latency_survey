@@ -1,3 +1,17 @@
+battlefield4_i3d_servers:
+  pldt:
+    2mbps:
+      - 70
+
+battlefield4_sea_servers:
+  pldt:
+    2mbps:
+      - 50
+
+battlefield4_oceania_servers:
+  pldt:
+    2mbps:
+
 champions_online:
   pldt:
     3mbps:
@@ -14,6 +28,11 @@ crossfire_sea_servers:
     1mbps:
       - 42
       - 67
+
+crysis3_us_servers:
+  pldt:
+    2mbps:
+      - 150
 
 dota2_sea_servers:
   globe:
