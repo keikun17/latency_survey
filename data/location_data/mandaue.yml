@@ -1,3 +1,8 @@
+aion_us_servers:
+  globe:
+    2mbps:
+      - 250
+
 assaultfire_sea_servers:
   globe:
     2mbps:
@@ -26,6 +31,7 @@ crossfire_sea_servers:
     2mbps:
       - 30
       - 40
+      - 500
 
 dota2_sea_servers:
   globe:
@@ -33,7 +39,14 @@ dota2_sea_servers:
       - 100
       - 500
   pldt:
+    2mbps:
+      - 120
     3mbps:
       - 190
       - 60
 
+silkroad_sea_servers:
+  globe:
+    2mbps:
+      - 100
+      - 150

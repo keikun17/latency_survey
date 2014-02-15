@@ -55,6 +55,9 @@ diablo3_us_servers:
     5mbps:
       - 100
   bayantel:
+    1mbps:
+      - 300
+      - 999
     2mbps:
       - 500
       - 2000
@@ -117,6 +120,9 @@ dota2_us_servers:
       - 519
       - 269
   bayantel:
+    1mbps:
+      - 200
+      - 999
     2mbps:
       - 100
       - 1000
@@ -131,6 +137,9 @@ final_fantasy_14:
     5mbps:
       - 80
   bayantel:
+    1mbps:
+      - 91
+      - 999
     2mbps:
       - 91
       - 3000
@@ -149,45 +158,59 @@ league_of_legends_sea_servers:
       - 49
     2mbps:
       - 32
+      - 200
+      - 215
     3mbps:
       - 19
   globe:
     5mbps:
       - 50
   bayantel:
+    1mbps:
+      - 13
     2mbps:
       - 100
       - 1000
     4mbps:
       - 40
 
-league_of_legends_sea_servers:
-  pldt:
-    2mbps:
+league_of_legends_us_servers:
+  bayantel:
+    1mbps:
       - 200
-      - 215
+      - 999
+
 rift:
   bayantel:
     1mbps:
       - 350
 
+starcraft2_kr_servers:
+  bayantel:
+    1mbps:
+      - 100
+  globe:
+    3mbps:
+      - 50
+      - 90
+
+starcraft2_sea_servers:
+  bayantel:
+    1mbps:
+      - 64
+  globe:
+    3mbps:
+      - 50
+      - 90
+
 starcraft2_us_servers:
+  bayantel:
+    1mbps:
+      - 287
   sky_broadband:
     5mbps:
       - 200
       - 300
-
-starcraft2_sea_servers:
-  globe:
-    3mbps:
-      - 50
-      - 90
-
-starcraft2_kr_servers:
-  globe:
-    3mbps:
-      - 50
-      - 90
 
 tera_eu_servers:
   pldt:
@@ -196,6 +219,9 @@ tera_eu_servers:
 
 world_of_warcraft_us_servers:
   bayantel:
+    1mbps:
+      - 200
+      - 999
     2mbps:
       - 200
       - 1000

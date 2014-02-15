@@ -17,6 +17,9 @@ diablo_us_servers:
   globe:
     1mbps:
       - 150
+    2mbps:
+      - 190
+      - 200
 
 diablo_sea_servers:
   pldt:
@@ -35,6 +38,14 @@ dota2_sea_servers:
   pldt:
     2mbps:
       - 83
+  globe:
+    1mbps:
+      - 100
+
+league_of_legends_sea_servers:
+  globe:
+    2mbps:
+      - 59
 
 starcraft2_sea_servers:
   pldt:

@@ -38,6 +38,8 @@ dota2_sea_servers:
 
 final_fantasy_14:
   pldt:
+    1mbps:
+      - 180
     8mbps_fibr:
       - 78
       - 300
