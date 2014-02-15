@@ -1,0 +1,5 @@
+counterstrike_go_sea_servers:
+  smart_broadband:
+    1mbps:
+      - 90
+

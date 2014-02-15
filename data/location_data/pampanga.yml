@@ -3,3 +3,14 @@ diablo3_us_servers:
     2mbps:
       - 100
       - 400
+
+dragons_nest_sea_servers:
+  globe:
+    2mbps:
+      - 47
+
+league_of_legends_us_servers:
+  globe:
+    2mbps:
+      - 210
+

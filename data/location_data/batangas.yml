@@ -4,6 +4,11 @@ battlefield4_asia_servers:
       - 180
       - 250
 
+dota2_sea_servers:
+  globe:
+    3mbps:
+      - 70
+
 teamfortress2_xjh_servers:
   pldt:
     3mbps:

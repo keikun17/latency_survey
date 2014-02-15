@@ -7,6 +7,7 @@ battlefield4_asia_servers:
 battlefield4_i3d_servers:
   pldt:
     3mbps:
+      - 80
       - 200
     8mbps:
       - 170
@@ -16,6 +17,8 @@ call_of_duty_series:
     1mbps:
       - 300
       - 450
+    3mbps:
+      - 240
 
 dota2_sea_servers:
   pldt:
@@ -35,6 +38,11 @@ final_fantasy_14:
     3mbps:
       - 170
       - 240
+
+league_of_legends_sea_servers:
+  pldt:
+    3mbps:
+      - 54
 
 star_wars_the_old_republic:
   pldt:

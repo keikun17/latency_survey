@@ -8,6 +8,11 @@ battlefield4_i3d_servers:
     1mbps:
       - 198
 
+battlefield4_sea_servers:
+  pldt:
+    3mbps:
+      - 90
+
 chivalry_us_servers:
   pldt:
     2mbps:
@@ -38,9 +43,17 @@ dota2_sea_servers:
   pldt:
     2mbps:
       - 83
+    3mbps:
+      - 100
   globe:
     1mbps:
       - 100
+
+firefall:
+  pldt:
+    3mbps:
+      - 190
+      - 210
 
 league_of_legends_sea_servers:
   globe:
