@@ -8,6 +8,8 @@ battlefield4_i3d_servers:
   pldt:
     3mbps:
       - 200
+    8mbps:
+      - 170
 
 call_of_duty_series:
   pldt:

@@ -1,0 +1,5 @@
+diablo3_us_servers:
+  globe:
+    2mbps:
+      - 100
+      - 400

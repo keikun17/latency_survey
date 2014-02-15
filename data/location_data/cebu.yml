@@ -25,6 +25,10 @@ diablo_sea_servers:
       - 150
 
 dota2_sea_servers:
+  bayantel:
+    1mbps:
+      - 64
+      - 300
   sky_broadband:
     3mbps:
       - 150

@@ -3,8 +3,18 @@ dota2_sea_servers:
     1mbps:
       - 200
 
+dragons_nest_sea_servers:
+  bayantel:
+    1.5mbps:
+      - 30
 league_of_legends_sea_servers:
   globe:
     1mbps:
       - 60
       - 80
+
+phantasy_star_online:
+  bayantel:
+    1.5mbps:
+      - 50
+

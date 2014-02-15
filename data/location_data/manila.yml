@@ -23,6 +23,7 @@ counterstrike_go_sea_servers:
   pldt:
     3mbps:
       - 150
+      - 39
 
 crossfire_sea_servers:
   pldt:
@@ -68,6 +69,8 @@ league_of_legends_sea_servers:
     3mbps:
       - 19
       - 300
+      - 19
+      - 21
 
 guildwars2:
   pldt:
