@@ -10,6 +10,12 @@ battlefield4_us_servers:
     10mbps:
       - 200
 
+guildwars2:
+  bayantel:
+    2mbps:
+      - 450
+      - 500
+
 dota2_us_servers:
   pldt:
     3mbps:

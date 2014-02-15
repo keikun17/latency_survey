@@ -10,6 +10,12 @@ counter_strike_sea_servers:
       - 200
       - 50
 
+counter_strike_sea_servers:
+  pldt:
+    20mbps_fibr:
+      - 35
+      - 50
+
 dota2_sea_servers:
   globe:
     3mbps:

@@ -6,6 +6,9 @@ archblade:
 
 battlefield4_sea_servers:
   bayantel:
+    2mbps:
+      - 62
+      - 150
     3mbps:
       - 30
       - 150
@@ -77,6 +80,9 @@ dota2_sea_servers:
       - 80
       - 100
   bayantel:
+    2mbps:
+      - 60
+      - 200
     4mbps:
       - 60
       - 90
@@ -163,6 +169,11 @@ starcraft2_kr_servers:
     3mbps:
       - 50
       - 90
+
+tera_eu_servers:
+  pldt:
+    5mbps:
+      - 400
 
 world_of_warcraft_us_servers:
   bayantel:
