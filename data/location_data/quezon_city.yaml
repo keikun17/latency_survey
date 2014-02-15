@@ -1,3 +1,9 @@
+archblade:
+  bayantel:
+    2mbps:
+      - 200
+      - 1000
+
 battlefield4_sea_servers:
   bayantel:
     3mbps:
@@ -18,6 +24,11 @@ battlefield4_us_servers:
       - 170
       - 190
 
+company_of_heroes:
+  sky_broadband:
+    1mbps:
+      - 450
+
 counterstrike_go_sea_servers:
   bayantel:
     3mbps:
@@ -28,12 +39,22 @@ counterstrike_go_sea_servers:
       - 60
       - 80
 
+crossfire_sea_servers:
+  globe:
+    3mbps:
+      - 35
+      - 50
+      - 180
+      - 80
+
 diablo3_us_servers:
   sky_broadband:
     5mbps:
       - 100
   bayantel:
-    1.5mbps:
+    2mbps:
+      - 500
+      - 2000
       - 280
     5mbps:
       - 190
@@ -59,6 +80,7 @@ dota2_sea_servers:
     4mbps:
       - 60
       - 90
+      - 60
   pldt:
     20mbps_fiber:
       - 200
@@ -68,6 +90,10 @@ dota2_sea_servers:
     3mbps:
       - 80
       - 180
+  globe:
+    3mbps:
+      - 80
+      - 120
 
 dota2_eu_servers:
   pldt:
@@ -82,6 +108,16 @@ dota2_us_servers:
     5mbps:
       - 519
       - 269
+  bayantel:
+    2mbps:
+      - 100
+      - 1000
+
+final_fantasy_14:
+  bayantel:
+    2mbps:
+      - 91
+      - 3000
 
 guildwars2:
   globe:
@@ -98,6 +134,12 @@ league_of_legends_sea_servers:
   globe:
     5mbps:
       - 50
+  bayantel:
+    2mbps:
+      - 100
+      - 1000
+    4mbps:
+      - 40
 
 rift:
   bayantel:
@@ -122,3 +164,8 @@ starcraft2_kr_servers:
       - 50
       - 90
 
+world_of_warcraft_us_servers:
+  bayantel:
+    2mbps:
+      - 200
+      - 1000

@@ -8,11 +8,38 @@ counterstrike_go_sea_servers:
       - 60
 
 dota2_sea_servers:
+  bayantel:
+    5mbps:
+      - 70
   globe:
     3mbps:
       - 90
+  pldt:
+    8mbps_fiber:
+      - 90
+      - 350
+
+final_fantasy_14:
+  pldt:
+    8mbps_fibr:
+      - 78
+      - 300
+      - 276
+      - 300
 
 league_of_legends:
   pldt:
     11mbps_fiber:
       - 20
+
+starcraft2_sea_servers:
+  pldt:
+    8mbps_fiber:
+      - 150
+      - 200
+
+starcraft2_us_servers:
+  pldt:
+    8mbps_fiber:
+      - 200
+      - 300
