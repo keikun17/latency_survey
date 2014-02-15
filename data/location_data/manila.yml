@@ -24,6 +24,7 @@ counterstrike_go_sea_servers:
     3mbps:
       - 150
       - 39
+      - 60
 
 crossfire_sea_servers:
   pldt:
@@ -56,6 +57,7 @@ dota2_sea_servers:
       - 220
       - 80
       - 170
+      - 50
 
 heroes_of_newerth_sea_servers:
   pldt:
