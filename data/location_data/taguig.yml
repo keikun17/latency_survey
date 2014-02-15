@@ -18,3 +18,11 @@ starcraft2_sea_servers:
     6mbps:
       - 100
       - 150
+
+super_street_fighter4:
+  globe:
+    2mbps:
+      - 100
+
+
+

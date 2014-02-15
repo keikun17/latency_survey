@@ -11,6 +11,7 @@ battlefield4_sea_servers:
 battlefield4_oceania_servers:
   pldt:
     2mbps:
+      - 100
 
 champions_online:
   pldt:

@@ -1,0 +1,11 @@
+teamfortress2_xjz_servers:
+  globe:
+    3mbps:
+      - 80
+      - 90
+
+dota2_sea_servers:
+  globe:
+    3mbps:
+      - 80
+      - 200

@@ -16,6 +16,10 @@ counterstrike_go_sea_servers:
       - 300
 
 dota2_sea_servers:
+  pldt:
+    3mbps:
+      - 100
+      - 160
   globe:
     2mbps:
       - 100
@@ -35,3 +39,9 @@ world_of_tanks_sea_servers:
   globe:
     3mbps:
       - 88
+
+world_of_warcraft_us_servers:
+  pldt:
+    3mbps:
+      - 230
+

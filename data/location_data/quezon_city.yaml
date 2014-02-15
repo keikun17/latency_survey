@@ -127,6 +127,9 @@ dragons_nest_sea_servers:
       - 58
 
 final_fantasy_14:
+  globe:
+    5mbps:
+      - 80
   bayantel:
     2mbps:
       - 91
@@ -144,6 +147,8 @@ league_of_legends_sea_servers:
   pldt:
     1mbps:
       - 49
+    2mbps:
+      - 32
     3mbps:
       - 19
   globe:
@@ -156,6 +161,11 @@ league_of_legends_sea_servers:
     4mbps:
       - 40
 
+league_of_legends_sea_servers:
+  pldt:
+    2mbps:
+      - 200
+      - 215
 rift:
   bayantel:
     1mbps:

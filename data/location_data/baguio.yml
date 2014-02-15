@@ -2,6 +2,24 @@ diablo3_us_servers:
   globe:
     - 256
 
+dota2_sea_servers:
+  globe:
+    1mbps:
+      - 100
+      - 150
+
+league_of_legends_sea_servers:
+  globe:
+    1mbps:
+      - 50
+      - 100
+
+league_of_legends_sea_servers:
+  globe:
+    1mbps:
+      - 180
+      - 300
+
 world_of_warcraft_oceanic_servers:
   globe:
     3mbps:
