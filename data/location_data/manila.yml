@@ -1,3 +1,8 @@
+age_of_chivalry:
+  pldt:
+    5mbps:
+      - 199
+      - 260
 battlefield4_i3d_servers:
   pldt:
     2mbps:
@@ -58,6 +63,9 @@ dota2_sea_servers:
       - 80
       - 170
       - 50
+    5mbps:
+      - 50
+      - 100
 
 heroes_of_newerth_sea_servers:
   pldt:
@@ -85,6 +93,12 @@ mercenary_online:
       - 32
       - 67
 
+path_of_exile:
+  pldt:
+    5mbps:
+      - 185
+      - 230
+
 ran_online:
   pldt:
     1mbps:
@@ -102,6 +116,12 @@ rusty_hearts_us_servers:
 rusty_hearts_eu_servers:
   pldt:
     1mbps:
+      - 300
+
+star_wars_the_old_republic:
+  pldt:
+    5mbps:
+      - 200
       - 300
 
 yulgang:

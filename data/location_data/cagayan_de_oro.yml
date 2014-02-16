@@ -1,8 +1,8 @@
-dota2_sea_servers:
-  pldt:
-    2mbps:
-      - 80
-      - 160
+battlefield4_i3d_servers:
+  globe:
+    3mbps:
+      - 67
+      - 108
 
 battlefield4_us_servers:
   pldt:
@@ -13,6 +13,16 @@ battlefield4_us_servers:
 counter_strike_sea_servers:
   pldt:
     2mbps:
+      - 100
+
+dota2_sea_servers:
+  pldt:
+    2mbps:
+      - 80
+      - 160
+  globe:
+    3mbps:
+      - 72
       - 100
 
 heroes_of_newerth_sea_servers:

@@ -1,6 +1,22 @@
+battlefield3_us_servers:
+  globe:
+    2mbps:
+      - 280
+
+battlefield4_us_servers:
+  globe:
+    2mbps:
+      - 225
+
+battlefield4_sea_servers:
+  globe:
+    2mbps:
+      - 90
+
 diablo3_us_servers:
   globe:
-    - 256
+    5mbps:
+      - 256
 
 dota2_sea_servers:
   globe:
