@@ -22,6 +22,11 @@ call_of_duty_series:
     3mbps:
       - 240
 
+diablo3_us_servers:
+  pldt:
+    1mbps:
+       - 283
+
 dota2_sea_servers:
   pldt:
     3mbps:

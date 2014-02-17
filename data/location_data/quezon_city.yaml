@@ -34,6 +34,9 @@ company_of_heroes:
 
 counterstrike_go_sea_servers:
   bayantel:
+    1mbps:
+      - 60
+      - 69
     3mbps:
       - 60
       - 100
@@ -83,6 +86,9 @@ dota2_sea_servers:
       - 80
       - 100
   bayantel:
+    1mbps:
+      - 90
+      - 150
     2mbps:
       - 60
       - 200

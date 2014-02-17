@@ -6,6 +6,11 @@ battlefield4_sea_servers:
       - 60
       - 90
 
+counterstrike_go_sea_servers:
+  3mbps:
+    - 180
+    - 250
+
 dota2_aus_servers:
   globe:
     2mbps:
@@ -25,7 +30,8 @@ dota2_sea_servers:
   sky_broadband:
     1.5mbps:
       - 134
-
+    3mbps:
+      - 300
     10mbps:
       - 100
       - 200
@@ -37,6 +43,12 @@ dota2_us_servers:
   pldt:
     3mbps:
       - 220
+
+league_of_legends_sea_servers:
+  sky_broadband:
+    3mbps:
+      - 150
+      - 200
 
 mechwarrior_online:
   pldt:
@@ -62,6 +74,10 @@ starcraft2_sea_servers:
   pldt:
     3mbps:
       - 236
+  sky_broadband:
+    3mbps:
+      - 150
+      - 300
 
 teamfortress2_sea_servers:
   pldt:

@@ -85,3 +85,7 @@ warthunder:
       - 280
       - 360
 
+world_of_warcraft_us_servers:
+  sky_broadband:
+    5mbps:
+      - 275

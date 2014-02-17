@@ -49,6 +49,11 @@ teamfortress2_xjz_servers:
     1.5mbps:
       - 15
 
+tera_eu_servers:
+  pldt:
+    3mbps:
+      - 350
+
 warframe:
   pldt:
     3mbps:

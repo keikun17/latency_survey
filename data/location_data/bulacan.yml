@@ -12,6 +12,10 @@ dota2_sea_servers:
   smart_broadband:
     1mbps:
       - 500
+  pldt:
+    3mbps:
+      - 80
+      - 200
 
 dragons_nest_sea_servers:
   bayantel:

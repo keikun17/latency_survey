@@ -10,6 +10,11 @@ battlefield4_us_servers:
       - 200
       - 300
 
+counterstrike_go_sea_servers:
+  pldt:
+    3mbps:
+      - 150
+
 dayz_sg_servers:
   pldt:
     8mbps:
@@ -19,6 +24,7 @@ dayz_sg_servers:
 dota2_sea_servers:
   pldt:
     3mbps:
+      - 150
       - 150
     8mbps:
       - 60
