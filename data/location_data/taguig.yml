@@ -1,7 +1,19 @@
+diablo3:
+  pldt:
+    10mbps:
+      - 200
+      - 230
+
 final_fantasy_14:
   pldt:
     3mbps:
       - 300
+
+ragnarok2_sea_server:
+  pldt:
+    10mbps:
+      - 40
+      - 50
 
 starcraft2_na_servers:
   pldt:
@@ -23,6 +35,3 @@ super_street_fighter4:
   globe:
     2mbps:
       - 100
-
-
-

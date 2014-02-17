@@ -3,3 +3,8 @@ battlefield4_i3d_servers:
     5mbps:
       - 78
       - 90
+
+world_of_warcraft_us_servers:
+  pldt:
+    3mbps:
+      - 315

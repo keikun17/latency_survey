@@ -1,5 +1,7 @@
 battlefield4_sea_servers:
   pldt:
+    1.5mbps:
+      - 50
     3mbps:
       - 300
     10mbps:

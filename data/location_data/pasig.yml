@@ -18,6 +18,11 @@ counterstrike_go_sea_servers:
     3mbps:
       - 60
 
+diablo3:
+  smart_broadband:
+    3g:
+      - 300
+
 dota2_sea_servers:
   bayantel:
     5mbps:
@@ -44,6 +49,11 @@ final_fantasy_14:
       - 78
       - 300
       - 276
+      - 300
+
+guildwars2:
+  smart_broadband:
+    3g:
       - 300
 
 league_of_legends:

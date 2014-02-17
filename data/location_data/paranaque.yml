@@ -22,11 +22,19 @@ dota2_sea_servers:
     1.5mbps:
       - 60
       - 120
-
+    2mbps:
+      - 160
+      - 200 
   smart_broadband:
     2mbps:
       - 100
       - 120
+
+heroes_of_newerth_sea_servers:
+  pldt:
+    2mbps:
+      - 200
+      - 300 
 
 league_of_legends_sea_servers:
   pldt:
