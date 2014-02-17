@@ -4,6 +4,18 @@ battlefield4_i3d_servers:
       - 78
       - 90
 
+battlefield4_sea_servers:
+  pldt:
+    1mbps:
+      - 90
+
+mechwarrior_online:
+  pldt:
+    1mbps:
+      - 120
+      - 500
+      - 130
+
 world_of_warcraft_us_servers:
   pldt:
     3mbps:

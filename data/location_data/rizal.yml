@@ -10,6 +10,10 @@ chivalry_us_servers:
       - 250
 
 counterstrike_go_sea_servers:
+  globe:
+    1mbps:
+      - 50
+      - 140
   pldt:
     5mbps:
       - 250
@@ -27,6 +31,8 @@ dota2_sea_servers:
     5mbps:
       - 220
   globe:
+    1mbps:
+      - 100
     2mbps:
       - 100
 

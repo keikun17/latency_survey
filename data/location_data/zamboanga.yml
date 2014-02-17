@@ -1,4 +1,8 @@
 assaultfire_sea_servers:
+  globe:
+    2mbps:
+      - 61
+
   smart_broadband:
     1mbps:
       - 40
