@@ -31,6 +31,10 @@ dota2_sea_servers:
   pldt:
     3mbps:
       - 60
+  globe:
+    2mbps:
+      - 78
+      - 103
 
 dragons_nest_sea_servers:
   pldt:

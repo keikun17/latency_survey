@@ -84,6 +84,8 @@ dota2_aus_servers:
 
 dota2_sea_servers:
   sky_broadband:
+    1.5mbps:
+      - 120
     5mbps:
       - 80
       - 100

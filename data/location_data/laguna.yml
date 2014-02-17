@@ -5,7 +5,12 @@ battlefield4_cebu_servers:
       - 77
       - 999
 
-
+battlefield4_sea_servers:
+  pldt:
+    8mbps:
+      - 200
+      - 400
+      - 114
 
 counter_strike_sea_servers:
   pldt:
@@ -14,6 +19,13 @@ counter_strike_sea_servers:
       - 180
     8mbps:
       - 250
+
+dota2_sea_servers:
+  pldt:
+    8mbps:
+      - 80
+      - 600
+      - 70
 
 dragons_nest_sea_servers:
   pldt:

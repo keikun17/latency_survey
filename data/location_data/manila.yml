@@ -12,11 +12,19 @@ battlefield4_sea_servers:
   pldt:
     2mbps:
       - 50
+  sky_broadband:
+    3mbps:
+      - 60
 
 battlefield4_oceania_servers:
   pldt:
     2mbps:
       - 100
+
+battlefield4_us_servers:
+  sky_broadband:
+    3mbps:
+      - 192
 
 champions_online:
   pldt:
@@ -64,6 +72,7 @@ dota2_sea_servers:
       - 80
       - 170
       - 50
+
     5mbps:
       - 50
       - 100
@@ -82,6 +91,9 @@ league_of_legends_sea_servers:
       - 300
       - 19
       - 21
+  sky_broadband:
+    3mbps:
+      - 14
 
 guildwars2:
   pldt:

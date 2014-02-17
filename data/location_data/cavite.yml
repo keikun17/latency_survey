@@ -43,3 +43,7 @@ league_of_legends_sea_servers:
   globe:
     1mbps:
       - 86
+
+  smart_broadband:
+    3g:
+      - 550
