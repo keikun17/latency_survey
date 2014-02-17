@@ -19,3 +19,6 @@ league_of_legends_sea_servers:
     1mbps:
       - 59
       - 72
+  pldt:
+    1mbps:
+      - 130

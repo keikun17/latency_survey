@@ -38,6 +38,7 @@ dota2_sea_servers:
     3mbps:
       - 20
       - 150
+      - 70
   globe:
     1mbps:
       - 130
@@ -50,4 +51,7 @@ league_of_legends_sea_servers:
   sky_broadband:
     10mbps:
       - 90
+  pldt:
+    3mbps:
+      - 80
 

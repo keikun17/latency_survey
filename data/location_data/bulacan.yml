@@ -1,5 +1,7 @@
 dota2_aus_servers:
   globe:
+    1mbps:
+      - 120
     7mbps:
       - 300
 
@@ -10,7 +12,8 @@ dota2_sea_servers:
     7mbps:
       - 100
   smart_broadband:
-    1mbps:
+    3g:
+      - 500
       - 500
   pldt:
     3mbps:

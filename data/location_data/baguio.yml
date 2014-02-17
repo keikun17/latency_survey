@@ -26,6 +26,9 @@ dota2_sea_servers:
       - 180
     3mbps:
       - 90
+  pldt:
+    1mbps:
+      - 110
 
 league_of_legends_sea_servers:
   globe:

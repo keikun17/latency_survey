@@ -40,6 +40,10 @@ dota2_sea_servers:
     8mbps_fiber:
       - 90
       - 350
+  smart_broadband:
+    3g:
+      - 100
+
 
 final_fantasy_14:
   pldt:

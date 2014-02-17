@@ -6,6 +6,9 @@ battlefield4_asia_servers:
 
 dota2_sea_servers:
   globe:
+    2mbps:
+      - 94
+      - 109
     3mbps:
       - 70
 
