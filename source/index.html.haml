@@ -1,11 +1,14 @@
 .row
-  .col-md-2.hidden-xs.hidden-sm.fixed
-    %h3 Areas
-    %ul.nav.nav-stacked{style: "background-color: #FAFAFA"}
-      - data.location_data.keys.each do |key|
-        %li= link_to key.titleize, "##{snakecase(key)}"
-
-  .col-md-10.col-md-offset-3.content
+  .col-lg-3.hidden-xs.hidden-sm
+    .fixed{style: "background-color: #FAFAFA"}
+      .text-center
+        %h3 Areas
+      %ul.nav.nav-stacked
+        %li
+        - data.location_data.keys.each do |key|
+          %li= link_to key.titleize, "##{snakecase(key)}"
+.row
+  .col-lg-10.col-lg-offset-2.content
     %h1 Online Gaming Latency Report (Philippines)
     .lead
       %p
@@ -17,7 +20,7 @@
       Or donate bitcoins to this address #{link_to "1Jccm62Tx4DWZRjAerZRhgn9a8LqAGfysv", "bitcoin:1Jccm62Tx4DWZRjAerZRhgn9a8LqAGfysv?label=Faster+Philippine+Internet"}
     %hr
 
-    %i last updated February 17, 2014 (262 responses)
+    %i last updated February 17, 2014 (262 response)
 
     - data.location_data.each do |location, game_data|
       = partial '_result', locals: { location: location, game_data: game_data}
