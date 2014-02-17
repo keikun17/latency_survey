@@ -50,10 +50,16 @@ helpers do
       return 0
     end
 
-    arr.each do |num|
-      sum += num
+    begin
+      arr.each do |num|
+        sum += num
+      end
+      return sum / arr.size
+
+    rescue
+      return "Error reading parsed data"
     end
-    sum / arr.size
+
   end
 
   def snakecase(str='')
@@ -61,6 +67,9 @@ helpers do
   end
 
   def ping_class(ping)
+
+    return unless ping.is_a?(Numeric)
+
     if ping > 200
       'danger'
     elsif ping > 100
