@@ -172,6 +172,8 @@ league_of_legends_sea_servers:
   bayantel:
     1mbps:
       - 13
+    1.5mbps:
+      - 15
     2mbps:
       - 100
       - 1000
@@ -183,6 +185,9 @@ league_of_legends_us_servers:
     1mbps:
       - 200
       - 999
+    pldt:
+      8mbps_fibr:
+        - 8
 
 rift:
   bayantel:

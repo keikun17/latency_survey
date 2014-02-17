@@ -14,9 +14,6 @@ counter_strike_sea_servers:
     3mbps:
       - 200
       - 50
-
-counter_strike_sea_servers:
-  pldt:
     20mbps_fibr:
       - 35
       - 50

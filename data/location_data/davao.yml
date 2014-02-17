@@ -1,0 +1,17 @@
+battlefield4_sea_servers:
+  pldt:
+    3mbps:
+      - 90
+  bayantel:
+    1mbps:
+      - 56 
+
+world_of_warcraft_oceanic_servers:
+  globe:
+    2mbps:
+      - 182
+
+world_of_warcraft_us_servers:
+  globe:
+    2mbps:
+      - 192

@@ -1,12 +1,23 @@
+dota2_aus_servers:
+  globe:
+    7mbps:
+      - 300
+
 dota2_sea_servers:
   globe:
     1mbps:
       - 200
+    7mbps:
+      - 100
+  smart_broadband:
+    1mbps:
+      - 500
 
 dragons_nest_sea_servers:
   bayantel:
     1.5mbps:
       - 30
+
 league_of_legends_sea_servers:
   globe:
     1mbps:
