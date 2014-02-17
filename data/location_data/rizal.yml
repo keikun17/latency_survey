@@ -19,6 +19,8 @@ counterstrike_go_sea_servers:
 
 dota2_sea_servers:
   pldt:
+    2mbps:
+      - 89
     3mbps:
       - 100
       - 160

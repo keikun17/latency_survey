@@ -4,6 +4,11 @@ dota2_sea_servers:
       - 200
       - 300
 
+dragons_nest_sea_servers:
+  pldt:
+    3mbps:
+      - 60
+
 heroes_of_newerth_sea_servers:
   pldt:
     5mbps:

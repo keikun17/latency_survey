@@ -69,6 +69,8 @@ diablo3_us_servers:
       - 190
       - 210
   pldt:
+    1mbps:
+      - 120
     5mbps:
       - 416
 
@@ -193,6 +195,8 @@ league_of_legends_us_servers:
       - 200
       - 999
   pldt:
+    3mbps:
+      - 600
     8mbps_fibr:
       - 8
 
