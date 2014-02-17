@@ -1,3 +1,13 @@
+assaultfire_ph_servers:
+  pldt:
+    5mbps:
+      - 15
+
+counterstrike_go_sea_servers:
+  pldt:
+    5mbps:
+      - 170
+
 dota2_sea_servers:
   smart_broadband:
     2mbps:
@@ -25,3 +35,8 @@ league_of_legends_sea_servers:
     2mbps:
       - 60
       - 80
+
+world_of_warcraft_us_servers:
+  pldt:
+    5mbps:
+      - 256

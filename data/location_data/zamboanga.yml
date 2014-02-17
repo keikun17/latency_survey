@@ -4,6 +4,9 @@ assaultfire_sea_servers:
       - 40
 
 counterstrike_go_sea_servers:
+  globe:
+    1mbps:
+      - 160
   pldt:
     5mbps:
       - 80
@@ -23,6 +26,9 @@ dota_2_sea_servers:
       - 200
     3mbps:
       - 200
+  globe:
+    1mbps:
+      - 160 
 
 starcraft2_sea_servers:
   pldt:
