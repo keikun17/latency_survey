@@ -7,9 +7,10 @@ battlefield4_sea_servers:
       - 90
 
 counterstrike_go_sea_servers:
-  3mbps:
-    - 180
-    - 250
+  pldt:
+    3mbps:
+      - 180
+      - 250
 
 dota2_aus_servers:
   globe:
