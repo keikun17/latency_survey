@@ -14,7 +14,7 @@ aurakingdom_us_servers:
     3mbps:
       - 200
 
-counter_strike_sea_servers:
+counterstrike_sea_servers:
   globe:
     2mbps:
       - 50

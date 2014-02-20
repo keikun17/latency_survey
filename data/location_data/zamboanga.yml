@@ -7,7 +7,7 @@ assaultfire_sea_servers:
     1mbps:
       - 40
 
-counterstrike_go_sea_servers:
+counterstrike_sea_servers:
   globe:
     1mbps:
       - 160

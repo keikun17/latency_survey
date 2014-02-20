@@ -32,7 +32,7 @@ company_of_heroes:
     1mbps:
       - 450
 
-counterstrike_go_sea_servers:
+counterstrike_sea_servers:
   bayantel:
     1mbps:
       - 60

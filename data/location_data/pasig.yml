@@ -9,7 +9,7 @@ battlefield4_sea_servers:
     8mbps:
       - 30
 
-counterstrike_go_sea_servers:
+counterstrike_sea_servers:
   globe:
     3mbps:
       - 80

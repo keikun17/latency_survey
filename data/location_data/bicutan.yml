@@ -3,7 +3,7 @@ assaultfire_ph_servers:
     5mbps:
       - 15
 
-counterstrike_go_sea_servers:
+counterstrike_sea_servers:
   pldt:
     5mbps:
       - 170
@@ -24,7 +24,7 @@ flyff_international_server:
     2mbps:
       - 150
 
-counter_strike_asia_servers:
+counterstrike_asia_servers:
   smart_broadband:
     2mbps:
       - 70

@@ -32,7 +32,7 @@ champions_online:
       - 180
       - 300
 
-counterstrike_go_sea_servers:
+counterstrike_sea_servers:
   pldt:
     3mbps:
       - 150
