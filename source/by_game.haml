@@ -1,7 +1,51 @@
-- games = []
-- data.location_data.each do |location|
-  - games += location[1].keys
+- games_list = []
 
-%ul
-  - games.uniq.each do |game|
-    %li= game
+- data.location_data.each do |location|
+  - games_list += location[1].keys
+
+- games_list = games_list.sort!.uniq!
+
+%table.table
+  %tr
+    %th Game
+    %th Pldt
+    %th Globe
+    %th Bayantel
+    %th Sky Broadband
+  - games_list.each do |game|
+    %tr
+      %td= game
+
+      %td
+        - pings = []
+        - data.location_data.each do |location|
+          - if location[1][game] and location[1][game]["pldt"]
+            - location[1][game]["pldt"].each do |subscription, ping_data|
+              - pings += ping_data
+        = average(pings)
+
+      %td
+        - pings = []
+        - data.location_data.each do |location|
+          - if location[1][game] and location[1][game]["globe"]
+            - location[1][game]["globe"].each do |subscription, ping_data|
+              - pings += ping_data
+        = average(pings)
+
+      %td
+        - pings = []
+        - data.location_data.each do |location|
+          - if location[1][game] and location[1][game]["bayantel"]
+            - location[1][game]["bayantel"].each do |subscription, ping_data|
+              - pings += ping_data
+        = average(pings)
+      %td
+        - pings = []
+        - data.location_data.each do |location|
+          - if location[1][game] and location[1][game]["sky_broadband"]
+            - location[1][game]["sky_broadband"].each do |subscription, ping_data|
+              - pings += ping_data
+        = average(pings)
+-# %table
+-#   - games_list.sort.uniq.each do |game|
+-#     %li= game
