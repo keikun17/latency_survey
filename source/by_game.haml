@@ -12,6 +12,7 @@
     %th Globe
     %th Bayantel
     %th Sky Broadband
+    %th Smart Broadband
   - games_list.each do |game|
     %tr
       %td= game
@@ -44,6 +45,13 @@
         - data.location_data.each do |location|
           - if location[1][game] and location[1][game]["sky_broadband"]
             - location[1][game]["sky_broadband"].each do |subscription, ping_data|
+              - pings += ping_data
+        = average(pings)
+      %td
+        - pings = []
+        - data.location_data.each do |location|
+          - if location[1][game] and location[1][game]["smart_broadband"]
+            - location[1][game]["smart_broadband"].each do |subscription, ping_data|
               - pings += ping_data
         = average(pings)
 -# %table
