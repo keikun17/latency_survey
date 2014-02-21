@@ -57,7 +57,7 @@ helpers do
       return sum / arr.size
 
     rescue
-      return "Error reading parsed data"
+      return "-"
     end
 
   end
