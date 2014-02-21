@@ -15,7 +15,7 @@
     %th Smart Broadband
   - games_list.each do |game|
     %tr
-      %td= game
+      %td= game.titleize
 
       %td
         - pings = []
