@@ -40,6 +40,8 @@ dota2_sea_servers:
     8mbps_fiber:
       - 90
       - 350
+    20mbps_fibr:
+      - 32
   smart_broadband:
     3g:
       - 100
@@ -85,11 +87,13 @@ starcraft2_us_servers:
       - 200
       - 300
 
-titanfall:
+titanfall_east_asia_servers:
   pldt:
     8mbps_fibr:
       - 33
       - 45
+    20mbps_fibr:
+      - 22
 
 warthunder:
   pldt:

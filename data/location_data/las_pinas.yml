@@ -55,7 +55,7 @@ league_of_legends_us_servers:
       - 150
       - 300
 
-titanfall:
+titanfall_east_asia_servers:
   pldt:
     5mbps:
       - 40

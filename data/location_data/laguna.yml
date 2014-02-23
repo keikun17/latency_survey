@@ -22,6 +22,8 @@ counterstrike_sea_servers:
 
 dota2_sea_servers:
   pldt:
+    2mbps:
+      - 130
     8mbps:
       - 80
       - 600

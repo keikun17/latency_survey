@@ -187,8 +187,9 @@ league_of_legends_sea_servers:
     1.5mbps:
       - 15
     2mbps:
+      - 13
+      - 17
       - 100
-      - 1000
     4mbps:
       - 40
 
@@ -239,6 +240,12 @@ tera_eu_servers:
   pldt:
     5mbps:
       - 400
+
+titanfall_east_asia_servers:
+  pldt:
+    8mbps:
+      - 40
+      - 50
 
 world_of_warcraft_us_servers:
   bayantel:

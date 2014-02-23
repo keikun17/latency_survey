@@ -1,0 +1,14 @@
+battlefield3_us_servers:
+  smart_broadband:
+    2mbps:
+      - 210
+
+battlefield3_ru_servers:
+  smart_broadband:
+    2mbps:
+      - 320
+
+battlefield3_cebu_servers:
+  smart_broadband:
+    2mbps:
+      - 90
