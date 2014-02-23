@@ -55,6 +55,11 @@ league_of_legends_us_servers:
       - 150
       - 300
 
+titanfall:
+  pldt:
+    5mbps:
+      - 40
+
 world_of_tanks_sea_servers:
   pldt:
     3mbps:

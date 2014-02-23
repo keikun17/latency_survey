@@ -48,6 +48,8 @@ dota2_sea_servers:
   globe:
     1mbps:
       - 100
+    2mbps:
+      - 38
 
 firefall:
   pldt:

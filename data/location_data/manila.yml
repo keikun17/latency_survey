@@ -84,6 +84,11 @@ heroes_of_newerth_sea_servers:
     2mbps:
       - 100
 
+league_of_legends_us_servers:
+  pldt:
+    1.5mbps:
+      - 275
+
 league_of_legends_sea_servers:
   pldt:
     2mbps:
@@ -128,7 +133,7 @@ rusty_hearts_us_servers:
       - 300
       - 200
       - 350
-      
+
 rusty_hearts_eu_servers:
   pldt:
     1mbps:

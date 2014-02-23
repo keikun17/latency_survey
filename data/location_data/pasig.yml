@@ -54,6 +54,8 @@ final_fantasy_14:
       - 300
       - 276
       - 300
+      - 80
+      - 120
 
 guildwars2:
   smart_broadband:
@@ -82,6 +84,12 @@ starcraft2_us_servers:
     8mbps_fiber:
       - 200
       - 300
+
+titanfall:
+  pldt:
+    8mbps_fibr:
+      - 33
+      - 45
 
 warthunder:
   pldt:

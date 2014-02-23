@@ -1,4 +1,8 @@
 battlefield4_sea_servers:
+  pldt:
+    5mbps:
+      - 50
+      - 90
   globe:
     3mbps:
       - 90
@@ -25,6 +29,7 @@ dota2_sea_servers:
   pldt:
     2mbps:
       - 89
+      - 300
     3mbps:
       - 100
       - 160
