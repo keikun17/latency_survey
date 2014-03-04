@@ -6,6 +6,11 @@ battlefield4_sea_servers:
     1mbps:
       - 56 
 
+streetfighter4_pc:
+  pldt:
+    3mbps:
+      - 20
+
 world_of_warcraft_oceanic_servers:
   globe:
     2mbps:
