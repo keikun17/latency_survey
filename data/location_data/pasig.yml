@@ -18,10 +18,14 @@ counterstrike_sea_servers:
     3mbps:
       - 60
 
-diablo3:
+diablo3_us_servers:
   smart_broadband:
     3g:
       - 300
+  globe:
+    5mbps:
+      - 300
+      - 160
 
 dota2_sea_servers:
   bayantel:

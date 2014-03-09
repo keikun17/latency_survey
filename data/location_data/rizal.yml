@@ -31,6 +31,12 @@ counterstrike_sea_servers:
       - 200
       - 220
 
+diablo3_us_servers:
+  pldt:
+    3mbps:
+      - 300
+      - 450 
+
 dota2_sea_servers:
   pldt:
     2mbps:

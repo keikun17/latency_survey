@@ -53,6 +53,11 @@ crossfire_sea_servers:
       - 180
       - 80
 
+diablo3_asia_servers:
+  pldt:
+    3mbps:
+      - 150
+
 diablo3_us_servers:
   sky_broadband:
     5mbps:
@@ -63,14 +68,20 @@ diablo3_us_servers:
       - 999
     2mbps:
       - 500
-      - 2000
+      - 900
       - 280
+    3mbps:
+      - 500
+      - 633
+      - 350
     5mbps:
       - 190
       - 210
   pldt:
     1mbps:
       - 120
+    3mbps:
+      - 100
     5mbps:
       - 416
 
