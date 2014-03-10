@@ -7,7 +7,7 @@
           %th.col-lg-5 Game
           %th.col-lg-3 ISP
           %th.col-lg-2 Plan
-          %th.col-lg-2 Average Ping
+          %th.col-lg-2 Average Ping (sample size)
         - game_data.each do |game, isp_data|
 
           - ctr = 0
@@ -25,6 +25,7 @@
                 %td{class: ping_class(average(pings))}
                   = average(pings)
                   ms
+                  (#{pings.count})
             - package_data.drop(1).each do |package, pings|
               %tr
                 %td
@@ -33,7 +34,7 @@
                 %td{class: ping_class(average(pings))}
                   = average(pings)
                   ms
-                  #{pings.count}
+                  (#{pings.count})
 
           - isp_data.drop(1).each do |isp, package_data|
             - package_data.take(1).each do |package, pings|
@@ -44,7 +45,7 @@
                 %td{class: ping_class(average(pings))}
                   = average(pings)
                   ms
-                  #{pings.count}
+                  (#{pings.count})
             - package_data.drop(1).each do |package, pings|
               %tr
                 %td
@@ -53,6 +54,7 @@
                 %td{class: ping_class(average(pings))}
                   = average(pings)
                   ms
+                  (#{pings.count})
 
 -# .row{id: snakecase(result.area)}
 -#   %h3= result.area.titleize
