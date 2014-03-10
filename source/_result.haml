@@ -33,9 +33,19 @@
                 %td{class: ping_class(average(pings))}
                   = average(pings)
                   ms
+                  #{pings.count}
 
           - isp_data.drop(1).each do |isp, package_data|
-            - package_data.each do |package, pings|
+            - package_data.take(1).each do |package, pings|
+              %tr
+                %td{rowspan: ping_count}= game.titleize
+                %td= isp.titleize
+                %td= package
+                %td{class: ping_class(average(pings))}
+                  = average(pings)
+                  ms
+                  #{pings.count}
+            - package_data.drop(1).each do |package, pings|
               %tr
                 %td
                 %td= isp.titleize
