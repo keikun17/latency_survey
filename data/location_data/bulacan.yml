@@ -36,3 +36,12 @@ phantasy_star_online:
     1.5mbps:
       - 50
 
+titanfall_east_asia_servers:
+  pldt:
+    50mbps_fibr:
+      - 55
+
+titanfall_west_us_servers:
+  pldt:
+    50mbps_fibr:
+      - 110

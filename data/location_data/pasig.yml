@@ -93,11 +93,20 @@ starcraft2_us_servers:
 
 titanfall_east_asia_servers:
   pldt:
+    8mbps:
+      - 30
+      - 50
     8mbps_fibr:
       - 33
       - 45
     20mbps_fibr:
       - 22
+
+titanfall_east_asia_servers:
+  pldt:
+    8mbps:
+      - 70
+      - 90
 
 warthunder:
   pldt:

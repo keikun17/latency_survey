@@ -254,6 +254,8 @@ tera_eu_servers:
 
 titanfall_east_asia_servers:
   pldt:
+    5mbps:
+      - 44
     8mbps:
       - 40
       - 50

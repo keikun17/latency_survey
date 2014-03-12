@@ -49,3 +49,9 @@ league_of_legends_sea_servers:
   smart_broadband:
     3g:
       - 550
+
+titanfall_east_asia_servers:
+  pldt:
+    3mbps:
+      - 40
+      - 60
