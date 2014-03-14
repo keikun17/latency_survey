@@ -18,7 +18,7 @@
             %ul.nav.nav-stacked
               %li
               - data.location_data.keys.each do |key|
-                %li= link_to key.titleize, "##{snakecase(key)}"
+                %li= link_to key.titleize, "/latency_survey/##{snakecase(key)}"
       .row
         .col-lg-10.col-lg-offset-2.content
           %h1 Online Gaming Latency Report (Philippines)
