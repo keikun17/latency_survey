@@ -83,6 +83,7 @@ diablo3_us_servers:
     3mbps:
       - 100
     5mbps:
+      - 215
       - 416
 
 dota2_aus_servers:

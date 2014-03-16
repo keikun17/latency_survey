@@ -50,8 +50,19 @@ league_of_legends_sea_servers:
     3g:
       - 550
 
+mechwarrior_online:
+  globe:
+    5mbps:
+      - 350
+
 titanfall_east_asia_servers:
   pldt:
     3mbps:
       - 40
       - 60
+
+world_of_tanks_sea_servers:
+  globe:
+    5mbps:
+      - 130
+
