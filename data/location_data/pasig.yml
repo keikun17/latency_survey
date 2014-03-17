@@ -106,6 +106,7 @@ titanfall_east_asia_servers:
   globe:
     5mbps:
       - 66
+      - 100
 
 warthunder:
   pldt:
