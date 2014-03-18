@@ -62,6 +62,9 @@ league_of_legends_us_servers:
 
 titanfall_east_asia_servers:
   pldt:
+    3mbps:
+      - 80
+      - 85
     5mbps:
       - 40
 
