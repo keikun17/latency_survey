@@ -71,6 +71,13 @@ tera_eu_servers:
     3mbps:
       - 330
 
+titanfall_east_asia_server:
+  globe:
+    3mbps:
+      - 50
+      - 70
+      - 70
+
 warhammer_the_age_of_reckoning:
   pldt:
     1mbps:
