@@ -4,7 +4,12 @@ battlefield4_sea_servers:
       - 90
   bayantel:
     1mbps:
-      - 56 
+      - 56
+
+dota_2_sea_servers:
+  pldt:
+    3mbps:
+      - 300
 
 streetfighter4_pc:
   pldt:
