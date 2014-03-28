@@ -10,33 +10,7 @@
     = javascript_include_tag  "all"
   %body{:class => page_classes}
     .container
-      .row
-        .col-lg-3.hidden-xs.hidden-sm
-          .fixed{style: "background-color: #FAFAFA"}
-            .text-center
-              %h3 Areas
-            %ul.nav.nav-stacked
-              %li
-              - data.location_data.keys.each do |key|
-                %li= link_to key.titleize, "/latency_survey/##{snakecase(key)}"
-      .row
-        .col-lg-10.col-lg-offset-2.content
-          %h1 Online Gaming Latency Report (Philippines)
-          .lead
-            %p
-              Average latency/ping in Online Games reported by gamers in the Philippines.
-          %p
-            Contribute to the cause.
-            #{link_to "Click here to fill up the latency survey", "https://docs.google.com/forms/d/1c-lECY5cFUiAbGuuuECvE5IXFBHA5L5IrSdxSaieLqM/viewform", class: 'btn btn-primary'}
-          %p
-            Or donate bitcoins to this address #{link_to "1Jccm62Tx4DWZRjAerZRhgn9a8LqAGfysv", "bitcoin:1Jccm62Tx4DWZRjAerZRhgn9a8LqAGfysv?label=Faster+Philippine+Internet"}
-
-          %p
-            #{link_to "By Game", "/latency_survey/by_game.html", class: 'btn btn-default'}
-            #{link_to "By Location", "/latency_survey/", class: 'btn btn-default'}
-          .pull-right
-            %i last updated March 24, 2014 (308 response)
-          = yield
+      = yield
   .text-center
     %p
       Data sourced from

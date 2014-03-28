@@ -1,56 +1,59 @@
-- games_list = []
+.row
+  .col-lg-12
+    = partial '_header'
+    - games_list = []
 
-- data.location_data.each do |location|
-  - games_list += location[1].keys
+    - data.location_data.each do |location|
+      - games_list += location[1].keys
 
-- games_list = games_list.sort!.uniq!
+    - games_list = games_list.sort!.uniq!
 
-%table.table
-  %tr
-    %th Game
-    %th Pldt
-    %th Globe
-    %th Bayantel
-    %th Sky Broadband
-    %th Smart Broadband
-  - games_list.each do |game|
-    %tr
-      %td= game.titleize
+    %table.table
+      %tr
+        %th Game
+        %th Pldt
+        %th Globe
+        %th Bayantel
+        %th Sky Broadband
+        %th Smart Broadband
+      - games_list.each do |game|
+        %tr
+          %td= game.titleize
 
-      %td
-        - pings = []
-        - data.location_data.each do |location|
-          - if location[1][game] and location[1][game]["pldt"]
-            - location[1][game]["pldt"].each do |subscription, ping_data|
-              - pings += ping_data
-        = average(pings)
+          %td
+            - pings = []
+            - data.location_data.each do |location|
+              - if location[1][game] and location[1][game]["pldt"]
+                - location[1][game]["pldt"].each do |subscription, ping_data|
+                  - pings += ping_data
+            = average(pings)
 
-      %td
-        - pings = []
-        - data.location_data.each do |location|
-          - if location[1][game] and location[1][game]["globe"]
-            - location[1][game]["globe"].each do |subscription, ping_data|
-              - pings += ping_data
-        = average(pings)
+          %td
+            - pings = []
+            - data.location_data.each do |location|
+              - if location[1][game] and location[1][game]["globe"]
+                - location[1][game]["globe"].each do |subscription, ping_data|
+                  - pings += ping_data
+            = average(pings)
 
-      %td
-        - pings = []
-        - data.location_data.each do |location|
-          - if location[1][game] and location[1][game]["bayantel"]
-            - location[1][game]["bayantel"].each do |subscription, ping_data|
-              - pings += ping_data
-        = average(pings)
-      %td
-        - pings = []
-        - data.location_data.each do |location|
-          - if location[1][game] and location[1][game]["sky_broadband"]
-            - location[1][game]["sky_broadband"].each do |subscription, ping_data|
-              - pings += ping_data
-        = average(pings)
-      %td
-        - pings = []
-        - data.location_data.each do |location|
-          - if location[1][game] and location[1][game]["smart_broadband"]
-            - location[1][game]["smart_broadband"].each do |subscription, ping_data|
-              - pings += ping_data
-        = average(pings)
+          %td
+            - pings = []
+            - data.location_data.each do |location|
+              - if location[1][game] and location[1][game]["bayantel"]
+                - location[1][game]["bayantel"].each do |subscription, ping_data|
+                  - pings += ping_data
+            = average(pings)
+          %td
+            - pings = []
+            - data.location_data.each do |location|
+              - if location[1][game] and location[1][game]["sky_broadband"]
+                - location[1][game]["sky_broadband"].each do |subscription, ping_data|
+                  - pings += ping_data
+            = average(pings)
+          %td
+            - pings = []
+            - data.location_data.each do |location|
+              - if location[1][game] and location[1][game]["smart_broadband"]
+                - location[1][game]["smart_broadband"].each do |subscription, ping_data|
+                  - pings += ping_data
+            = average(pings)

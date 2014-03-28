@@ -1,2 +1,14 @@
-- data.location_data.each do |location, game_data|
-  = partial '_result', locals: { location: location, game_data: game_data}
+.row
+  .col-lg-3.hidden-xs.hidden-sm
+    .fixed{style: "background-color: #FAFAFA"}
+      .text-center
+        %h3 Areas
+      %ul.nav.nav-stacked
+        %li
+        - data.location_data.keys.each do |key|
+          %li= link_to key.titleize, "/latency_survey/##{snakecase(key)}"
+.row
+  .col-lg-10.col-lg-offset-2.content
+    = partial '_header'
+    - data.location_data.each do |location, game_data|
+      = partial '_result', locals: { location: location, game_data: game_data}
