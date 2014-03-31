@@ -50,6 +50,20 @@ crysis3_us_servers:
     2mbps:
       - 150
 
+diablo3_sea_servers:
+  smart_broadband:
+    7.2mbps:
+      - 700
+
+diablo3_us_servers:
+    3mbps:
+      - 999
+      - 999
+
+  smart_broadband:
+    7.2mbps:
+      - 700
+
 dota2_sea_servers:
   globe:
     3mbps:
@@ -89,6 +103,9 @@ league_of_legends_us_servers:
   pldt:
     1.5mbps:
       - 275
+  smart_broadband:
+    7.2mbps:
+      - 500
 
 league_of_legends_sea_servers:
   pldt:
@@ -103,6 +120,9 @@ league_of_legends_sea_servers:
   sky_broadband:
     3mbps:
       - 14
+  smart_broadband:
+    7.2mbps:
+      - 500
 
 guildwars2:
   pldt:
