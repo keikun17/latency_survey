@@ -31,6 +31,21 @@ dota2_sea_servers:
     8mbps:
       - 60
       - 160
+    8mbps_fibr:
+      - 44
+      - 45
+      - 54
+      - 57
+      - 65
+      - 69
+      - 69
+      - 100
+      - 111
+      - 144
+      - 155
+      - 312
+      - 335
+      - 415
 
 league_of_legends_sea_servers:
   pldt:

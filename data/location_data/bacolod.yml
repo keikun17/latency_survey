@@ -1,0 +1,5 @@
+diablo3_us_servers:
+  pldt:
+    8mbps:
+      - 500
+      - 600
