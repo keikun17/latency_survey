@@ -1,3 +1,8 @@
+diablo_us_servers:
+  pldt:
+    1mbps:
+      - 600
+
 starcraft2_us_servers:
   pldt:
     1mbps:

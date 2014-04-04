@@ -11,6 +11,9 @@ dota2_sea_servers:
       - 109
     3mbps:
       - 70
+  pldt:
+    3mbps:
+      - 500
 
 teamfortress2_xjh_servers:
   pldt:
