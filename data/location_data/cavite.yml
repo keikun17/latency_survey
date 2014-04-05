@@ -72,6 +72,9 @@ mechwarrior_online:
   globe:
     5mbps:
       - 350
+  pldt:
+    1.5mbps:
+      - 240
 
 titanfall_east_asia_servers:
   pldt:
@@ -80,6 +83,9 @@ titanfall_east_asia_servers:
       - 60
 
 world_of_tanks_sea_servers:
+  pldt:
+    1.5mbps:
+      - 60
   globe:
     5mbps:
       - 130

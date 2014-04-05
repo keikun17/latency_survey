@@ -11,6 +11,11 @@ dota_2_sea_servers:
     3mbps:
       - 300
 
+dota_2_sea_servers:
+  bayantel:
+    3mbps:
+      - 600
+
 streetfighter4_pc:
   pldt:
     3mbps:
