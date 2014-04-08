@@ -36,6 +36,11 @@ phantasy_star_online:
     1.5mbps:
       - 50
 
+super_dance_online_extreme_sea_servers:
+  pldt:
+    2mbps:
+      - 26
+
 titanfall_east_asia_servers:
   pldt:
     50mbps_fibr:

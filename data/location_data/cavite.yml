@@ -76,6 +76,12 @@ mechwarrior_online:
     1.5mbps:
       - 240
 
+neverwinter_online:
+  pldt:
+    3mbps:
+      - 250
+      - 350
+
 titanfall_east_asia_servers:
   pldt:
     3mbps:
