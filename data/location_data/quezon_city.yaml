@@ -57,6 +57,12 @@ diablo3_asia_servers:
   pldt:
     3mbps:
       - 150
+  sky_broadband:
+    3mbps:
+      - 100
+      - 250
+      - 900
+      - 900
 
 diablo3_us_servers:
   sky_broadband:

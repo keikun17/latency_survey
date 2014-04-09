@@ -28,6 +28,9 @@ dota2_sea_servers:
       - 80
       - 600
       - 70
+  smart_broadband:
+    wimax:
+      - 169
 
 dragons_nest_sea_servers:
   pldt:
