@@ -14,6 +14,8 @@ battlefield4_sea_servers:
 
 counterstrike_sea_servers:
   pldt:
+    2mbps:
+      - 315
     3mbps:
       - 40
       - 180
@@ -24,6 +26,7 @@ dota2_sea_servers:
   pldt:
     2mbps:
       - 130
+      - 250
     8mbps:
       - 80
       - 600
@@ -40,6 +43,8 @@ dragons_nest_sea_servers:
 
 league_of_legends_sea_servers:
   pldt:
+    2mbps:
+      - 55
     3mbps:
       - 31
       - 50

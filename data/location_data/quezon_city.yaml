@@ -229,6 +229,9 @@ league_of_legends_us_servers:
       - 8
 
 rift:
+  globe:
+    5mbps:
+      - 250
   bayantel:
     1mbps:
       - 350

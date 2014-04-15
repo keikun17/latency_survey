@@ -3,6 +3,9 @@ dota2_sea_servers:
     5mbps:
       - 200
       - 300
+  sky_broadband:
+    5mbps:
+      - 74
 
 dragons_nest_sea_servers:
   pldt:

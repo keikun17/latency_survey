@@ -6,12 +6,15 @@ battlefield4_sea_servers:
     1mbps:
       - 56
 
-dota_2_sea_servers:
+dota2_sea_servers:
   pldt:
     3mbps:
       - 300
 
-dota_2_sea_servers:
+dota2_sea_servers:
+  globe:
+    3mbps:
+      - 200
   bayantel:
     3mbps:
       - 600
