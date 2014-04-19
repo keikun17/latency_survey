@@ -95,6 +95,8 @@ starcraft2_us_servers:
 
 titanfall_east_asia_servers:
   pldt:
+    3mbps:
+      - 200
     8mbps:
       - 30
       - 50
@@ -117,6 +119,16 @@ warthunder:
       - 360
 
 world_of_warcraft_us_servers:
+  pldt:
+    5mbps:
+      - 170
+      - 160
   sky_broadband:
     5mbps:
       - 275
+
+world_of_warcraft_eu_servers:
+  bayantel:
+    5mbps:
+      - 350
+      - 450

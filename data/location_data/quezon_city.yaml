@@ -74,6 +74,8 @@ diablo3_us_servers:
       - 999
       - 600
       - 999
+    1.5mbps:
+      - 700
     2mbps:
       - 500
       - 900

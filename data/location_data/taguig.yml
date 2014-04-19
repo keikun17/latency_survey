@@ -1,5 +1,7 @@
-diablo3:
+diablo3_us_servers:
   pldt:
+    5mbps:
+      - 300
     10mbps:
       - 200
       - 230
