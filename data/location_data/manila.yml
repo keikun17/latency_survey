@@ -60,6 +60,8 @@ diablo3_us_servers:
     3mbps:
       - 999
       - 999
+    8mbps:
+      - 180
 
   smart_broadband:
     7.2mbps:
@@ -143,6 +145,11 @@ path_of_exile:
     5mbps:
       - 185
       - 230
+
+planetside2:
+  pldt:
+    8mbps:
+      - 250
 
 ran_online:
   pldt:

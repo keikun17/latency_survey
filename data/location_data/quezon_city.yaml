@@ -230,6 +230,11 @@ league_of_legends_us_servers:
     8mbps_fibr:
       - 8
 
+mechwarrior_online:
+  pldt:
+    3mbps:
+      - 210
+
 rift:
   globe:
     5mbps:
@@ -272,6 +277,10 @@ tera_eu_servers:
 
 titanfall_east_asia_servers:
   pldt:
+    3mbps:
+      - 53
+      - 80
+      - 120
     5mbps:
       - 44
     8mbps:
