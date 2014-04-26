@@ -5,3 +5,8 @@ battlefield4_sea_servers:
       - 60
       - 170
       - 400
+
+dota2_sea_servers:
+  bayantel:
+    512mbps:
+      - 100

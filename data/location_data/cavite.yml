@@ -66,6 +66,8 @@ league_of_legends_sea_servers:
       - 86
 
   smart_broadband:
+    1.5mbps:
+      - 381
     3g:
       - 550
 
