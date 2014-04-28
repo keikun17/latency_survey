@@ -4,6 +4,11 @@ archblade:
       - 200
       - 1000
 
+battlefield3_sea_servers:
+  bayantel:
+    5mbps:
+      - 200
+
 battlefield4_sea_servers:
   bayantel:
     2mbps:
@@ -65,6 +70,12 @@ diablo3_asia_servers:
       - 900
 
 diablo3_us_servers:
+  bayantel:
+    5mbps:
+      - 500
+      - 700
+      - 200
+      - 300
   sky_broadband:
     5mbps:
       - 100

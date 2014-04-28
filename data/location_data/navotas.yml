@@ -6,6 +6,9 @@ counterstrike_sea_servers:
 
 dota2_sea_servers:
   pldt:
+   2mbps:
+     - 248
+     - 215 
    10mbps:
       - 45
       - 90
