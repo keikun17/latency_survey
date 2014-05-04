@@ -2,6 +2,7 @@ battlefield4_sea_servers:
   pldt:
     3mbps:
       - 90
+      - 200
   bayantel:
     1mbps:
       - 56

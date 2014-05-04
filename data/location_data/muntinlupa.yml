@@ -9,6 +9,11 @@ battlefield4_sea_servers:
     1mbps:
       - 90
 
+dota2_sea_server:
+  pldt:
+    8mbps_fibr:
+      - 220
+
 mechwarrior_online:
   pldt:
     1mbps:
