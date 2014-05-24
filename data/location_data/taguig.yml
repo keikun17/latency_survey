@@ -16,6 +16,11 @@ final_fantasy_14:
     3mbps:
       - 300
 
+gunz_2:
+  pldt:
+    5mbps_fibr:
+      - 220
+
 league_of_legends_sea_servers:
   pldt:
     2mbps:

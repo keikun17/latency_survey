@@ -7,6 +7,12 @@ battlefield4_sea_servers:
     1mbps:
       - 56
 
+diablo3_us_servers:
+  pldt:
+    3mbps:
+      - 220
+      - 290
+
 dota2_sea_servers:
   pldt:
     3mbps:
@@ -19,6 +25,23 @@ dota2_sea_servers:
   bayantel:
     3mbps:
       - 600
+
+mercenary_online:
+  pldt:
+    8mbps:
+      - 120
+
+path_of_exile_garena_servers:
+  pldt:
+    3mbps:
+      - 280
+      - 320
+
+path_of_exile_us_servers:
+  pldt:
+    3mbps:
+      - 250
+      - 300
 
 streetfighter4_pc:
   pldt:
