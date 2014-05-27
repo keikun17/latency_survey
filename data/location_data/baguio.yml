@@ -1,3 +1,8 @@
+aion:
+  pldt:
+    3mbps:
+      - 500
+
 battlefield3_us_servers:
   globe:
     2mbps:

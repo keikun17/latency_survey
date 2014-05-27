@@ -29,6 +29,7 @@ dota2_sea_servers:
     3mbps:
       - 150
       - 150
+      - 215
     5mbps:
       - 220
       - 80
@@ -50,6 +51,11 @@ dota2_sea_servers:
       - 312
       - 335
       - 415
+
+heroes_of_newerth_sea_servers:
+  globe:
+    2mbps:
+      - 87
 
 league_of_legends_sea_servers:
   pldt:
