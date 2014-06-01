@@ -55,6 +55,9 @@ dota2_sea_servers:
       - 100
     2mbps:
       - 100
+  sky_broadband:
+    3mbps:
+      - 240
 
 guildwars2:
   pldt:
