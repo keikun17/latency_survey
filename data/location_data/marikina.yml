@@ -14,3 +14,9 @@ heroes_of_newerth_sea_servers:
     1mbps:
       - 100
       - 450
+
+world_of_warcraft_us_servers:
+  pldt:
+    1mbps:
+      - 260
+      - 190

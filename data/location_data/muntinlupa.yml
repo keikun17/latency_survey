@@ -8,6 +8,11 @@ battlefield4_sea_servers:
   pldt:
     1mbps:
       - 90
+diablo3_us_servers:
+  pldt:
+    1.5mbps:
+      - 700
+      - 800
 
 dota2_sea_server:
   pldt:
