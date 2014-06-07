@@ -10,6 +10,9 @@ dota2_sea_servers:
   pldt:
     2mbps:
       - 40
+    3mbps:
+      - 100
+      - 200
 
 final_fantasy_14:
   pldt:
