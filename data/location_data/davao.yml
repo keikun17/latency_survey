@@ -3,9 +3,18 @@ battlefield4_sea_servers:
     3mbps:
       - 90
       - 200
+    5mbps:
+      - 179
+      - 184
+      - 238
   bayantel:
     1mbps:
       - 56
+
+battlefield_hardline_servers:
+  pldt:
+    5mbps:
+      - 212
 
 diablo3_eu_servers:
   pldt:

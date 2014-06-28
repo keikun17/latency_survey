@@ -255,7 +255,7 @@ mechwarrior_online:
     3mbps:
       - 210
 
-rift:
+rift_na_servers:
   globe:
     5mbps:
       - 250
