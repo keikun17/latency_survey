@@ -51,12 +51,17 @@ crysis3_us_servers:
       - 150
 
 diablo3_sea_servers:
+  pldt:
+    2mbps:
+      - 250
   smart_broadband:
     7.2mbps:
       - 700
 
 diablo3_us_servers:
   pldt:
+    2mbps:
+      - 500
     3mbps:
       - 999
       - 999

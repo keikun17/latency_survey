@@ -118,11 +118,17 @@ warthunder:
       - 280
       - 360
 
+world_of_tanks_eu_servers:
+  pldt:
+    8mbps:
+      - 500
 world_of_warcraft_us_servers:
   pldt:
     5mbps:
       - 170
       - 160
+    5mbps:
+      - 500
   sky_broadband:
     5mbps:
       - 275
