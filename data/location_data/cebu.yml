@@ -18,6 +18,11 @@ chivalry_us_servers:
     2mbps:
       - 260
 
+crossfire:
+  globe:
+    5mbps:
+      - 260
+
 diablo_us_servers:
   globe:
     1mbps:
