@@ -51,6 +51,9 @@ counterstrike_sea_servers:
       - 80
 
 crossfire_sea_servers:
+  wi_tribe:
+    1mbps:
+      - 300
   globe:
     3mbps:
       - 35

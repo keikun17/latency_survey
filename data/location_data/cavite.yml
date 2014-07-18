@@ -91,6 +91,11 @@ neverwinter_online:
       - 250
       - 350
 
+smite_na_servers:
+  pldt:
+    3mbps:
+      - 20
+
 titanfall_east_asia_servers:
   pldt:
     3mbps:

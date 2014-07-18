@@ -37,6 +37,11 @@ teamfortress2_sea_servers:
     1.5mbps:
       - 58
 
+smite_na_servers:
+  pldt:
+    3mbps:
+      - 280
+
 starcraft2_us_servers:
   pldt:
     3mbps:

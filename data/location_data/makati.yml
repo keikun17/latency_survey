@@ -59,6 +59,8 @@ league_of_legends_sea_servers:
   pldt:
     3mbps:
       - 54
+    4mbps:
+      - 300
 
 star_wars_the_old_republic:
   pldt:
