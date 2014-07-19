@@ -1,3 +1,8 @@
+aion_us_servers:
+  globe:
+    1mbps:
+      - 500
+
 diablo3_us_servers:
   globe:
     2mbps:
@@ -14,3 +19,7 @@ league_of_legends_us_servers:
     2mbps:
       - 210
 
+tera_us_servers:
+  globe:
+    1mbps:
+      - 330

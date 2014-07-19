@@ -49,6 +49,8 @@ dota2_sea_servers:
     20mbps_fibr:
       - 32
   smart_broadband:
+    lte:
+      - 300
     3g:
       - 100
 

@@ -12,3 +12,8 @@ battlefield3_cebu_servers:
   smart_broadband:
     2mbps:
       - 90
+
+smite_us_servers:
+  pldt:
+    3mbps:
+      - 68
