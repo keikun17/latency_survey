@@ -50,6 +50,11 @@ league_of_legends_sea_servers:
       - 180
       - 300
 
+smite_na_servers:
+  pldt:
+    3mbps:
+      - 350
+
 world_of_warcraft_oceanic_servers:
   globe:
     3mbps:

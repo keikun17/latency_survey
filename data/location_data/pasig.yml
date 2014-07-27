@@ -77,6 +77,12 @@ league_of_legends:
     11mbps_fiber:
       - 20
 
+path_of_exile_sea_servers:
+  sky_broadband:
+    1mbps:
+      - 300
+      - 700
+
 red_orchestra:
   pldt:
     5mbps:
