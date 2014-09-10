@@ -13,6 +13,8 @@ dota2_sea_servers:
     3mbps:
       - 100
       - 200
+      - 130
+      - 170
 
 final_fantasy_14:
   pldt:
@@ -29,12 +31,12 @@ league_of_legends_sea_servers:
     2mbps:
       - 9
       - 40
-
-league_of_legends_sea_servers:
-  pldt:
-    2mbps:
       - 100
       - 180
+  sky_broadband:
+    16mbps:
+      - 150
+      - 200
 
 ragnarok2_sea_server:
   pldt:

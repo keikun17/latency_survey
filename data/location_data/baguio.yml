@@ -34,6 +34,8 @@ dota2_sea_servers:
   pldt:
     1mbps:
       - 110
+    10bmps:
+      - 269
   sky_broadband:
     1.5mbps:
       - 250

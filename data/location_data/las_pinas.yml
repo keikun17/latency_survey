@@ -53,6 +53,7 @@ league_of_legends_sea_servers:
     3mbps:
       - 50
       - 125
+      - 19
 
 league_of_legends_us_servers:
   pldt:
