@@ -47,6 +47,7 @@ league_of_legends_sea_servers:
       - 100
       - 180
       - 300
+      - 15
 
 smite_na_servers:
   pldt:
