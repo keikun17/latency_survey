@@ -45,10 +45,6 @@ league_of_legends_sea_servers:
     1mbps:
       - 50
       - 100
-
-league_of_legends_sea_servers:
-  globe:
-    1mbps:
       - 180
       - 300
 
