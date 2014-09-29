@@ -57,6 +57,8 @@ dota2_sea_servers:
       - 100
     2mbps:
       - 38
+    3mbps:
+      - 50
 
 firefall:
   pldt:

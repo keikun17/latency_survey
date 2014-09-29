@@ -96,6 +96,9 @@ world_of_tanks_sea_servers:
   globe:
     3mbps:
       - 88
+  pldt:
+    2mbps:
+      - 280
 
 world_of_warcraft_us_servers:
   pldt:

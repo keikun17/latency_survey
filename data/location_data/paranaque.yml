@@ -47,6 +47,12 @@ league_of_legends_sea_servers:
       - 26
       - 30
 
+starwars_the_old_republic:
+  pldt:
+    8mbps:
+      - 300
+      - 500
+
 teamfortress2_xjz_servers:
   pldt:
     1.5mbps:

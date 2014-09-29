@@ -36,6 +36,8 @@ dota2_sea_servers:
       - 50
       - 70
     3mbps:
+      - 170
+      - 200
       - 200
       - 20
       - 150
@@ -55,4 +57,5 @@ league_of_legends_sea_servers:
   pldt:
     3mbps:
       - 80
+      - 25
 
