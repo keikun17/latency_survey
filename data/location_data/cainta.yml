@@ -1,4 +1,4 @@
-globe:
-  tera_online_us_servers:
+tera_online_us_servers:
+  globe:
     3mbps:
       - 280

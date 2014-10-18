@@ -11,6 +11,9 @@ battlefield4_sea_servers:
       - 200
       - 400
       - 114
+    5mbps:
+      - 240
+      - 340
 
 counterstrike_sea_servers:
   pldt:
@@ -19,6 +22,10 @@ counterstrike_sea_servers:
     3mbps:
       - 40
       - 180
+    5mbps:
+      - 90
+      - 150
+      - 120
     8mbps:
       - 250
 
@@ -30,6 +37,9 @@ dota2_sea_servers:
     3mbps:
       - 180
       - 200
+    5mbps:
+      - 150
+      - 210
     8mbps:
       - 80
       - 600
@@ -57,6 +67,21 @@ league_of_legends_us_servers:
   pldt:
     3mbps:
       - 100
+    5mbps:
+      - 190
+      - 210
+
+left_4_dead1:
+  pldt:
+    5mbps:
+      - 90
+      - 150
+
+left_4_dead2:
+  pldt:
+    5mbps:
+      - 90
+      - 150
 
 starcraft2_sea_servers:
   pldt:

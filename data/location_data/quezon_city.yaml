@@ -45,6 +45,8 @@ counterstrike_sea_servers:
     3mbps:
       - 60
       - 100
+      - 150
+      - 300
   sky_broadband:
     5mbps:
       - 60
@@ -304,6 +306,12 @@ tera_eu_servers:
   pldt:
     5mbps:
       - 400
+
+tera_us_servers:
+  bayantel:
+    3mbps:
+      - 250
+      - 800
 
 titanfall_east_asia_servers:
   pldt:
