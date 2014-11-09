@@ -64,6 +64,9 @@ crossfire_sea_servers:
       - 80
 
 diablo3_asia_servers:
+  bayantel:
+    5mbps:
+      - 150
   pldt:
     3mbps:
       - 150
@@ -151,6 +154,7 @@ dota2_sea_servers:
       - 412
     5mbps:
       - 80
+      - 60
   pldt:
     20mbps_fiber:
       - 200

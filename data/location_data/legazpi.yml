@@ -1,4 +1,29 @@
+battlefield3_sea_servers:
+  bayantel:
+    3mbps:
+      - 50
+      - 120
+
+counterstrike_sea_servers:
+  bayantel:
+    3mbps:
+      - 15
+      - 90
+
+crossfire_sea_servers:
+  bayantel:
+    3mbps:
+      - 10
+      - 15
+
+dota2_sea_servers:
+  bayantel:
+    3mbps:
+      - 20
+      - 50
+
 league_of_legends_sea_servers:
   bayantel:
     780kbps:
       - 24
+

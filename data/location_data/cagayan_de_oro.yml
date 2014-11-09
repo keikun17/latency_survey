@@ -38,3 +38,8 @@ league_of_legends_sea_servers:
   pldt:
     2mbps:
       - 50
+
+tera_us_servers:
+  smart_broadband_canpoy:
+    2mbps:
+      - 240

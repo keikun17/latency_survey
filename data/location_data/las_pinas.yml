@@ -74,3 +74,8 @@ world_of_tanks_sea_servers:
     3mbps:
       - 140
 
+world_of_warcraft_us_servers:
+  pldt:
+    5mbps:
+      - 180
+

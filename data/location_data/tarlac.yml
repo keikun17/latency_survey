@@ -1,0 +1,12 @@
+world_of_warcraft_oceanic_servers:
+  pltd:
+    3mbps:
+      - 165
+      - 170
+
+
+world_of_warcraft_asia_servers:
+  pltd:
+    3mbps:
+      - 175
+      - 200

@@ -95,3 +95,8 @@ teamfortress2_sea_servers:
     8mbps:
       - 50
       - 150
+
+world_of_warcraft_eu_servers:
+  pldt:
+    3mbps:
+      - 330
