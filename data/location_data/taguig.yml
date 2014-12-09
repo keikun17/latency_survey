@@ -13,6 +13,14 @@ diablo3_us_servers:
       - 230
 
 dota2_sea_servers:
+  globe:
+    15mbps:
+      - 55
+      - 59
+
+  smart_broadband:
+    2mbps:
+      - 90
   pldt:
     2mbps:
       - 40
@@ -21,6 +29,12 @@ dota2_sea_servers:
       - 200
       - 130
       - 170
+
+dota2_us_servers:
+  globe:
+    15mbps:
+      - 160
+      - 350
 
 final_fantasy_14:
   pldt:
@@ -61,6 +75,10 @@ starcraft2_eu_servers:
       - 150
 
 starcraft2_sea_servers:
+  globe:
+    15mbps:
+      - 84
+
   pldt:
     6mbps:
       - 100
