@@ -1,3 +1,9 @@
+counterstrike_sea_servers:
+  smart_broadband:
+    2mbps:
+       - 60
+       - 200
+
 diablo3_us_servers:
   pldt:
     5mbps:
@@ -64,3 +70,14 @@ super_street_fighter4:
   globe:
     2mbps:
       - 100
+
+teamfortress_2_sea_servers:
+  smart_broadband:
+    2mbps:
+      - 60
+      - 200
+
+world_of_warcraft_us_servers:
+  smart_broadband:
+    2mbps:
+      - 170

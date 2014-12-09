@@ -59,3 +59,8 @@ league_of_legends_sea_servers:
       - 80
       - 25
 
+titanfall_east_asia_servers:
+  pldt:
+    8mbps:
+      - 450
+

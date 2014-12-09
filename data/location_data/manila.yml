@@ -194,6 +194,11 @@ rusty_hearts_eu_servers:
     1mbps:
       - 300
 
+starcraft2_kr_servers:
+  pldt:
+    3mbps:
+      - 50
+
 star_wars_the_old_republic:
   pldt:
     5mbps:
