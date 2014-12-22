@@ -46,7 +46,7 @@ dota2_sea_servers:
     8mbps_fiber:
       - 90
       - 350
-    20mbps_fibr:
+    20mbps_fiber:
       - 32
   smart_broadband:
     lte:
@@ -59,7 +59,7 @@ final_fantasy_14:
   pldt:
     1mbps:
       - 180
-    8mbps_fibr:
+    8mbps_fiber:
       - 78
       - 300
       - 276
@@ -110,10 +110,10 @@ titanfall_east_asia_servers:
       - 50
       - 70
       - 90
-    8mbps_fibr:
+    8mbps_fiber:
       - 33
       - 45
-    20mbps_fibr:
+    20mbps_fiber:
       - 22
   globe:
     5mbps:

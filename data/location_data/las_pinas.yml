@@ -14,7 +14,7 @@ counterstrike_sea_servers:
     3mbps:
       - 200
       - 50
-    20mbps_fibr:
+    20mbps_fiber:
       - 35
       - 50
 

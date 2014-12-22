@@ -15,7 +15,7 @@ battlefield4_sea_servers:
 
 call_of_duty_advanced_warfare_us_servers:
   pldt:
-    50mbps_fibr:
+    50mbps_fiber:
       - 180
 
 chivalry_us_servers:

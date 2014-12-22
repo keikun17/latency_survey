@@ -106,7 +106,7 @@ dota2_sea_servers:
       - 50
       - 100
       - 120
-    10mbps_fibr:
+    10mbps_fiber:
       - 140
 
 dragons_nest_sea_servers:
@@ -155,7 +155,7 @@ guildwars2:
 
 mechwarrior_online:
   pldt:
-    10mbps_fibr:
+    10mbps_fiber:
       - 250
 
 mercenary_online:
@@ -206,7 +206,7 @@ star_wars_the_old_republic:
       - 300
 world_of_warcraft_oceanic_servers:
   pldt:
-    10mbps_fibr:
+    10mbps_fiber:
       - 180
 
 yulgang:

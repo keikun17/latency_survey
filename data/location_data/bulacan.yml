@@ -46,10 +46,10 @@ super_dance_online_extreme_sea_servers:
 
 titanfall_east_asia_servers:
   pldt:
-    50mbps_fibr:
+    50mbps_fiber:
       - 55
 
 titanfall_west_us_servers:
   pldt:
-    50mbps_fibr:
+    50mbps_fiber:
       - 110

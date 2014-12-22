@@ -41,7 +41,7 @@ dota2_sea_servers:
       - 188
     5mbps:
       - 100
-    8mbps_fibr:
+    8mbps_fiber:
       - 200
 
 dota2_us_servers:

@@ -16,7 +16,7 @@ diablo3_us_servers:
 
 dota2_sea_server:
   pldt:
-    8mbps_fibr:
+    8mbps_fiber:
       - 220
 
 mechwarrior_online:

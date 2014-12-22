@@ -265,7 +265,7 @@ league_of_legends_us_servers:
   pldt:
     3mbps:
       - 600
-    8mbps_fibr:
+    8mbps_fiber:
       - 8
 
 mechwarrior_online:
