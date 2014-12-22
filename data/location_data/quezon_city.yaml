@@ -187,7 +187,7 @@ dota2_sea_servers:
   pldt:
     1mbps:
       - 150
-    5mpbs:
+    5mbps:
       - 150
 dota2_us_servers:
   pldt:

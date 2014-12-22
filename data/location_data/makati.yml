@@ -27,7 +27,7 @@ diablo3_us_servers:
     1mbps:
        - 283
   globe:
-    2mpbs:
+    2mbps:
       - 172
 
 dota2_sea_servers:
