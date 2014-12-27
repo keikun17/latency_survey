@@ -1,0 +1,6 @@
+dota2_sea_servers:
+  pldt:
+    10mbps_fiber:
+      - 260
+      - 300
+

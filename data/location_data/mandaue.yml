@@ -44,6 +44,9 @@ dota2_sea_servers:
     3mbps:
       - 190
       - 60
+    5mbps:
+      - 100
+      - 300
 
 silkroad_sea_servers:
   globe:

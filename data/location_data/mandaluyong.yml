@@ -9,6 +9,7 @@ battlefield4_sea_servers:
 counterstrike_sea_servers:
   pldt:
     3mbps:
+      - 80
       - 180
       - 250
 

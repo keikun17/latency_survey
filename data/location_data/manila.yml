@@ -102,6 +102,7 @@ dota2_sea_servers:
       - 50
       - 120
       - 100
+      - 90
     5mbps:
       - 50
       - 100
@@ -127,6 +128,8 @@ league_of_legends_us_servers:
   pldt:
     1.5mbps:
       - 275
+    3mbps:
+      - 20
   smart_broadband:
     7.2mbps:
       - 500

@@ -98,6 +98,11 @@ smite_na_servers:
     3mbps:
       - 20
 
+tera_us_servers:
+  pldt:
+    3mbps:
+      - 350
+
 titanfall_east_asia_servers:
   pldt:
     3mbps:
