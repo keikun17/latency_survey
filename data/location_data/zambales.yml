@@ -5,13 +5,16 @@ battlefield4_sea_servers:
       - 82
 
 counterstrike_sea_servers:
+  pldt:
     8mbps_fiber:
       - 70
 
 dota2_sea_servers:
+  pldt:
     8mbps_fiber:
       - 40
 
 league_of_legends_sea_servers:
+  pldt:
     8mbps_fiber:
       - 10
