@@ -6,6 +6,8 @@ crossfire_sea_servers:
 
 dota2_sea_servers:
   pldt:
+    2mbps:
+      - 103
     3mbps:
       - 80
       - 80
