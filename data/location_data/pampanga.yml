@@ -4,6 +4,9 @@ aion_us_servers:
       - 500
 
 diablo3_us_servers:
+  pldt:
+    5mbps:
+      - 333
   globe:
     2mbps:
       - 100
