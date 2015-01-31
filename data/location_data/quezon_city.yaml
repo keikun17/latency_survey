@@ -38,6 +38,10 @@ company_of_heroes:
       - 450
 
 counterstrike_sea_servers:
+  pldt:
+    3mbps:
+      - 40
+      - 50
   bayantel:
     1mbps:
       - 60
@@ -164,6 +168,8 @@ dota2_sea_servers:
       - 250
       - 300
     3mbps:
+      - 60
+      - 90
       - 80
       - 80
       - 180
@@ -212,6 +218,9 @@ dragons_nest_sea_servers:
       - 58
 
 final_fantasy_14:
+  pldt:
+    3mbps:
+      - 120
   globe:
     5mbps:
       - 80
@@ -276,6 +285,10 @@ mechwarrior_online:
   pldt:
     3mbps:
       - 210
+payday:
+  pldt:
+    3mbps:
+      - 90
 
 rift_na_servers:
   globe:
@@ -336,6 +349,11 @@ titanfall_east_asia_servers:
       - 50
 
 world_of_warcraft_us_servers:
+  pldt:
+    3mbps:
+      - 90
+      - 120
+
   bayantel:
     1mbps:
       - 200

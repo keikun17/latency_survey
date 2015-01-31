@@ -15,5 +15,7 @@ battlefield3_cebu_servers:
 
 smite_us_servers:
   pldt:
+    2mbps:
+      - 82
     3mbps:
       - 68
