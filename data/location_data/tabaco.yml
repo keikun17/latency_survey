@@ -1,0 +1,23 @@
+archage_na_server:
+  pldt:
+    2mbps:
+      - 200
+      - 300
+
+diablo3_na_server:
+  pldt:
+    2mbps:
+      - 200
+      - 240
+
+elder_scrolls_online_na_server:
+  pldt:
+    2mbps:
+      - 260
+      - 300
+
+heroes_of_the_storm_sea_servers:
+  pldt:
+    2mbps:
+      - 130
+      - 290
