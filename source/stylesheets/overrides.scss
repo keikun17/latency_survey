@@ -25,7 +25,20 @@ span, p, ul, li {
 
 table tr {
   th, td{
+    background-color: #FFF !important;
     @include font-data;
+  }
+
+  td.warning{
+    color: #c09853;
+  }
+
+  td.danger{
+    color: #b94a48;
+  }
+
+  td.success{
+    color: #468847;
   }
 }
 
