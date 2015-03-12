@@ -6,8 +6,8 @@
         %tr
           %th.col-lg-5 Game
           %th.col-lg-3 ISP
-          %th.col-lg-2 Plan
-          %th.col-lg-2 Average Ping (sample size)
+          %th.col-lg-1 Plan
+          %th.col-lg-3 Ave Ping (sample size)
         - game_data.each do |game, isp_data|
 
           - ctr = 0
@@ -55,32 +55,3 @@
                   = average(pings)
                   ms
                   (#{pings.count})
-
--# .row{id: snakecase(result.area)}
--#   %h3= result.area.titleize
--#
--#   .col-lg-10
--#     %table.table
--#       %thead
--#         %tr
--#           %th.col-lg-5 Game
--#           %th.col-lg-4 ISP
--#           %th.col-lg-3 Average Ping
--#       - result.games.each do |title|
--#         %tbody
--#           - result.game_latencies[title].take(1).each do |name, ping|
--#             %tr
--#               %td{rowspan: result.game_latencies[title].size}= title.titleize
--#               %td{class: ping_class(average(ping))}= name.titleize
--#               %td{class: ping_class(average(ping))}
--#                 = average(ping)
--#                 ms
--#
--#           - result.game_latencies[title].drop(1).each do |name, ping|
--#             %tr
--#               %td{class: ping_class(average(ping))}= name.titleize
--#               %td{class: ping_class(average(ping))}
--#                 = average(ping)
--#                 ms
--#
--#
