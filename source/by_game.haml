@@ -20,40 +20,43 @@
         %tr
           %td= game.titleize
 
-          %td
-            - pings = []
-            - data.location_data.each do |location|
-              - if location[1][game] and location[1][game]["pldt"]
-                - location[1][game]["pldt"].each do |subscription, ping_data|
-                  - pings += ping_data
+          - pings = []
+          - data.location_data.each do |location|
+            - if location[1][game] and location[1][game]["pldt"]
+              - location[1][game]["pldt"].each do |subscription, ping_data|
+                - pings += ping_data
+          %td{class: ping_class(average(pings))}
             = average(pings)
 
-          %td
-            - pings = []
-            - data.location_data.each do |location|
-              - if location[1][game] and location[1][game]["globe"]
-                - location[1][game]["globe"].each do |subscription, ping_data|
-                  - pings += ping_data
+          - pings = []
+          - data.location_data.each do |location|
+            - if location[1][game] and location[1][game]["globe"]
+              - location[1][game]["globe"].each do |subscription, ping_data|
+                - pings += ping_data
+          %td{class: ping_class(average(pings))}
             = average(pings)
 
-          %td
-            - pings = []
-            - data.location_data.each do |location|
-              - if location[1][game] and location[1][game]["bayantel"]
-                - location[1][game]["bayantel"].each do |subscription, ping_data|
-                  - pings += ping_data
+          - pings = []
+          - data.location_data.each do |location|
+            - if location[1][game] and location[1][game]["bayantel"]
+              - location[1][game]["bayantel"].each do |subscription, ping_data|
+                - pings += ping_data
+          %td{class: ping_class(average(pings))}
             = average(pings)
-          %td
-            - pings = []
-            - data.location_data.each do |location|
-              - if location[1][game] and location[1][game]["sky_broadband"]
-                - location[1][game]["sky_broadband"].each do |subscription, ping_data|
-                  - pings += ping_data
+
+
+          - pings = []
+          - data.location_data.each do |location|
+            - if location[1][game] and location[1][game]["sky_broadband"]
+              - location[1][game]["sky_broadband"].each do |subscription, ping_data|
+                - pings += ping_data
+          %td{class: ping_class(average(pings))}
             = average(pings)
-          %td
-            - pings = []
-            - data.location_data.each do |location|
-              - if location[1][game] and location[1][game]["smart_broadband"]
-                - location[1][game]["smart_broadband"].each do |subscription, ping_data|
-                  - pings += ping_data
+
+          - pings = []
+          - data.location_data.each do |location|
+            - if location[1][game] and location[1][game]["smart_broadband"]
+              - location[1][game]["smart_broadband"].each do |subscription, ping_data|
+                - pings += ping_data
+          %td{class: ping_class(average(pings))}
             = average(pings)
