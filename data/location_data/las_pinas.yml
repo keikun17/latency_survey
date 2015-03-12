@@ -54,11 +54,13 @@ league_of_legends_sea_servers:
       - 50
       - 125
       - 19
+      - 18
 
 league_of_legends_us_servers:
   pldt:
     3mbps:
       - 150
+      - 230
       - 300
 
 titanfall_east_asia_servers:
@@ -76,6 +78,13 @@ world_of_tanks_sea_servers:
 
 world_of_warcraft_us_servers:
   pldt:
+    3mbps:
+      - 190
+      - 240
     5mbps:
       - 180
 
+world_of_warcraft_oceanic_servers:
+  pldt:
+    3mbps:
+      - 160

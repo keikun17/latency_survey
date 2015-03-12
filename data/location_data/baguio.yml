@@ -29,6 +29,8 @@ dota2_sea_servers:
       - 100
       - 150
       - 180
+    2mbps:
+      - 67
     3mbps:
       - 90
   pldt:
@@ -48,6 +50,8 @@ league_of_legends_sea_servers:
       - 180
       - 300
       - 15
+    2mbps:
+      - 44
 
 smite_na_servers:
   pldt:

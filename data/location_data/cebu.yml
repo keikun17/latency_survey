@@ -77,6 +77,24 @@ firefall:
       - 190
       - 210
 
+guildwars2:
+  pldt:
+    3mbps:
+      - 250
+      - 265
+
+heroes_of_the_storm_na_servers:
+  pldt:
+    3mbps:
+      - 70
+      - 90
+
+league_of_legends_na_servers:
+  pldt:
+    3mbps:
+      - 180
+      - 190
+
 league_of_legends_sea_servers:
   globe:
     2mbps:

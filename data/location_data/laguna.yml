@@ -37,6 +37,8 @@ dota2_sea_servers:
     3mbps:
       - 180
       - 200
+      - 200
+      - 250
     5mbps:
       - 150
       - 210

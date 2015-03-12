@@ -35,6 +35,8 @@ crossfire_sea_servers:
 
 dota2_sea_servers:
   globe:
+    3mbps:
+      - 120
     5mbps:
       - 100
       - 500
@@ -47,6 +49,12 @@ dota2_sea_servers:
     5mbps:
       - 100
       - 300
+
+heroes_of_newerth_sea_servers:
+  pldt:
+    3mbps:
+      - 150
+      - 250
 
 silkroad_sea_servers:
   globe:

@@ -1,3 +1,8 @@
+aion_us_servers:
+  globe:
+    5mbps:
+      - 350
+
 battlefield4_asia_servers:
   pldt:
     5mbps:
@@ -29,6 +34,14 @@ league_of_legends_sea_servers:
   smart_broadband:
     lte:
       - 55
+  sun_broadband:
+    7mbps:
+      - 230
+
+tera_us_servers:
+  globe:
+    5mbps:
+      - 240
 
 titanfall_east_asia_server:
   smart_broadband:

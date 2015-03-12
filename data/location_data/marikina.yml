@@ -1,4 +1,7 @@
 dota2_sea_servers:
+  globe:
+    3mbps:
+      - 300
   pldt:
     1mbps:
       - 150

@@ -181,6 +181,7 @@ dota2_sea_servers:
       - 80
       - 120
     5mbps:
+      - 200
       - 120
 
 dota2_eu_servers:

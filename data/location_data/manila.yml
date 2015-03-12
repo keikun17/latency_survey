@@ -122,11 +122,13 @@ heroes_of_newerth_sea_servers:
     2mbps:
       - 100
 
-heroes_of_the_storm_sea_servers:
+heroes_of_the_storm_na_servers:
   pldt:
     5mbps:
       - 120
       - 250
+    10mbps:
+      - 180
 
 league_of_legends_us_servers:
   bayantel:

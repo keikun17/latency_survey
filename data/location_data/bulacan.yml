@@ -9,6 +9,8 @@ dota2_sea_servers:
   globe:
     1mbps:
       - 200
+    3mbps:
+      - 260
     7mbps:
       - 100
   smart_broadband:

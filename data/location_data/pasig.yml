@@ -73,6 +73,12 @@ guildwars2:
     3g:
       - 300
 
+heroes_of_the_storm_na_servers:
+  pldt:
+    8mbps_fibr:
+      - 209
+      - 250
+
 league_of_legends:
   pldt:
     11mbps_fiber:
