@@ -42,6 +42,7 @@ dota2_sea_servers:
       - 20
       - 150
       - 70
+      - 90
   globe:
     1mbps:
       - 130
