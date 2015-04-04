@@ -52,6 +52,9 @@ league_of_legends_sea_servers:
       - 15
     2mbps:
       - 44
+  smart_broadband:
+    1mbps:
+      - 16
 
 smite_na_servers:
   pldt:

@@ -27,10 +27,20 @@ dragons_nest_sea_servers:
     2mbps:
       - 47
 
+heroes_of_the_storm_sea_servers:
+  converge:
+    4mbps:
+      - 114
+
 league_of_legends_us_servers:
   globe:
     2mbps:
       - 210
+
+path_of_exile_sea_servers:
+  converge:
+    4mbps:
+      - 64
 
 tera_us_servers:
   globe:

@@ -37,6 +37,11 @@ company_of_heroes:
     1mbps:
       - 450
 
+counterstrike_eu_servers:
+  bayantel:
+    2mbps:
+      - 600
+
 counterstrike_sea_servers:
   pldt:
     3mbps:
@@ -46,6 +51,11 @@ counterstrike_sea_servers:
     1mbps:
       - 60
       - 69
+    2mbps:
+      - 30
+      - 50
+      - 100
+      - 120
     3mbps:
       - 60
       - 100
@@ -55,6 +65,11 @@ counterstrike_sea_servers:
     5mbps:
       - 60
       - 80
+
+counterstrike_us_servers:
+  bayantel:
+    2mbps:
+      - 220
 
 crossfire_sea_servers:
   wi_tribe:
@@ -114,6 +129,9 @@ diablo3_us_servers:
     1mbps:
       - 120
     3mbps:
+      - 200
+      - 400
+      - 900
       - 100
     5mbps:
       - 215
@@ -144,6 +162,9 @@ dota2_sea_servers:
       - 50
       - 300
     2mbps:
+      - 320
+      - 500
+      - 50
       - 60
       - 200
       - 66
@@ -168,6 +189,8 @@ dota2_sea_servers:
       - 250
       - 300
     3mbps:
+      - 30
+      - 60
       - 60
       - 90
       - 80
@@ -214,6 +237,11 @@ dota2_us_servers:
       - 1000
 
 dragons_nest_sea_servers:
+  bayantel:
+    2mbps:
+      - 50
+      - 100
+
   pldt:
     3mbps:
       - 58
@@ -282,6 +310,23 @@ league_of_legends_us_servers:
     8mbps_fiber:
       - 8
 
+left_4_dead_eu_servers:
+  bayantel:
+    2mbps:
+      - 600
+
+left_4_dead_sea_servers:
+  bayantel:
+    2mbps:
+      - 30
+      - 50
+      - 100
+
+left_4_dead_us_servers:
+  bayantel:
+    2mbps:
+      - 220
+
 mechwarrior_online:
   pldt:
     3mbps:
@@ -348,6 +393,12 @@ titanfall_east_asia_servers:
     8mbps:
       - 40
       - 50
+
+world_of_warcraft_eu_servers:
+  bayantel:
+    2mbps:
+      - 350
+      - 1000
 
 world_of_warcraft_us_servers:
   pldt:

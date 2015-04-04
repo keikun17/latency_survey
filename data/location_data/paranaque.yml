@@ -50,6 +50,7 @@ heroes_of_newerth_sea_servers:
 league_of_legends_sea_servers:
   pldt:
     3mbps:
+      - 120
       - 50
       - 70
       - 26
@@ -76,3 +77,8 @@ warframe:
     3mbps:
       - 200
       - 300
+
+world_of_warcraft_us_servers:
+  pldt:
+    3mbps:
+      - 180

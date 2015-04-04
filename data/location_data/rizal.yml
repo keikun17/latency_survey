@@ -58,6 +58,8 @@ dota2_sea_servers:
       - 100
     2mbps:
       - 100
+    3mbps:
+      - 120
   sky_broadband:
     3mbps:
       - 240
@@ -78,6 +80,10 @@ natural_selection:
     1mbps:
       - 250
 
+planetside2:
+  pldt:
+    4mbps:
+      - 240
 red_orchestra:
   pldt:
     1mbps:

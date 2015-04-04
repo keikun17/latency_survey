@@ -75,6 +75,10 @@ guildwars2:
 
 heroes_of_the_storm_na_servers:
   pldt:
+    3mbps:
+      - 250
+      - 70
+  pldt:
     8mbps_fibr:
       - 209
       - 250
