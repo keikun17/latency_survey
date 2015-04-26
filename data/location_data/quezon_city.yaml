@@ -151,6 +151,7 @@ dota2_sea_servers:
       - 120
     3mbps:
       - 80
+      - 49
     5mbps:
       - 80
       - 100
@@ -214,6 +215,10 @@ dota2_eu_servers:
       - 274
       - 240
       - 487
+  sky_broadband:
+    3mbps:
+      - 683
+
 dota2_sea_servers:
   pldt:
     1mbps:
@@ -235,6 +240,9 @@ dota2_us_servers:
     2mbps:
       - 100
       - 1000
+  sky_broadband:
+    3mbps:
+      - 660
 
 dragons_nest_sea_servers:
   bayantel:
@@ -262,6 +270,9 @@ final_fantasy_14:
       - 3000
 
 guildwars2:
+  pldt:
+    5mbps:
+      - 260
   globe:
     3mbps:
       - 50
@@ -281,6 +292,8 @@ league_of_legends_sea_servers:
     3mbps:
       - 19
       - 29
+    8mbps:
+      - 300
   globe:
     5mbps:
       - 50

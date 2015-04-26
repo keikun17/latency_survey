@@ -137,6 +137,11 @@ warthunder:
       - 280
       - 360
 
+world_of_tanks_sea_servers:
+  pldt:
+    3mbps:
+      - 340
+
 world_of_tanks_eu_servers:
   pldt:
     8mbps:

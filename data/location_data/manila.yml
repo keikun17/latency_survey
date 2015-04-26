@@ -33,6 +33,10 @@ champions_online:
       - 300
 
 counterstrike_sea_servers:
+  globe:
+    5mbps:
+      - 80
+      - 100
   pldt:
     3mbps:
       - 150
@@ -75,6 +79,9 @@ diablo3_us_servers:
       - 700
 
 dota2_sea_servers:
+  bayantel:
+    1.5mbps:
+      - 80
   globe:
     3mbps:
       - 45
@@ -104,6 +111,7 @@ dota2_sea_servers:
       - 120
       - 100
       - 90
+      - 85
     5mbps:
       - 50
       - 100

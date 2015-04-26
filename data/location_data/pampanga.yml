@@ -16,12 +16,14 @@ dota2_sea_servers:
   smart_broadband:
     1mbps:
       - 300
-
   pldt:
     2mbps:
       - 207
+      - 200
+      - 300
     3mbps:
       - 169
+
 dragons_nest_sea_servers:
   globe:
     2mbps:
