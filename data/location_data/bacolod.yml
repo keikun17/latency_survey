@@ -22,7 +22,7 @@ starcraft2_eu_servers:
     3mbps:
       - 300
 
-starcraft2_kr_server:
+starcraft2_kr_servers:
   globe:
     3mbps:
       - 75

@@ -8,7 +8,7 @@ battlefield4_sea_servers:
     5mbps:
       - 200
 
-diablo_us_servers:
+diablo3_us_servers:
   pldt:
     1mbps:
       - 600

@@ -28,7 +28,7 @@ crossfire:
     5mbps:
       - 260
 
-diablo_us_servers:
+diablo3_us_servers:
   globe:
     1mbps:
       - 150
@@ -36,7 +36,7 @@ diablo_us_servers:
       - 190
       - 200
 
-diablo_sea_servers:
+diablo3_sea_servers:
   pldt:
     3mbps:
       - 70
