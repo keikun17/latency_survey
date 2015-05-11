@@ -42,6 +42,8 @@ dota2_sea_servers:
       - 230
       - 120
   globe:
+    lte:
+      - 130
     2mbps:
       - 78
       - 103
@@ -88,7 +90,7 @@ tera_eu_servers:
     3mbps:
       - 330
 
-titanfall_east_asia_server:
+titanfall_east_asia_servers:
   globe:
     3mbps:
       - 50

@@ -68,6 +68,7 @@ league_of_legends_sea_servers:
       - 45
     3mbps:
       - 9
+      - 9
 
   globe:
     1mbps:

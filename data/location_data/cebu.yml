@@ -70,6 +70,10 @@ dota2_sea_servers:
     5mbps:
       - 200
       - 300
+  smart:
+    lte:
+      - 132
+      - 90
 
 firefall:
   pldt:

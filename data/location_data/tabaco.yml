@@ -10,6 +10,12 @@ diablo3_na_server:
       - 200
       - 240
 
+dota2_sea_servers:
+  bayantel:
+    3mbps:
+      - 60
+      - 80
+
 elder_scrolls_online_na_server:
   pldt:
     2mbps:
