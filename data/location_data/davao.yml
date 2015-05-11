@@ -112,7 +112,7 @@ streetfighter4_pc:
 titanfall_east_asia_servers:
   pldt:
     3mbps:
-      341
+      - 341
 
 world_of_warcraft_oceanic_servers:
   globe:
