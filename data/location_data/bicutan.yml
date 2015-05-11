@@ -31,6 +31,9 @@ counterstrike_asia_servers:
       - 100
 
 league_of_legends_sea_servers:
+  globe:
+    3mbps:
+      - 75
   smart_broadband:
     2mbps:
       - 60

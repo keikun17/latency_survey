@@ -32,6 +32,29 @@ mechwarrior_online:
       - 500
       - 130
 
+
+teamfortress2_aus_servers:
+  pldt:
+    2mbps:
+      - 180
+      - 260
+
+teamfortress2_sea_servers:
+  pldt:
+    2mbps:
+      - 25
+      - 50
+      - 50
+      - 110
+
+teamfortress2_us_servers:
+  pldt:
+    2mbps:
+      - 170
+      - 230
+      - 190
+      - 320
+
 world_of_warcraft_us_servers:
   pldt:
     3mbps:

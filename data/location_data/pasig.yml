@@ -19,6 +19,9 @@ counterstrike_sea_servers:
       - 60
 
 diablo3_us_servers:
+  pldt:
+    3mbps:
+      - 210
   smart_broadband:
     3g:
       - 300
@@ -69,6 +72,9 @@ final_fantasy_14:
       - 120
 
 guildwars2:
+  pldt:
+    3mbps:
+      - 300
   smart_broadband:
     3g:
       - 300
@@ -83,8 +89,10 @@ heroes_of_the_storm_na_servers:
       - 209
       - 250
 
-league_of_legends:
+league_of_legends_ph_servers:
   pldt:
+    3mbps:
+      - 17
     11mbps_fiber:
       - 20
 
@@ -148,10 +156,11 @@ world_of_tanks_eu_servers:
       - 500
 world_of_warcraft_us_servers:
   pldt:
+    3mbps:
+      - 250
     5mbps:
       - 170
       - 160
-    5mbps:
       - 500
   sky_broadband:
     5mbps:
