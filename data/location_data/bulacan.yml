@@ -8,6 +8,7 @@ dota2_aus_servers:
 dota2_sea_servers:
   globe:
     1mbps:
+      - 120
       - 200
     3mbps:
       - 260
