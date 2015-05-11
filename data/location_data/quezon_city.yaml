@@ -45,6 +45,7 @@ counterstrike_eu_servers:
 counterstrike_sea_servers:
   pldt:
     3mbps:
+      - 70
       - 40
       - 50
   bayantel:
@@ -152,6 +153,8 @@ dota2_sea_servers:
     3mbps:
       - 80
       - 49
+      - 90
+      - 180
     5mbps:
       - 80
       - 100
@@ -228,6 +231,10 @@ dota2_sea_servers:
   globe:
     3mbps:
       - 150
+  smart:
+    lte:
+      - 140
+
 dota2_us_servers:
   pldt:
     5mbps:
@@ -292,6 +299,7 @@ league_of_legends_sea_servers:
     3mbps:
       - 19
       - 29
+      - 16
     8mbps:
       - 300
   globe:
@@ -390,6 +398,9 @@ tera_eu_servers:
       - 400
 
 tera_us_servers:
+  pldt:
+    3mbps:
+      - 300
   bayantel:
     3mbps:
       - 250

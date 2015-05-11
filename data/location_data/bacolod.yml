@@ -3,6 +3,7 @@ diablo3_us_servers:
     3mbps:
       - 125
       - 250
+      - 150
   pldt:
     8mbps:
       - 300
@@ -16,6 +17,8 @@ heroes_of_the_storm_na_servers:
   globe:
     3mbps:
       - 250
+      - 110
+      - 130
 
 starcraft2_eu_servers:
   globe:
@@ -36,3 +39,4 @@ starcraft2_us_servers:
   globe:
     3mbps:
       - 150
+      - 155

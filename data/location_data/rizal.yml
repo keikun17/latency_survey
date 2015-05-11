@@ -28,6 +28,9 @@ counterstrike_sea_servers:
       - 50
       - 140
   pldt:
+    3mbps:
+      - 110
+      - 130
     5mbps:
       - 250
       - 300
@@ -50,6 +53,10 @@ dota2_sea_servers:
     3mbps:
       - 100
       - 160
+      - 100
+      - 120
+      - 50
+      - 70
     5mbps:
       - 220
       - 99
@@ -69,6 +76,11 @@ guildwars2:
     3mbps:
       - 200
       - 240
+
+league_of_legends_ph_servers:
+  pldt:
+    3mbps:
+      - 20
 
 mechwarrior_online:
   pldt:

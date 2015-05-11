@@ -57,7 +57,9 @@ dota2_sea_servers:
       - 300
     3g:
       - 100
-
+  sky_broadband:
+    3mbps:
+      - 200
 
 final_fantasy_14:
   pldt:
