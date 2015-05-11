@@ -230,10 +230,18 @@ star_wars_the_old_republic:
     5mbps:
       - 200
       - 300
+
+
 world_of_warcraft_oceanic_servers:
   pldt:
     10mbps_fiber:
       - 180
+
+world_of_warcraft_us_servers:
+  pldt:
+    3mbps:
+      - 180
+      - 220
 
 yulgang:
   pldt:
