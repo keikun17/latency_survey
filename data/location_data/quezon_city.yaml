@@ -210,6 +210,8 @@ dota2_sea_servers:
     3mbps:
       - 80
       - 120
+      - 100
+      - 180
     5mbps:
       - 200
       - 120
@@ -291,6 +293,10 @@ guildwars2:
       - 120
 
 heroes_of_the_storm_sea_servers:
+  globe:
+    2mbps:
+      - 60
+      - 200
   pldt:
     3mbps:
       - 100

@@ -22,6 +22,8 @@ diablo3_us_servers:
 
 dota2_sea_servers:
   pldt:
+    2mbps:
+      - 60
     8mbps_fiber:
       - 220
 

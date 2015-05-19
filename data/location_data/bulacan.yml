@@ -40,6 +40,11 @@ league_of_legends_sea_servers:
       - 60
       - 80
 
+left_4_dead_us_servers:
+  pldt:
+    8mbps:
+      - 268
+
 phantasy_star_online:
   bayantel:
     1.5mbps:
