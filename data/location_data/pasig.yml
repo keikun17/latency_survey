@@ -86,10 +86,21 @@ heroes_of_the_storm_na_servers:
     3mbps:
       - 250
       - 70
+      - 130
+  globe:
+    lte:
+      - 130
   pldt:
     8mbps_fibr:
       - 209
       - 250
+      - 60
+      - 130
+  smart_broadband:
+    3g:
+      - 70
+      - 100
+      - 150
 
 league_of_legends_ph_servers:
   pldt:

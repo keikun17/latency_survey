@@ -133,6 +133,9 @@ heroes_of_newerth_sea_servers:
 
 heroes_of_the_storm_na_servers:
   pldt:
+    2mbps:
+      - 60
+      - 100
     5mbps:
       - 120
       - 250

@@ -52,6 +52,12 @@ dota2_sea_servers:
     10mbps:
       - 105
 
+heroes_of_the_storm_na_servers:
+  bayantel:
+    2mbps:
+      - 70
+      - 120
+
 league_of_legends_sea_servers:
   sky_broadband:
     10mbps:

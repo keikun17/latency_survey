@@ -2,3 +2,8 @@ dota2_sea_servers:
   pldt:
     1.5mbps:
       - 180
+
+heroes_of_the_storm_na_servers:
+  pldt:
+    3mbps:
+      - 97

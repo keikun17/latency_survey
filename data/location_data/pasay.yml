@@ -18,6 +18,10 @@ dota2_sea_servers:
 
 heroes_of_newerth_sea_servers:
   pldt:
+    3mbps:
+      - 60
+      - 100
+      - 230
     5mbps:
       - 60
 

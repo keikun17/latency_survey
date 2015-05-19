@@ -19,6 +19,11 @@ heroes_of_the_storm_na_servers:
       - 250
       - 110
       - 130
+      - 130
+      - 200
+      - 135
+      - 115
+      - 130
 
 starcraft2_eu_servers:
   globe:

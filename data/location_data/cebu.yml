@@ -92,6 +92,10 @@ heroes_of_the_storm_na_servers:
     3mbps:
       - 70
       - 90
+  sky_broadband:
+    5mbps:
+      - 60
+      - 80
 
 league_of_legends_na_servers:
   pldt:

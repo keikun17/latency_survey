@@ -50,6 +50,11 @@ dragons_nest_sea_servers:
     5mbps:
       - 200
 
+heroes_of_the_storm_na_servers:
+  globe:
+    lte:
+      - 130
+
 league_of_legends_sea_servers:
   pldt:
     3mbps:

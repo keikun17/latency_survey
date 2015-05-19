@@ -80,10 +80,15 @@ guildwars2:
       - 240
 
 heroes_of_the_storm_na_servers:
+  pldt:
+    2mbps:
+      - 60
+      - 100
   telmarc:
     2mbps:
       - 250
       - 80
+      - 70
 
 league_of_legends_ph_servers:
   pldt:

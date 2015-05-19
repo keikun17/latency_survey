@@ -67,6 +67,14 @@ final_fantasy_14:
       - 170
       - 240
 
+heroes_of_the_storm_na_servers:
+  pldt:
+    3mbps:
+      - 125
+  globe:
+    3mbps:
+      - 80
+
 league_of_legends_sea_servers:
   pldt:
     3mbps:
