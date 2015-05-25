@@ -19,3 +19,9 @@ heroes_of_newerth_sea_servers:
     5mbps:
       - 200
       - 300
+
+league_of_legends_ph_servers:
+  pldt:
+    3mbps:
+      - 34
+
