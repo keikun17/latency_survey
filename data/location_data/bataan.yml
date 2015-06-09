@@ -7,3 +7,6 @@ heroes_of_the_storm_na_servers:
   pldt:
     3mbps:
       - 97
+      - 200
+      - 100
+      - 150

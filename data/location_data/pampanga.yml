@@ -2,6 +2,9 @@ aion_us_servers:
   globe:
     1mbps:
       - 500
+  pldt:
+    8mbps:
+      - 500
 
 diablo3_us_servers:
   pldt:
@@ -38,6 +41,10 @@ league_of_legends_us_servers:
   globe:
     2mbps:
       - 210
+  smart_broadband:
+    lte:
+      - 150
+      - 300
 
 path_of_exile_sea_servers:
   converge:
@@ -48,3 +55,6 @@ tera_us_servers:
   globe:
     1mbps:
       - 330
+  pldt:
+    8mbps:
+      - 500

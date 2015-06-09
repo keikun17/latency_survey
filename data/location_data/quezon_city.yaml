@@ -265,6 +265,11 @@ dragons_nest_sea_servers:
   pldt:
     3mbps:
       - 58
+      - 60
+      - 150
+      - 200
+      - 900
+
 
 final_fantasy_14:
   pldt:

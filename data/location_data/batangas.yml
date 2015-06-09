@@ -9,6 +9,14 @@ battlefield4_asia_servers:
       - 180
       - 250
 
+counterstrike_sea_servers:
+  globe:
+    3mbps:
+      - 100
+      - 200
+      - 200
+      - 400
+
 dota2_sea_servers:
   globe:
     2mbps:

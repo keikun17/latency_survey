@@ -9,6 +9,9 @@ counterstrike_sea_servers:
       - 170
 
 dota2_sea_servers:
+  pldt:
+    2mbps:
+      - 350
   smart_broadband:
     2mbps:
       - 100

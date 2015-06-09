@@ -1,3 +1,18 @@
+battlefield3_sea_servers:
+  bayantel:
+    4mbps:
+      - 300
+
+dota2_sea_servers:
+  bayantel:
+    4mbps:
+      - 80
+
+guildwars2:
+  bayantel:
+    4mbps:
+      - 250
+
 heroes_of_the_storm_na_servers:
   pldt:
     2mbps:

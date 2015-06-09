@@ -22,6 +22,9 @@ dayz_sg_servers:
 
 
 dota2_sea_servers:
+  globe:
+    2mbps:
+      - 150
   pldt:
     1mbps:
       - 120
