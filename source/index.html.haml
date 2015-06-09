@@ -1,5 +1,5 @@
 .row
-  .col-lg-3.hidden-xs.hidden-sm
+  .col-md-3.hidden-xs.hidden-sm
     #cities.fixed{style: "background-color: #FAFAFA"}
       .text-center
         %h3 Areas
@@ -8,7 +8,7 @@
         - data.location_data.keys.each do |key|
           %li.city= link_to key.titleize, "/latency_survey/##{snakecase(key)}"
 .row
-  .col-lg-10.col-lg-offset-2.content
+  .col-md-10.col-md-offset-2.content
     = partial '_header'
     - data.location_data.each do |location, game_data|
       = partial '_result', locals: { location: location, game_data: game_data}
