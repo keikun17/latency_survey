@@ -188,6 +188,8 @@ dota2_sea_servers:
     20mbps_fiber:
       - 200
       - 50
+    8mbps:
+      - 70
     5mbps:
       - 66
       - 250
@@ -321,6 +323,7 @@ league_of_legends_sea_servers:
       - 16
     8mbps:
       - 300
+      - 20
   globe:
     5mbps:
       - 50
@@ -336,6 +339,8 @@ league_of_legends_sea_servers:
       - 13
       - 17
       - 100
+    3mbps:
+      - 373
     4mbps:
       - 40
 
@@ -435,6 +440,11 @@ titanfall_east_asia_servers:
       - 44
     8mbps:
       - 40
+      - 50
+
+world_of_tanks_asia_servers:
+  pldt:
+    8mbps:
       - 50
 
 world_of_warcraft_eu_servers:
