@@ -103,6 +103,11 @@ league_of_legends_na_servers:
     3mbps:
       - 180
       - 190
+      - 180
+      - 230
+  smart_broadband:
+    lte:
+      - 60
 
 league_of_legends_sea_servers:
   globe:

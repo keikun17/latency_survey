@@ -61,6 +61,8 @@ league_of_legends_na_servers:
   pldt:
     2mbps:
       - 240
+    3mbps:
+      - 300
 league_of_legends_ph_servers:
   pldt:
     2mbps:
