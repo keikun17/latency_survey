@@ -18,3 +18,9 @@ heroes_of_the_storm_na_servers:
     2mbps:
       - 80
       - 150
+
+league_of_legends_sea_servers:
+  pldt:
+    2mbps:
+      - 392
+      - 500
