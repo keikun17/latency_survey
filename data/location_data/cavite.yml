@@ -14,6 +14,10 @@ counterstrike_sea_servers:
   pldt:
     3mbps:
       - 150
+  globe:
+    3mbps:
+      - 120
+      - 400
 
 dayz_sg_servers:
   pldt:
@@ -58,6 +62,10 @@ dota2_sea_servers:
       - 312
       - 335
       - 415
+  smart_broadband:
+    lte:
+      - 190
+      - 300
 
 heroes_of_newerth_sea_servers:
   globe:
@@ -91,8 +99,9 @@ league_of_legends_sea_servers:
   smart_broadband:
     1.5mbps:
       - 381
-    3g:
+    lte:
       - 550
+      - 90
 
 mechwarrior_online:
   globe:

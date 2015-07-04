@@ -25,6 +25,7 @@ dota2_sea_servers:
     3mbps:
       - 80
       - 200
+      - 120
 
 dragons_nest_sea_servers:
   bayantel:

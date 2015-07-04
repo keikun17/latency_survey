@@ -29,10 +29,16 @@ heroes_of_newerth_sea_servers:
     5mbps:
       - 60
 
+heroes_of_the_storm_na_servers:
+  pldt:
+    5mbps:
+      - 40
+
 guildwars2:
   pldt:
     5mbps:
       - 150
+
 
 league_of_legends_sea_servers:
   globe:
