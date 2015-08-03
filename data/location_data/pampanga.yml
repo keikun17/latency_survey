@@ -6,6 +6,11 @@ aion_us_servers:
     8mbps:
       - 500
 
+crossfire_sea_servers: 
+  globe:
+    3mbps:
+      - 150
+
 diablo3_us_servers:
   pldt:
     5mbps:

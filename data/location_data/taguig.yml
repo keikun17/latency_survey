@@ -52,6 +52,21 @@ gunz_2:
     5mbps_fiber:
       - 220
 
+heroe_of_the_storm_aus_servers:
+  globe:
+    3mbps:
+      - 200
+
+heroe_of_the_storm_na_servers:
+  globe:
+    3mbps:
+      - 200
+
+heroe_of_the_storm_sea_servers:
+  globe:
+    3mbps:
+      - 230
+
 league_of_legends_sea_servers:
   pldt:
     2mbps:
