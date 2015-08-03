@@ -8,6 +8,9 @@ counterstrike_sea_servers:
   smart_broadband:
     lte:
       - 140
+  sky_broadband:
+    3mbps:
+      - 300
 
 diablo3_us_servers:
   pldt:
