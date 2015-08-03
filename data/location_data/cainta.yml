@@ -2,3 +2,8 @@ tera_online_us_servers:
   globe:
     3mbps:
       - 280
+
+dota2_sea_servers:
+  pldt:
+    3mbps:
+      - 250
