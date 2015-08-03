@@ -8,6 +8,10 @@ dota2_sea_servers:
       - 80
     5mbps:
       - 74
+  globe:
+    7mbps:
+      - 133
+
 
 dragons_nest_sea_servers:
   pldt:
@@ -24,4 +28,6 @@ league_of_legends_ph_servers:
   pldt:
     3mbps:
       - 34
+    8mbps:
+      - 22
 
