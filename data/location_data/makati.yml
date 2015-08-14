@@ -5,6 +5,9 @@ battlefield4_asia_servers:
       - 300
       - 40
       - 200
+  pldt:
+    10mbps:
+      - 150
 
 battlefield4_i3d_servers:
   pldt:

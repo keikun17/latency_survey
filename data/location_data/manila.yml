@@ -1,3 +1,8 @@
+aion_us_servers:
+  pldt:
+    3mbps:
+      - 250
+
 age_of_chivalry:
   pldt:
     5mbps:
