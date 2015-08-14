@@ -74,6 +74,8 @@ dota2_sea_servers:
     5mbps:
       - 200
       - 300
+      - 180
+      - 190
   smart:
     lte:
       - 132

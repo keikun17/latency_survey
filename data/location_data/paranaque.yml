@@ -21,28 +21,21 @@ dota2_sea_servers:
   globe:
     3mbps:
       - 170
-  pldt:
-    2mbps:
-      - 120
-  smart_broadband:
-    lte:
-      - 150
-
-dota2_sea_servers:
-  globe:
-    3mbps:
       - 80
   pldt:
     1.5mbps:
       - 60
       - 120
     2mbps:
-      - 160
-      - 200
+      - 120
+  sky_broadband:
+    3mbps:
+      - 300
   smart_broadband:
-    2mbps:
+    lte:
       - 100
       - 120
+      - 150
 
 heroes_of_newerth_sea_servers:
   pldt:

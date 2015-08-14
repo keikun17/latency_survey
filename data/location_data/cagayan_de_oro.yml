@@ -14,6 +14,8 @@ counterstrike_sea_servers:
   pldt:
     2mbps:
       - 100
+    3mbps:
+      - 400
 
 dota2_sea_servers:
   pldt:
@@ -22,6 +24,8 @@ dota2_sea_servers:
       - 160
     3mbps:
       - 103
+      - 300
+      - 250
       - 300
   globe:
     3mbps:

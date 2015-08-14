@@ -189,6 +189,7 @@ dota2_sea_servers:
     20mbps_fiber:
       - 200
       - 50
+      - 199
     8mbps:
       - 70
     5mbps:
@@ -450,6 +451,10 @@ world_of_tanks_asia_servers:
   pldt:
     8mbps:
       - 50
+  bayantel:
+    3mbps:
+      - 30
+      - 45
 
 world_of_warcraft_eu_servers:
   bayantel:
