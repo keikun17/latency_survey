@@ -116,6 +116,11 @@ warhammer_the_age_of_reckoning:
       - 200
       - 500
 
+world_of_tanks_sea_server:
+  pldt:
+    3mbps:
+      - 50
+
 world_of_warcraft_oceanic_servers:
   pldt:
     1mbps:

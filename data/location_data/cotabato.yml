@@ -15,6 +15,11 @@ diablo3_us_servers:
     3mbps:
       - 600
 
+dota2_sea_servers:
+  pldt:
+    5mbps:
+      - 135
+
 starcraft2_us_servers:
   pldt:
     1mbps:
