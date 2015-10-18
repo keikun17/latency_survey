@@ -25,6 +25,11 @@ call_of_duty_series:
     3mbps:
       - 240
 
+counterstrike_sea_servers:
+  globe:
+    3mbps:
+      - 100
+
 diablo3_us_servers:
   pldt:
     1mbps:

@@ -68,3 +68,8 @@ titanfall_west_us_servers:
   pldt:
     50mbps_fiber:
       - 110
+
+world_of_warcraft_us_servers:
+  pldt:
+    5mbps:
+      - 400

@@ -149,3 +149,8 @@ tera_us_servers:
   globe:
     5mbps:
       - 500
+
+world_of_warcraft_us_servers:
+  globe:
+    3mbps:
+      - 250
