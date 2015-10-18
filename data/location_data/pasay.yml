@@ -49,12 +49,12 @@ league_of_legends_sea_servers:
     1mbps:
       - 130
 
-world_of_tanks_sea_server:
+world_of_tanks_sea_servers:
   globe:
     3mbps:
       - 101
 
-world_of_warships_sea_server:
+world_of_warships_sea_servers:
   globe:
     3mbps:
       - 115

@@ -129,6 +129,7 @@ path_of_exile_sea_servers:
     1mbps:
       - 300
       - 700
+      - 800
 
 red_orchestra:
   pldt:

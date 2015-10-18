@@ -22,7 +22,7 @@ world_of_warcraft_us_servers:
     2mbps:
       - 220
 
-flyff_international_server:
+flyff_international_servers:
   smart_broadband:
     2mbps:
       - 150

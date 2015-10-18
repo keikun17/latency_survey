@@ -52,7 +52,7 @@ tera_us_servers:
     5mbps:
       - 240
 
-titanfall_east_asia_server:
+titanfall_east_asia_servers:
   smart_broadband:
     lte:
       - 70

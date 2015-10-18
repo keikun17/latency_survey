@@ -82,7 +82,7 @@ league_of_legends_sea_servers:
       - 150
       - 200
 
-ragnarok2_sea_server:
+ragnarok2_sea_servers:
   pldt:
     10mbps:
       - 40

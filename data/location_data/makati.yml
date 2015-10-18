@@ -116,7 +116,7 @@ warhammer_the_age_of_reckoning:
       - 200
       - 500
 
-world_of_tanks_sea_server:
+world_of_tanks_sea_servers:
   pldt:
     3mbps:
       - 50

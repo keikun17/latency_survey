@@ -1,10 +1,10 @@
-archage_na_server:
+archage_na_servers:
   pldt:
     2mbps:
       - 200
       - 300
 
-diablo3_na_server:
+diablo3_na_servers:
   pldt:
     2mbps:
       - 200
@@ -16,7 +16,7 @@ dota2_sea_servers:
       - 60
       - 80
 
-elder_scrolls_online_na_server:
+elder_scrolls_online_na_servers:
   pldt:
     2mbps:
       - 260
