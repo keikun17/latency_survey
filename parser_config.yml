@@ -1,0 +1,19 @@
+development:
+  isps:
+    - pldt*
+    - globe*
+    - smart*
+    - sky*
+    - bayan*
+  sikret:
+    - SET_ME_IN_DAEMON_RUNNER
+
+production:
+  isps:
+    - pldt*
+    - globe*
+    - smart*
+    - sky*
+    - bayan*
+    - SET_ME_IN_DAEMON_RUNNER
+
