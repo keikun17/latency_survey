@@ -184,7 +184,7 @@ guildwars2:
     2mbps:
       - 100
 
-mechwarrior_online:
+mechwarrior_online_us_servers:
   pldt:
     10mbps_fiber:
       - 250

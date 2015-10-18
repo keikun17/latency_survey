@@ -384,7 +384,7 @@ left_4_dead_us_servers:
     2mbps:
       - 220
 
-mechwarrior_online:
+mechwarrior_online_us_servers:
   pldt:
     3mbps:
       - 210
