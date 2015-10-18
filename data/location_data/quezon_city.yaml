@@ -48,6 +48,7 @@ counterstrike_sea_servers:
       - 70
       - 40
       - 50
+      - 60
   bayantel:
     1mbps:
       - 60
@@ -178,6 +179,8 @@ dota2_sea_servers:
       - 300
       - 57
     4mbps:
+      - 30
+      - 60
       - 60
       - 90
       - 60

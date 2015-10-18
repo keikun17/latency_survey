@@ -49,6 +49,16 @@ league_of_legends_sea_servers:
     1mbps:
       - 130
 
+world_of_tanks_sea_server:
+  globe:
+    3mbps:
+      - 101
+
+world_of_warships_sea_server:
+  globe:
+    3mbps:
+      - 115
+
 world_of_warcraft_oceanic_servers:
   pldt:
     3mbps:
