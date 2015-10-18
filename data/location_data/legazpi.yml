@@ -27,7 +27,7 @@ league_of_legends_sea_servers:
     780kbps:
       - 24
 
-world_of_tanks_asia_servers:
+world_of_tanks_sea_servers:
   globe:
     5mbps:
       - 30

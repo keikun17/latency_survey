@@ -455,7 +455,7 @@ titanfall_east_asia_servers:
       - 40
       - 50
 
-world_of_tanks_asia_servers:
+world_of_tanks_sea_servers:
   pldt:
     8mbps:
       - 50
