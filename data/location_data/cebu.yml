@@ -144,3 +144,8 @@ starcraft2_us_servers:
       - 280
       - 220
       - 300
+
+tera_us_servers:
+  globe:
+    5mbps:
+      - 500

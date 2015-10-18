@@ -91,6 +91,8 @@ diablo3_asia_servers:
   pldt:
     3mbps:
       - 150
+    8mbps:
+      - 210
   sky_broadband:
     3mbps:
       - 100
@@ -213,6 +215,8 @@ dota2_sea_servers:
     2mbps:
       - 104
       - 400
+    8mbps:
+      - 80
   globe:
     3mbps:
       - 80
@@ -437,6 +441,7 @@ tera_us_servers:
     3mbps:
       - 250
       - 800
+      - 549
 
 titanfall_east_asia_servers:
   pldt:

@@ -16,6 +16,7 @@ diablo3_us_servers:
   pldt:
     3mbps:
       - 193
+      - 240
 
 dota2_sea_servers:
   globe:

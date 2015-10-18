@@ -14,6 +14,8 @@ counterstrike_sea_servers:
     3mbps:
       - 200
       - 50
+    5mbps:
+      - 70
     20mbps_fiber:
       - 35
       - 50
@@ -40,6 +42,7 @@ dota2_sea_servers:
       - 280
     5mbps:
       - 170
+      - 100
 
 dota2_us_servers:
   pldt:
@@ -50,6 +53,11 @@ dragons_nest_sea_servers:
   pldt:
     5mbps:
       - 200
+
+guildwars2:
+  pldt:
+    5mbps:
+      - 240
 
 heroes_of_the_storm_na_servers:
   globe:
