@@ -5,8 +5,8 @@
       %thead
         %tr
           %th.col-lg-5 Game
-          %th.col-lg-3 ISP
-          %th.col-lg-1 Plan
+          %th.col-lg-2 ISP
+          %th.col-lg-2 Plan
           %th.col-lg-3 Ave Ping (sample size)
       %tbody
         - game_data.each do |game, isp_data|
@@ -20,19 +20,19 @@
 
             - package_data.take(1).each do |package, pings|
               %tr
-                %td{rowspan: ping_count}= game.titleize
-                %td= isp.titleize
-                %td= package
-                %td{class: ping_class(average(pings))}
+                %td.col-lg-5{rowspan: ping_count}= game.titleize
+                %td.col-lg-2= isp.titleize
+                %td.col-lg-2= package
+                %td.col-lg-3{class: ping_class(average(pings))}
                   = average(pings)
                   ms
                   (#{pings.count})
             - package_data.drop(1).each do |package, pings|
               %tr
-                %td
-                %td= isp.titleize
-                %td= package
-                %td{class: ping_class(average(pings))}
+                %td.col-lg-5
+                %td.col-lg-2= isp.titleize
+                %td.col-lg-2= package
+                %td.col-lg-3{class: ping_class(average(pings))}
                   = average(pings)
                   ms
                   (#{pings.count})
@@ -40,19 +40,19 @@
           - isp_data.drop(1).each do |isp, package_data|
             - package_data.take(1).each do |package, pings|
               %tr
-                %td{rowspan: ping_count}= game.titleize
-                %td= isp.titleize
-                %td= package
-                %td{class: ping_class(average(pings))}
+                %td.col-lg-5{rowspan: ping_count}= game.titleize
+                %td.col-lg-2= isp.titleize
+                %td.col-lg-2= package
+                %td.col-lg-3{class: ping_class(average(pings))}
                   = average(pings)
                   ms
                   (#{pings.count})
             - package_data.drop(1).each do |package, pings|
               %tr
-                %td
-                %td= isp.titleize
-                %td= package
-                %td{class: ping_class(average(pings))}
+                %td.col-lg-5
+                %td.col-lg-2= isp.titleize
+                %td.col-lg-2= package
+                %td.col-lg-3{class: ping_class(average(pings))}
                   = average(pings)
                   ms
                   (#{pings.count})
