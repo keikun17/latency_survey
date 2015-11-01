@@ -102,6 +102,10 @@ heroes_of_the_storm_na_servers:
     5mbps:
       - 60
       - 80
+  globe:
+    3mbps:
+      - 390
+      - 450
 
 league_of_legends_na_servers:
   pldt:

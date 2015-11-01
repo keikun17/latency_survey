@@ -10,6 +10,11 @@ battlefield4_us_servers:
       - 200
       - 300
 
+battlefield4_sea_servers:
+  globe:
+    3mbps:
+      - 73
+
 counterstrike_sea_servers:
   pldt:
     3mbps:
@@ -18,6 +23,7 @@ counterstrike_sea_servers:
     3mbps:
       - 120
       - 400
+      - 140
 
 dayz_sg_servers:
   pldt:
@@ -29,6 +35,8 @@ dota2_sea_servers:
   globe:
     2mbps:
       - 150
+    3mbps:
+      - 105
     5mbps:
       - 180
   pldt:
@@ -104,6 +112,8 @@ league_of_legends_sea_servers:
   globe:
     1mbps:
       - 86
+    3mbps:
+      - 32
 
   smart_broadband:
     1.5mbps:
