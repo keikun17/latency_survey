@@ -5,8 +5,6 @@ development:
     - smart*
     - sky*
     - bayan*
-  sikret:
-    - SET_ME_IN_DAEMON_RUNNER
 
 production:
   isps:
@@ -15,5 +13,5 @@ production:
     - smart*
     - sky*
     - bayan*
-    - SET_ME_IN_DAEMON_RUNNER
-
+  sikret:
+    - SET_ME_IN_ENV
