@@ -1,6 +1,22 @@
+aion_us_servers:
+  pldt:
+    8mbps:
+      - 275
+
+dota2_sea_servers:
+  pldt:
+    8mbps:
+      - 600
+      - 700
+
 heroes_of_the_storm_na_servers:
   pldt:
     2mbps:
       - 80
       - 180
 
+league_of_legends_sea_servers:
+  pldt:
+    8mbps:
+      - 50
+      - 300

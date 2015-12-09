@@ -2,11 +2,11 @@ battlefield4_asia_servers:
   pldt:
     3mbps:
       - 90
-
 dota2_sea_servers:
   globe:
     3mbps:
       - 273
+      - 119
   pldt:
     3mbps:
       - 100
