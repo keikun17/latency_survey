@@ -18,6 +18,11 @@ battlefield4_sea_servers:
     2mbps:
       - 90
 
+counterstrike_sea_servers:
+  pldt:
+    2mbps:
+      - 65
+
 diablo3_us_servers:
   globe:
     5mbps:

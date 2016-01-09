@@ -81,6 +81,8 @@ league_of_legends_sea_servers:
     16mbps:
       - 150
       - 200
+    3mbps:
+      - 15
 
 ragnarok2_sea_servers:
   pldt:
@@ -123,3 +125,8 @@ world_of_warcraft_us_servers:
   smart_broadband:
     2mbps:
       - 170
+
+world_of_warships_sea_servers:
+  sky_broadband:
+    3mbps:
+      - 34

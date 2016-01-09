@@ -52,6 +52,7 @@ dota2_sea_servers:
       - 150
   pldt:
     2mbps:
+      - 300
       - 83
       - 150
     3mbps:

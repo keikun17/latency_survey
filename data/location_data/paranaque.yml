@@ -11,6 +11,8 @@ counterstrike_sea_servers:
   sky_broadband:
     3mbps:
       - 300
+      - 80
+      - 150
 
 diablo3_us_servers:
   pldt:
@@ -32,6 +34,10 @@ dota2_sea_servers:
       - 120
     3mbps:
       - 150
+      - 100
+      - 200
+      - 100
+      - 200
   sky_broadband:
     3mbps:
       - 300

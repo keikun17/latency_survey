@@ -26,6 +26,8 @@ league_of_legends_sea_servers:
   bayantel:
     780kbps:
       - 24
+    2mbps:
+      - 24
 
 world_of_tanks_sea_servers:
   globe:
