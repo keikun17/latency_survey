@@ -1,0 +1,10 @@
+battlefield4_sea_servers:
+  globe:
+    1mbps:
+      - 130
+
+dota2_sea_servers:
+  globe:
+    1mbps:
+      - 90
+      - 120
