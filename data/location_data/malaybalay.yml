@@ -1,4 +1,7 @@
 dota2_sea_servers:
+  bayantel:
+    2mbps:
+      - 150
   smart_broadband:
     4mbps:
       - 135

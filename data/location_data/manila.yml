@@ -195,6 +195,16 @@ mercenary_online:
       - 32
       - 67
 
+overwatch_asia_servers:
+  pldt:
+    3mbps:
+      - 110
+
+overwatch_us_servers:
+  pldt:
+    3mbps:
+      - 290
+
 path_of_exile:
   pldt:
     5mbps:

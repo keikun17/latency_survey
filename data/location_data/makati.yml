@@ -67,6 +67,9 @@ dragons_nest_sea_servers:
   pldt:
     3mbps:
       - 90
+  smart_broadband:
+    lte:
+      - 250
 
 final_fantasy_14:
   pldt:

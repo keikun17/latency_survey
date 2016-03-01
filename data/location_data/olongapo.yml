@@ -12,9 +12,27 @@ counterstrike_sea_servers:
       - 150
 
 dota2_sea_servers:
+  converge:
+    4mbps:
+      - 40
   globe:
     3mbps:
       - 130
   pldt:
     1.5mbps:
       - 192
+
+league_of_legends_ph_servers:
+  converge:
+    4mbps:
+      - 14
+
+path_of_exile_garena_servers:
+  converge:
+    4mbps:
+      - 200
+
+path_of_exile_us_servers:
+  converge:
+    4mbps:
+      - 66

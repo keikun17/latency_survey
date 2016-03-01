@@ -3,3 +3,18 @@ dota2_sea_servers:
     1.5mbps:
       - 80
       - 100
+    5mbps:
+      - 70
+
+guildwars2:
+  pldt:
+    5mbps:
+      - 280
+      - 350
+
+league_of_legends_sea_servers:
+  pldt:
+    5mbps:
+      - 50
+
+
