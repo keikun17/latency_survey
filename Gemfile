@@ -3,7 +3,8 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~>3.3.10"
-gem "middleman-gh-pages"
+# gem "middleman-gh-pages"
+gem 'middleman-deploy'
 gem "middleman-pry"
 # gem "awesome_print"
 

@@ -88,6 +88,11 @@ set :images_dir, 'images'
 
 # Build-specific configuration
 configure :build do
+
+  # Delete build folder
+  require_relative "./lib/build_cleaner"
+  activate :build_cleaner
+
   # For example, change the Compass output style for deployment
   # activate :minify_css
 
@@ -104,5 +109,8 @@ configure :build do
   # set :http_prefix, "/Content/images/"
   set :relative_link, true
 end
+
+
+
 
 sprockets.append_path File.join "#{root}", 'source/components'
