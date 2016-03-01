@@ -1,4 +1,5 @@
-For Reference 
+For Reference
+
 
 # Bayandsl
 
@@ -6,6 +7,14 @@ For Reference
 1299	Up to 3mbps
 1699	Up to 4mbps
 2099	Up to 5mbps
+
+# Converge
+
+FTTX PLAN 2500	Up to 10 Mbps
+FTTX PLAN 3500	Up to 20 Mbps
+FTTX PLAN 5000	Up to 50 Mbps
+FTTX PLAN 8000	Up to 100 Mbps
+FTTX PLAN 18000	Up to 200 Mbps
 
 # PLDT Bundled
 
