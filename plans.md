@@ -10,11 +10,12 @@ For Reference
 
 # Converge
 
-FTTX PLAN 2500	Up to 10 Mbps
-FTTX PLAN 3500	Up to 20 Mbps
-FTTX PLAN 5000	Up to 50 Mbps
-FTTX PLAN 8000	Up to 100 Mbps
-FTTX PLAN 18000	Up to 200 Mbps
+FTTX PLAN ?????	Up to 4 Mbps
+FTTX PLAN 2500(A)	Up to 10 Mbps
+FTTX PLAN 3500(B)	Up to 20 Mbps
+FTTX PLAN 5000(C)	Up to 50 Mbps
+FTTX PLAN 8000(D)	Up to 100 Mbps
+FTTX PLAN 18000(E)	Up to 200 Mbps
 
 # PLDT Bundled
 
