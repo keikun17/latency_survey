@@ -4,7 +4,8 @@ source 'http://rubygems.org'
 
 gem "middleman", "~>3.3.10"
 # gem "middleman-gh-pages"
-gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
+# gem 'middleman-deploy', github: 'middleman-contrib/middleman-deploy', branch: 'master'
+gem 'middleman-deploy', "~> 1.0"
 gem "middleman-pry"
 # gem "awesome_print"
 
