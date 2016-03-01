@@ -41,6 +41,9 @@ counterstrike_eu_servers:
   bayantel:
     2mbps:
       - 600
+  pldt:
+    1.5mbps:
+      - 70
 
 counterstrike_sea_servers:
   pldt:
@@ -218,6 +221,8 @@ dota2_sea_servers:
     2mbps:
       - 104
       - 400
+    1.5mbps:
+      - 70
     8mbps:
       - 80
   globe:
